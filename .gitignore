@@ -1,0 +1,9 @@
+Cache/
+Errors/
+GPUCache/
+Logs/
+Utils/
+Screenshots/
+*.mfil
+*.dll
+*.exe

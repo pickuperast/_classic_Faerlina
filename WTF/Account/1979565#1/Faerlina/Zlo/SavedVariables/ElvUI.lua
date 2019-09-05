@@ -1,0 +1,382 @@
+
+ElvCharacterDB = {
+	["ChatEditHistory"] = {
+		"/cw Ihateorcs до сих пор 20?!", -- [1]
+	},
+	["ChatHistoryLog"] = {
+		{
+			"o u went offline", -- [1]
+			"Selector-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Selector", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			91, -- [11]
+			"Player-4408-00AF4B27", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edSelector|r",
+			[51] = 1567676878,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [1]
+		{
+			"but i said hell yes i want to be a pvp god", -- [1]
+			"Selector-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Selector", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			93, -- [11]
+			"Player-4408-00AF4B27", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edSelector|r",
+			[51] = 1567676884,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [2]
+		{
+			"I forgot myself.. I was fixing the ui", -- [1]
+			"Samsky-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Samsky", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			104, -- [11]
+			"Player-4408-00D60237", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffSamsky|r",
+			[51] = 1567676912,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [3]
+		{
+			"That's the way to go, baby!", -- [1]
+			"Samsky-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Samsky", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			107, -- [11]
+			"Player-4408-00D60237", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffSamsky|r",
+			[51] = 1567676920,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [4]
+		{
+			"monkaS a warlock", -- [1]
+			"Samsky-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Samsky", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			120, -- [11]
+			"Player-4408-00D60237", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffSamsky|r",
+			[51] = 1567676944,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [5]
+		{
+			"of course you will be", -- [1]
+			"Samsky-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Samsky", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			122, -- [11]
+			"Player-4408-00D60237", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffSamsky|r",
+			[51] = 1567676948,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [6]
+		{
+			"Pepega jarcos online", -- [1]
+			"Gomi-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gomi", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			127, -- [11]
+			"Player-4408-0095E1B3", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Gomi|r",
+			[51] = 1567676953,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [7]
+		{
+			"до сих пор 20?!", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ihateorcs", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			167, -- [11]
+			"Player-4408-00D56257", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1567703573,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
+		}, -- [8]
+		{
+			"\"Может платить подписку\" (Мика)", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ihateorcs", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			170, -- [11]
+			"Player-4408-00D56257", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1567703580,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [9]
+		{
+			"да", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ihateorcs", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			173, -- [11]
+			"Player-4408-00D56257", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1567703582,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [10]
+		{
+			"ну сегодня мало сидел", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ihateorcs", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			191, -- [11]
+			"Player-4408-00D56257", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1567703621,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [11]
+		{
+			"if you were really unemployed you'd be higher than level 20", -- [1]
+			"Blackpepsi", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Blackpepsi", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			234, -- [11]
+			"Player-4408-008B6352", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dBlackpepsi|r",
+			[51] = 1567703807,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [12]
+		{
+			"zug zug", -- [1]
+			"Slardarxt-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Slardarxt", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			238, -- [11]
+			"Player-4408-00DCEA27", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dSlardarxt|r",
+			[51] = 1567703819,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [13]
+		{
+			"but i respect it", -- [1]
+			"Blackpepsi-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Blackpepsi", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			239, -- [11]
+			"Player-4408-008B6352", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dBlackpepsi|r",
+			[51] = 1567703821,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [14]
+		{
+			"what if i have two lvl 20s", -- [1]
+			"Slardarxt-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Slardarxt", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			243, -- [11]
+			"Player-4408-00DCEA27", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dSlardarxt|r",
+			[51] = 1567703834,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [15]
+		{
+			"can I combine their levels to make it a 40", -- [1]
+			"Slardarxt-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Slardarxt", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			252, -- [11]
+			"Player-4408-00DCEA27", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dSlardarxt|r",
+			[51] = 1567703842,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [16]
+		{
+			"1231231231", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ihateorcs", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			258, -- [11]
+			"Player-4408-00D56257", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1567703854,
+			[50] = "CHAT_MSG_WHISPER",
+		}, -- [17]
+	},
+}

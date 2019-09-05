@@ -1,0 +1,122 @@
+
+GSEOptions = {
+	["HideLoginMessage"] = false,
+	["DefaultImportAction"] = "MERGE",
+	["showGSEoocqueue"] = true,
+	["COMMENT"] = "|cff55cc55",
+	["use2"] = false,
+	["STANDARDFUNCS"] = "|cff55ddcc",
+	["showGSEUsers"] = false,
+	["UnfoundSpellIDs"] = {
+	},
+	["UseWLMExportFormat"] = true,
+	["Updated801"] = true,
+	["use14"] = false,
+	["autoCreateMacroStubsClass"] = true,
+	["CreateGlobalButtons"] = false,
+	["EQUALS"] = "|cffccddee",
+	["NUMBER"] = "|cffffaa00",
+	["sendDebugOutputToChatWindow"] = false,
+	["debug"] = false,
+	["DefaultDisabledMacroIcon"] = "Interface\\Icons\\INV_MISC_BOOK_08",
+	["Update2305"] = true,
+	["ActiveSequenceVersions"] = {
+	},
+	["CONCAT"] = "|cffcc7777",
+	["CommandColour"] = "|cFF00FF00",
+	["DisabledSequences"] = {
+	},
+	["UNKNOWN"] = "|cffff6666",
+	["DebugPrintModConditionsOnKeyPress"] = false,
+	["overflowPersonalMacros"] = false,
+	["autoCreateMacroStubsGlobal"] = false,
+	["ErroneousSpellID"] = {
+	},
+	["requireTarget"] = false,
+	["sendDebugOutputToDebugOutput"] = false,
+	["hideSoundErrors"] = false,
+	["Update2410"] = true,
+	["hideUIErrors"] = false,
+	["STRING"] = "|cff888888",
+	["clearUIErrors"] = false,
+	["Update2415"] = true,
+	["Update2411"] = true,
+	["TitleColour"] = "|cFFFF0000",
+	["useTranslator"] = false,
+	["initialised"] = true,
+	["resetOOC"] = true,
+	["DebugModules"] = {
+		["Translator"] = false,
+		["GUI"] = false,
+		["Storage"] = false,
+		["Editor"] = false,
+		["Versions"] = false,
+		["API"] = false,
+		["Viewer"] = false,
+		["Transmission"] = false,
+	},
+	["INDENT"] = "|cffccaa88",
+	["MacroResetModifiers"] = {
+		["Alt"] = false,
+		["LeftControl"] = false,
+		["LeftButton"] = false,
+		["LeftAlt"] = false,
+		["RightShift"] = false,
+		["RightButton"] = false,
+		["AnyMod"] = false,
+		["Button5"] = false,
+		["LeftShift"] = false,
+		["Shift"] = false,
+		["Control"] = false,
+		["RightControl"] = false,
+		["MiddleButton"] = false,
+		["Button4"] = false,
+		["RightAlt"] = false,
+	},
+	["filterList"] = {
+		["All"] = false,
+		["Spec"] = true,
+		["Global"] = true,
+		["Class"] = true,
+	},
+	["EmphasisColour"] = "|cFFFFFF00",
+	["UseVerboseExportFormat"] = false,
+	["WOWSHORTCUTS"] = "|cffddaaff",
+	["RealtimeParse"] = false,
+	["deleteOrphansOnLogout"] = false,
+	["PromptSample"] = true,
+	["UnfoundSpells"] = {
+	},
+	["AuthorColour"] = "|cFF00D1FF",
+	["AddInPacks"] = {
+		["Samples"] = {
+			["Name"] = "Samples",
+			["Version"] = "2.4.16",
+			["SequenceNames"] = {
+				"Assorted Sample Macros", -- [1]
+			},
+		},
+	},
+	["showMiniMap"] = {
+		["hide"] = true,
+	},
+	["use6"] = false,
+	["use12"] = false,
+	["use13"] = false,
+	["NormalColour"] = "|cFFFFFFFF",
+	["use11"] = false,
+	["saveAllMacrosLocal"] = true,
+	["setDefaultIconQuestionMark"] = true,
+	["KEYWORD"] = "|cff88bbdd",
+	["use1"] = false,
+}
+GSELibrary = {
+	{
+	}, -- [1]
+	[5] = {
+	},
+	[4] = {
+	},
+	[0] = {
+	},
+}

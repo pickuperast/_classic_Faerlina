@@ -1,0 +1,25 @@
+VER 3 0000000000000006 "2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast Shadow Word: Pain
+/startattack
+END
+VER 3 0000000000000003 "BOSS" "INV_MISC_QUESTIONMARK"
+/target Barak Kodobane
+/startattack
+END
+VER 3 0000000000000004 "da" "INV_MISC_QUESTIONMARK"
+/targetenemy [nodead]
+END
+VER 3 0000000000000007 "dddd" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:Alt] Find Herbs; Find Minerals
+END
+VER 3 0000000000000001 "sad" "INV_MISC_QUESTIONMARK"
+/castsequence reset=target Smite, Mind Blast, Shadow Word: Pain, Shoot
+END
+VER 3 0000000000000002 "sss" "INV_MISC_QUESTIONMARK"
+/castsequence reset=target Smite, Mind Blast, Shadow Word: Pain, Attack
+END
+VER 3 0000000000000005 "STRTATK" "132150"
+/4 Somebody Give me invite for the NEW LAYER please
+END
