@@ -1,13 +1,13 @@
 
 AtlasLootClassicDB = {
-	["global"] = {
-		["__addonrevision"] = 99999999,
-	},
 	["profileKeys"] = {
 		["Zlo - Thunderfury"] = "Zlo - Thunderfury",
 		["Zlo - Faerlina"] = "Zlo - Faerlina",
 		["Unlockl - Faerlina"] = "Unlockl - Faerlina",
 		["Zlobag - Faerlina"] = "Zlobag - Faerlina",
+	},
+	["global"] = {
+		["__addonrevision"] = 99999999,
 	},
 	["profiles"] = {
 		["Zlo - Thunderfury"] = {

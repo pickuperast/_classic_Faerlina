@@ -11,11 +11,18 @@ AucAdvancedConfig = {
 				},
 			},
 		},
+		["stat"] = {
+			["sales"] = {
+				["ignoredsigs"] = {
+				},
+				["upgraded32"] = true,
+			},
+		},
 		["util"] = {
 			["appraiser"] = {
-				["item.16647.fixed.bid"] = 297,
-				["item.16647.match"] = false,
 				["item.16648.fixed.buy"] = 410,
+				["item.16647.match"] = false,
+				["item.16647.fixed.bid"] = 297,
 				["item.16648.fixed.bid"] = 369,
 				["item.2836.ignore"] = true,
 				["duration"] = 1440,
@@ -44,19 +51,12 @@ AucAdvancedConfig = {
 				["autosellreasonnoprompt"] = true,
 				["vendorunusablebop"] = true,
 				["ammailguix"] = 160,
-				["autosellbopnoprompt"] = true,
 				["SavedMailButtons"] = {
 				},
+				["autosellbopnoprompt"] = true,
 			},
 			["ahwindowcontrol"] = {
 				["ahframeanchors"] = "TOPLEFT:TOPLEFT:0.8:-104.0",
-			},
-		},
-		["stat"] = {
-			["sales"] = {
-				["upgraded32"] = true,
-				["ignoredsigs"] = {
-				},
 			},
 		},
 		["configator.top"] = 825,
@@ -64,36 +64,36 @@ AucAdvancedConfig = {
 	["version"] = 1,
 }
 AucAdvancedData = {
+	["Stats"] = {
+	},
 	["UtilSearchUiData"] = {
-		["Global"] = {
-			["configator.left"] = 580.87255859375,
-			["configator.top"] = 850.000122070312,
-		},
+		["Version"] = 1,
 		["Current"] = {
 			["columnsortcurSort"] = 3,
 			["snatch.itemsList"] = {
 			},
 			["columnsortcurDir"] = -1,
-			["vendor.allow.bid"] = false,
-			["disenchant.allow.buy"] = false,
 			["disenchant.allow.bid"] = false,
+			["disenchant.allow.buy"] = false,
+			["vendor.allow.bid"] = false,
 		},
-		["Version"] = 1,
+		["Global"] = {
+			["configator.left"] = 580.87255859375,
+			["configator.top"] = 850.000122070312,
+		},
 		["SavedSearches"] = {
 		},
 	},
-	["Stats"] = {
-	},
 }
 AucAdvancedServers = {
-	["Timestamp"] = 1567418316,
+	["KnownServerKeys"] = {
+		["Faerlina"] = 1567704702,
+		["Thunderfury"] = 1567634653,
+	},
 	["KnownRealms"] = {
 		["Faerlina"] = "Faerlina",
 		["Thunderfury"] = "Thunderfury",
 	},
-	["KnownServerKeys"] = {
-		["Faerlina"] = 1567703539,
-		["Thunderfury"] = 1567634653,
-	},
 	["Version"] = 1,
+	["Timestamp"] = 1567418316,
 }

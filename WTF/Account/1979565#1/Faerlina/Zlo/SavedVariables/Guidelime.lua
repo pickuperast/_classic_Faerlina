@@ -16,9 +16,9 @@ GuidelimeDataChar = {
 			true, -- [8]
 			[31] = true,
 			[12] = true,
-			[29] = true,
 			[23] = true,
 			[30] = true,
+			[29] = true,
 		},
 		["Custom guides 12-21 Bustea's Undead Guide"] = {
 		},
@@ -27,37 +27,22 @@ GuidelimeDataChar = {
 		["Ettern - Dungeon Quests 13-20 Ragefire Chasm"] = {
 		},
 		["Bustea's Horde Leveling guide 31-41 Bustea's Horde Guide"] = {
-		},
-		["Bustea's Horde Leveling guide 6-12 Freezy3 Undead Starter"] = {
-		},
-		["Bustea's Horde Leveling guide 12-21 Bustea's Undead Guide"] = {
 			nil, -- [1]
 			true, -- [2]
 			true, -- [3]
 			true, -- [4]
-			true, -- [5]
-			[31] = true,
-			[16] = true,
-			[64] = true,
-			[66] = true,
-			[35] = true,
-			[37] = true,
-			[38] = true,
-			[39] = true,
-			[21] = true,
-			[42] = true,
+			nil, -- [5]
+			true, -- [6]
+			nil, -- [7]
+			true, -- [8]
+			[20] = true,
+			[17] = true,
+			[15] = true,
+			[18] = true,
 			[12] = true,
-			[24] = true,
-			[65] = true,
-			[67] = true,
-			[76] = true,
-			[52] = true,
-			[74] = true,
-			[14] = true,
-			[41] = true,
-			[79] = true,
-			[57] = true,
-			[68] = true,
+			[16] = true,
+		},
+		["Bustea's Horde Leveling guide 6-12 Freezy3 Undead Starter"] = {
 		},
 		["Tactics/Sevenleaves' Leveling Guide 26-28 Ashenvale & BFD Solo"] = {
 			nil, -- [1]
@@ -91,6 +76,35 @@ GuidelimeDataChar = {
 			true, -- [29]
 			true, -- [30]
 			true, -- [31]
+		},
+		["Bustea's Horde Leveling guide 12-21 Bustea's Undead Guide"] = {
+			nil, -- [1]
+			true, -- [2]
+			true, -- [3]
+			true, -- [4]
+			true, -- [5]
+			[31] = true,
+			[16] = true,
+			[64] = true,
+			[66] = true,
+			[35] = true,
+			[37] = true,
+			[38] = true,
+			[39] = true,
+			[21] = true,
+			[42] = true,
+			[12] = true,
+			[24] = true,
+			[65] = true,
+			[67] = true,
+			[68] = true,
+			[52] = true,
+			[74] = true,
+			[14] = true,
+			[41] = true,
+			[79] = true,
+			[57] = true,
+			[76] = true,
 		},
 		["Bustea's Horde Leveling guide 21-31 Bustea's Horde Guide"] = {
 			nil, -- [1]
@@ -137,7 +151,7 @@ GuidelimeDataChar = {
 	["showCompletedSteps"] = false,
 	["mainFrameAlpha"] = 0.5,
 	["currentGuide"] = "Bustea's Horde Leveling guide 31-41 Bustea's Horde Guide",
-	["mainFrameY"] = 49.1180381774902,
+	["editorFrameX"] = 0,
 	["arrowX"] = -27.3822212219238,
 	["mainFrameFontSize"] = 14,
 	["showArrow"] = true,
@@ -150,13 +164,13 @@ GuidelimeDataChar = {
 		["Ettern - Dungeon Quests 13-20 Ragefire Chasm"] = 20,
 		["Bustea's Horde Leveling guide 31-41 Bustea's Horde Guide"] = 245,
 		["Bustea's Horde Leveling guide 6-12 Freezy3 Undead Starter"] = 58,
-		["Bustea's Horde Leveling guide 12-21 Bustea's Undead Guide"] = 159,
 		["Tactics/Sevenleaves' Leveling Guide 26-28 Ashenvale & BFD Solo"] = 36,
+		["Bustea's Horde Leveling guide 12-21 Bustea's Undead Guide"] = 159,
 		["Bustea's Horde Leveling guide 21-31 Bustea's Horde Guide"] = 170,
 	},
 	["arrowAlpha"] = 0.8,
 	["mainFrameShowing"] = true,
 	["version"] = "1.005",
 	["mainFrameRelative"] = "RIGHT",
-	["editorFrameX"] = 0,
+	["mainFrameY"] = 49.1180381774902,
 }

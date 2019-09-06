@@ -14,14 +14,14 @@ ThreatPlatesDB = {
 			["welcome"] = true,
 		},
 	},
+	["global"] = {
+		["version"] = "1.2.0",
+	},
 	["profileKeys"] = {
 		["Zlo - Thunderfury"] = "Default",
 		["Zlo - Faerlina"] = "Default",
 		["Unlockl - Faerlina"] = "Default",
 		["Zlobag - Faerlina"] = "Default",
-	},
-	["global"] = {
-		["version"] = "1.2.0",
 	},
 	["profiles"] = {
 		["Default"] = {
