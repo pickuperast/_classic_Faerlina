@@ -41,12 +41,12 @@ BeanCounterDB = {
 					["item:8175::::::::100:::::::"] = {
 					},
 				},
-				["2771"] = {
-					["item:2771::::::::100:::::::"] = {
-					},
-				},
 				["4238"] = {
 					["item:4238::::::::100:::::::"] = {
+					},
+				},
+				["2771"] = {
+					["item:2771::::::::100:::::::"] = {
 					},
 				},
 				["2452"] = {
@@ -173,18 +173,18 @@ BeanCounterDB = {
 						"1;;;;;4574;Ellá;1567422293;Vendor;H", -- [1]
 					},
 				},
-				["8175"] = {
-					["item:8175::::::::100:::::::"] = {
-						"1;;;;;1379;Oakle;1567424892;Vendor;H", -- [1]
-						"1;;;;;1379;Oakle;1567424891;Vendor;H", -- [2]
-						"1;;;;;1314;Oakle;1567422334;Vendor;H", -- [3]
-					},
-				},
 				["4238"] = {
 					["item:4238::::::::100:::::::"] = {
 						"1;;;;;1;Justinsane;1567426323;;H", -- [1]
 						"1;;;;;1;Justinsane;1567423733;;H", -- [2]
 						"1;;;;;1;Justinsane;1567423617;;H", -- [3]
+					},
+				},
+				["8175"] = {
+					["item:8175::::::::100:::::::"] = {
+						"1;;;;;1379;Oakle;1567424892;Vendor;H", -- [1]
+						"1;;;;;1379;Oakle;1567424891;Vendor;H", -- [2]
+						"1;;;;;1314;Oakle;1567422334;Vendor;H", -- [3]
 					},
 				},
 				["2452"] = {
@@ -365,44 +365,44 @@ BeanCounterDBSettings = {
 			["version"] = 3.04,
 			["faction"] = "Horde",
 			["tasks.compactDB"] = 1567750349,
-			["wealth"] = 256188,
+			["wealth"] = 256361,
 			["tasks.prunePostedDB"] = 1567750349,
 			["mailbox"] = {
 				{
-					["sender"] = "Zlobag",
 					["read"] = 2,
-					["subject"] = "Copper Ore (10)",
+					["sender"] = "Zlobag",
 					["time"] = 30.9979400634766,
+					["subject"] = "Copper Ore (10)",
 				}, -- [1]
 				{
-					["sender"] = "Zlobag",
 					["read"] = 2,
-					["subject"] = "Linen Cloth (20)",
+					["sender"] = "Zlobag",
 					["time"] = 30.997917175293,
+					["subject"] = "Linen Cloth (20)",
 				}, -- [2]
 				{
-					["sender"] = "Zlobag",
 					["read"] = 2,
-					["subject"] = "Copper Ore (10)",
+					["sender"] = "Zlobag",
 					["time"] = 30.9978942871094,
+					["subject"] = "Copper Ore (10)",
 				}, -- [3]
 				{
-					["sender"] = "Zlobag",
 					["read"] = 2,
-					["subject"] = "Recipe: Savory Deviate Delight",
+					["sender"] = "Zlobag",
 					["time"] = 30.9978351593018,
+					["subject"] = "Recipe: Savory Deviate Delight",
 				}, -- [4]
 				{
-					["sender"] = "Zlobag",
 					["read"] = 2,
-					["subject"] = "Copper Ore (10)",
+					["sender"] = "Zlobag",
 					["time"] = 30.9977779388428,
+					["subject"] = "Copper Ore (10)",
 				}, -- [5]
 				{
-					["sender"] = "Horde Auction House",
 					["read"] = 2,
-					["subject"] = "Auction won: Bloodspattered Loincloth of the Whale",
+					["sender"] = "Horde Auction House",
 					["time"] = 28.049108505249,
+					["subject"] = "Auction won: Bloodspattered Loincloth of the Whale",
 				}, -- [6]
 			},
 		},
@@ -447,18 +447,18 @@ BeanCounterDBNames = {
 	["2447:"] = "cffffffff;Peacebloom",
 	["863:508"] = "cff1eff00;Gloom Reaper of the Wolf",
 	["15493:1015"] = "cff1eff00;Bloodspattered Loincloth of the Whale",
-	["8175:"] = "cff1eff00;Nightscape Tunic",
+	["2452:"] = "cffffffff;Swiftthistle",
 	["3201:1112"] = "cff1eff00;Barbarian War Axe of the Boar",
 	["765:"] = "cffffffff;Silverleaf",
-	["6531:"] = "cff1eff00;Barbaric Cloth Robe",
+	["16647:"] = "cffffffff;Shredder Operating Manual - Page 3",
 	["2450:"] = "cffffffff;Briarthorn",
-	["2452:"] = "cffffffff;Swiftthistle",
+	["8175:"] = "cff1eff00;Nightscape Tunic",
 	["2771:"] = "cffffffff;Tin Ore",
 	["785:"] = "cffffffff;Mageroyal",
 	["4352:"] = "cff1eff00;Pattern: Boots of the Enchanter",
-	["4306:"] = "cffffffff;Silk Cloth",
-	["864:1188"] = "cff1eff00;Knightly Longsword of the Bear",
 	["2449:"] = "cffffffff;Earthroot",
+	["864:1188"] = "cff1eff00;Knightly Longsword of the Bear",
+	["4306:"] = "cffffffff;Silk Cloth",
 	["4238:"] = "cffffffff;Linen Bag",
 	["16654:"] = "cffffffff;Shredder Operating Manual - Page 10",
 	["16646:"] = "cffffffff;Shredder Operating Manual - Page 2",
@@ -466,7 +466,7 @@ BeanCounterDBNames = {
 	["16652:"] = "cffffffff;Shredder Operating Manual - Page 8",
 	["12985:"] = "cff0070dd;Ring of Defense",
 	["16645:"] = "cffffffff;Shredder Operating Manual - Page 1",
-	["16647:"] = "cffffffff;Shredder Operating Manual - Page 3",
+	["6531:"] = "cff1eff00;Barbaric Cloth Robe",
 	["16648:"] = "cffffffff;Shredder Operating Manual - Page 4",
 }
 BeanCounterAccountDB = nil

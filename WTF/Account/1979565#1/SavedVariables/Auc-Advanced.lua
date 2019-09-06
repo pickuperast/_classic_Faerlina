@@ -14,9 +14,9 @@ AucAdvancedConfig = {
 		["util"] = {
 			["appraiser"] = {
 				["item.16647.fixed.bid"] = 297,
-				["item.2841.ignore"] = true,
-				["item.16648.fixed.buy"] = 410,
 				["item.16647.match"] = false,
+				["item.16648.fixed.buy"] = 410,
+				["item.16648.fixed.bid"] = 369,
 				["item.2836.ignore"] = true,
 				["duration"] = 1440,
 				["item.785.duration"] = 1440,
@@ -27,7 +27,7 @@ AucAdvancedConfig = {
 				["item.16647.model"] = "fixed",
 				["columnsortcurDir"] = 1,
 				["item.2452.model"] = "market",
-				["item.16648.fixed.bid"] = 369,
+				["item.2841.ignore"] = true,
 				["item.16648.model"] = "fixed",
 			},
 			["EasyBuyout"] = {
@@ -86,14 +86,14 @@ AucAdvancedData = {
 	},
 }
 AucAdvancedServers = {
-	["Timestamp"] = 1567418316,
 	["KnownRealms"] = {
 		["Faerlina"] = "Faerlina",
 		["Thunderfury"] = "Thunderfury",
 	},
+	["Timestamp"] = 1567418316,
+	["Version"] = 1,
 	["KnownServerKeys"] = {
-		["Faerlina"] = 1567714069,
+		["Faerlina"] = 1567769184,
 		["Thunderfury"] = 1567634653,
 	},
-	["Version"] = 1,
 }

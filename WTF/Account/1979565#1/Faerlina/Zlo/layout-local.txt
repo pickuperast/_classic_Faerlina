@@ -1,4 +1,11 @@
 Version: 1
+Frame: f1_HealBot_Action
+FrameLevel: 1
+Anchor: LEFT
+X: 229
+Y: -33
+W: 160
+H: 97
 Frame: AAPClassic_ArrowFrame
 FrameLevel: 1
 Anchor: TOPLEFT

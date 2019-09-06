@@ -22,9 +22,9 @@ AtlasLootClassicDB = {
 					1.00001645088196, -- [5]
 				},
 				["selected"] = {
-					nil, -- [1]
-					"RazorfenKraul", -- [2]
-					2, -- [3]
+					"AtlasLootClassic_Crafting", -- [1]
+					"Blacksmithing", -- [2]
+					nil, -- [3]
 					1, -- [4]
 					0, -- [5]
 				},
