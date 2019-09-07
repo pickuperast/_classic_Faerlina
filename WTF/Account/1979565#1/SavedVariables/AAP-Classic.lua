@@ -3,11 +3,13 @@ AAPC1 = {
 	["Faerlina"] = {
 		["Zlo"] = {
 			["Elite"] = {
+				[5088] = 1,
+				[5151] = 1,
 			},
 			["Completed"] = {
 			},
 			["Zones"] = {
-				["28-30TN-Hillsbrad"] = 14,
+				["28-30TN-Hillsbrad"] = 59,
 				["20-TB-Prep"] = 4,
 				["12-15TheBarrens"] = 7,
 				["16-20TheBarrens"] = 2,

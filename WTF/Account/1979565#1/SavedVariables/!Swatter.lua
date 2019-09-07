@@ -5,7 +5,7 @@ SwatterData = {
 	["combat"] = false,
 	["errors"] = {
 		{
-			["message"] = "Note: AddOn ElvUI attempted to call a protected function (RaidGroupButton30:Hide()) during combat lockdown.",
+			["message"] = "Note: AddOn ElvUI attempted to call a protected function (RaidGroupButton34:Hide()) during combat lockdown.",
 			["count"] = 69,
 			["addons"] = "  Swatter, v8.2.6377 (SwimmingSeadragon)\n  AAPClassic, v0.12\n  AtlasLootClassic, vv1.1.2-beta\n  AtlasLootClassicCrafting, vv1.1.2-beta\n  AtlasLootClassicDungeonsAndRaids, vv1.1.2-beta\n  AucAdvanced, v8.2.6385 (SwimmingSeadragon)\n  AucFilterBasic, v8.2.6364 (SwimmingSeadragon)\n  AucScanData, v8.2.6365 (SwimmingSeadragon)\n  AucStatHistogram, v8.2.6366 (SwimmingSeadragon)\n  AucStatiLevel, v8.2.6370 (SwimmingSeadragon)\n  AucStatPurchased, v8.2.6367 (SwimmingSeadragon)\n  AucStatSimple, v8.2.6368 (SwimmingSeadragon)\n  AucStatStdDev, v8.2.6369 (SwimmingSeadragon)\n  AucUtilFixAH, v8.2.6371 (SwimmingSeadragon)\n  BeanCounter, v8.2.6381 (SwimmingSeadragon)\n  ChatLinkIcons, v2.0\n  ClassicAutoQuest, v1.1.0\n  DBMCore, v1.13.1\n  DBMDefaultSkin, v\n  DBMPartyClassic, v\n  DBMStatusBarTimers, v\n  Details, v\n  ElvUI, v1.03\n  Enchantrix, v8.2.6392 (SwimmingSeadragon)\n  FasterLooting, v1.0.0\n  GSE, v2.4.16\n  GSEGUI, v2.4.16\n  GSELDB, v2.4.16\n  Guidelime, v1.005\n  GuidelimeBusteas160leveling, v0.9.6-Beta\n  GuidelimeSevenleaves, v0.001-Beta\n  HealBot, v8.2.0.3\n  Informant, v8.2.6374 (SwimmingSeadragon)\n  Necrosis, v5.0\n  OmniCC, v8.2.3\n  OmniCCConfig, v\n  QuestieDevmaster, v4.0.5 ALPHA\n  SharedMedia, v3.1.0-191\n  SlideBar, v8.2.6375 (SwimmingSeadragon)\n  Stubby, v8.2.6376 (SwimmingSeadragon)\n  TidyPlatesThreatPlates, v1.2.0\n  VendorPrice, v1.1.4\n  BlizRuntimeLib_enUS v1.13.2.11302 <none>\n  (ck=56b)\n",
 			["timestamp"] = "2019-09-02 19:22:17",
@@ -13,7 +13,7 @@ SwatterData = {
 			["stack"] = "[C]: in function `Hide'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:511: in function `RaidGroupFrame_Update'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:183: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:168>\n",
 		}, -- [1]
 		{
-			["message"] = "Note: AddOn ElvUI attempted to call a protected function (RaidGroupButton31:Hide()) during combat lockdown.",
+			["message"] = "Note: AddOn ElvUI attempted to call a protected function (RaidGroupButton35:Hide()) during combat lockdown.",
 			["count"] = 69,
 			["addons"] = "  Swatter, v8.2.6377 (SwimmingSeadragon)\n  AAPClassic, v0.12\n  AtlasLootClassic, vv1.1.2-beta\n  AtlasLootClassicCrafting, vv1.1.2-beta\n  AtlasLootClassicDungeonsAndRaids, vv1.1.2-beta\n  AucAdvanced, v8.2.6385 (SwimmingSeadragon)\n  AucFilterBasic, v8.2.6364 (SwimmingSeadragon)\n  AucScanData, v8.2.6365 (SwimmingSeadragon)\n  AucStatHistogram, v8.2.6366 (SwimmingSeadragon)\n  AucStatiLevel, v8.2.6370 (SwimmingSeadragon)\n  AucStatPurchased, v8.2.6367 (SwimmingSeadragon)\n  AucStatSimple, v8.2.6368 (SwimmingSeadragon)\n  AucStatStdDev, v8.2.6369 (SwimmingSeadragon)\n  AucUtilFixAH, v8.2.6371 (SwimmingSeadragon)\n  BeanCounter, v8.2.6381 (SwimmingSeadragon)\n  ChatLinkIcons, v2.0\n  ClassicAutoQuest, v1.1.0\n  DBMCore, v1.13.1\n  DBMDefaultSkin, v\n  DBMPartyClassic, v\n  DBMStatusBarTimers, v\n  Details, v\n  ElvUI, v1.03\n  Enchantrix, v8.2.6392 (SwimmingSeadragon)\n  FasterLooting, v1.0.0\n  GSE, v2.4.16\n  GSEGUI, v2.4.16\n  GSELDB, v2.4.16\n  Guidelime, v1.005\n  GuidelimeBusteas160leveling, v0.9.6-Beta\n  GuidelimeSevenleaves, v0.001-Beta\n  HealBot, v8.2.0.3\n  Informant, v8.2.6374 (SwimmingSeadragon)\n  Necrosis, v5.0\n  OmniCC, v8.2.3\n  OmniCCConfig, v\n  QuestieDevmaster, v4.0.5 ALPHA\n  SharedMedia, v3.1.0-191\n  SlideBar, v8.2.6375 (SwimmingSeadragon)\n  Stubby, v8.2.6376 (SwimmingSeadragon)\n  TidyPlatesThreatPlates, v1.2.0\n  VendorPrice, v1.1.4\n  BlizRuntimeLib_enUS v1.13.2.11302 <none>\n  (ck=56b)\n",
 			["timestamp"] = "2019-09-02 19:22:17",
@@ -21,7 +21,7 @@ SwatterData = {
 			["stack"] = "[C]: in function `Hide'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:511: in function `RaidGroupFrame_Update'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:183: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:168>\n",
 		}, -- [2]
 		{
-			["message"] = "Note: AddOn ElvUI attempted to call a protected function (RaidGroupButton32:Hide()) during combat lockdown.",
+			["message"] = "Note: AddOn ElvUI attempted to call a protected function (RaidGroupButton36:Hide()) during combat lockdown.",
 			["count"] = 69,
 			["addons"] = "  Swatter, v8.2.6377 (SwimmingSeadragon)\n  AAPClassic, v0.12\n  AtlasLootClassic, vv1.1.2-beta\n  AtlasLootClassicCrafting, vv1.1.2-beta\n  AtlasLootClassicDungeonsAndRaids, vv1.1.2-beta\n  AucAdvanced, v8.2.6385 (SwimmingSeadragon)\n  AucFilterBasic, v8.2.6364 (SwimmingSeadragon)\n  AucScanData, v8.2.6365 (SwimmingSeadragon)\n  AucStatHistogram, v8.2.6366 (SwimmingSeadragon)\n  AucStatiLevel, v8.2.6370 (SwimmingSeadragon)\n  AucStatPurchased, v8.2.6367 (SwimmingSeadragon)\n  AucStatSimple, v8.2.6368 (SwimmingSeadragon)\n  AucStatStdDev, v8.2.6369 (SwimmingSeadragon)\n  AucUtilFixAH, v8.2.6371 (SwimmingSeadragon)\n  BeanCounter, v8.2.6381 (SwimmingSeadragon)\n  ChatLinkIcons, v2.0\n  ClassicAutoQuest, v1.1.0\n  DBMCore, v1.13.1\n  DBMDefaultSkin, v\n  DBMPartyClassic, v\n  DBMStatusBarTimers, v\n  Details, v\n  ElvUI, v1.03\n  Enchantrix, v8.2.6392 (SwimmingSeadragon)\n  FasterLooting, v1.0.0\n  GSE, v2.4.16\n  GSEGUI, v2.4.16\n  GSELDB, v2.4.16\n  Guidelime, v1.005\n  GuidelimeBusteas160leveling, v0.9.6-Beta\n  GuidelimeSevenleaves, v0.001-Beta\n  HealBot, v8.2.0.3\n  Informant, v8.2.6374 (SwimmingSeadragon)\n  Necrosis, v5.0\n  OmniCC, v8.2.3\n  OmniCCConfig, v\n  QuestieDevmaster, v4.0.5 ALPHA\n  SharedMedia, v3.1.0-191\n  SlideBar, v8.2.6375 (SwimmingSeadragon)\n  Stubby, v8.2.6376 (SwimmingSeadragon)\n  TidyPlatesThreatPlates, v1.2.0\n  VendorPrice, v1.1.4\n  BlizRuntimeLib_enUS v1.13.2.11302 <none>\n  (ck=56b)\n",
 			["timestamp"] = "2019-09-02 19:22:17",
@@ -29,7 +29,7 @@ SwatterData = {
 			["stack"] = "[C]: in function `Hide'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:511: in function `RaidGroupFrame_Update'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:183: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:168>\n",
 		}, -- [3]
 		{
-			["message"] = "Note: AddOn ElvUI attempted to call a protected function (RaidGroupButton33:Hide()) during combat lockdown.",
+			["message"] = "Note: AddOn ElvUI attempted to call a protected function (RaidGroupButton37:Hide()) during combat lockdown.",
 			["count"] = 69,
 			["addons"] = "  Swatter, v8.2.6377 (SwimmingSeadragon)\n  AAPClassic, v0.12\n  AtlasLootClassic, vv1.1.2-beta\n  AtlasLootClassicCrafting, vv1.1.2-beta\n  AtlasLootClassicDungeonsAndRaids, vv1.1.2-beta\n  AucAdvanced, v8.2.6385 (SwimmingSeadragon)\n  AucFilterBasic, v8.2.6364 (SwimmingSeadragon)\n  AucScanData, v8.2.6365 (SwimmingSeadragon)\n  AucStatHistogram, v8.2.6366 (SwimmingSeadragon)\n  AucStatiLevel, v8.2.6370 (SwimmingSeadragon)\n  AucStatPurchased, v8.2.6367 (SwimmingSeadragon)\n  AucStatSimple, v8.2.6368 (SwimmingSeadragon)\n  AucStatStdDev, v8.2.6369 (SwimmingSeadragon)\n  AucUtilFixAH, v8.2.6371 (SwimmingSeadragon)\n  BeanCounter, v8.2.6381 (SwimmingSeadragon)\n  ChatLinkIcons, v2.0\n  ClassicAutoQuest, v1.1.0\n  DBMCore, v1.13.1\n  DBMDefaultSkin, v\n  DBMPartyClassic, v\n  DBMStatusBarTimers, v\n  Details, v\n  ElvUI, v1.03\n  Enchantrix, v8.2.6392 (SwimmingSeadragon)\n  FasterLooting, v1.0.0\n  GSE, v2.4.16\n  GSEGUI, v2.4.16\n  GSELDB, v2.4.16\n  Guidelime, v1.005\n  GuidelimeBusteas160leveling, v0.9.6-Beta\n  GuidelimeSevenleaves, v0.001-Beta\n  HealBot, v8.2.0.3\n  Informant, v8.2.6374 (SwimmingSeadragon)\n  Necrosis, v5.0\n  OmniCC, v8.2.3\n  OmniCCConfig, v\n  QuestieDevmaster, v4.0.5 ALPHA\n  SharedMedia, v3.1.0-191\n  SlideBar, v8.2.6375 (SwimmingSeadragon)\n  Stubby, v8.2.6376 (SwimmingSeadragon)\n  TidyPlatesThreatPlates, v1.2.0\n  VendorPrice, v1.1.4\n  BlizRuntimeLib_enUS v1.13.2.11302 <none>\n  (ck=56b)\n",
 			["timestamp"] = "2019-09-02 19:22:17",
@@ -37,7 +37,7 @@ SwatterData = {
 			["stack"] = "[C]: in function `Hide'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:511: in function `RaidGroupFrame_Update'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:183: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:168>\n",
 		}, -- [4]
 		{
-			["message"] = "Note: AddOn ElvUI attempted to call a protected function (RaidGroupButton34:Hide()) during combat lockdown.",
+			["message"] = "Note: AddOn ElvUI attempted to call a protected function (RaidGroupButton38:Hide()) during combat lockdown.",
 			["count"] = 69,
 			["addons"] = "  Swatter, v8.2.6377 (SwimmingSeadragon)\n  AAPClassic, v0.12\n  AtlasLootClassic, vv1.1.2-beta\n  AtlasLootClassicCrafting, vv1.1.2-beta\n  AtlasLootClassicDungeonsAndRaids, vv1.1.2-beta\n  AucAdvanced, v8.2.6385 (SwimmingSeadragon)\n  AucFilterBasic, v8.2.6364 (SwimmingSeadragon)\n  AucScanData, v8.2.6365 (SwimmingSeadragon)\n  AucStatHistogram, v8.2.6366 (SwimmingSeadragon)\n  AucStatiLevel, v8.2.6370 (SwimmingSeadragon)\n  AucStatPurchased, v8.2.6367 (SwimmingSeadragon)\n  AucStatSimple, v8.2.6368 (SwimmingSeadragon)\n  AucStatStdDev, v8.2.6369 (SwimmingSeadragon)\n  AucUtilFixAH, v8.2.6371 (SwimmingSeadragon)\n  BeanCounter, v8.2.6381 (SwimmingSeadragon)\n  ChatLinkIcons, v2.0\n  ClassicAutoQuest, v1.1.0\n  DBMCore, v1.13.1\n  DBMDefaultSkin, v\n  DBMPartyClassic, v\n  DBMStatusBarTimers, v\n  Details, v\n  ElvUI, v1.03\n  Enchantrix, v8.2.6392 (SwimmingSeadragon)\n  FasterLooting, v1.0.0\n  GSE, v2.4.16\n  GSEGUI, v2.4.16\n  GSELDB, v2.4.16\n  Guidelime, v1.005\n  GuidelimeBusteas160leveling, v0.9.6-Beta\n  GuidelimeSevenleaves, v0.001-Beta\n  HealBot, v8.2.0.3\n  Informant, v8.2.6374 (SwimmingSeadragon)\n  Necrosis, v5.0\n  OmniCC, v8.2.3\n  OmniCCConfig, v\n  QuestieDevmaster, v4.0.5 ALPHA\n  SharedMedia, v3.1.0-191\n  SlideBar, v8.2.6375 (SwimmingSeadragon)\n  Stubby, v8.2.6376 (SwimmingSeadragon)\n  TidyPlatesThreatPlates, v1.2.0\n  VendorPrice, v1.1.4\n  BlizRuntimeLib_enUS v1.13.2.11302 <none>\n  (ck=56b)\n",
 			["timestamp"] = "2019-09-02 19:22:17",
@@ -45,7 +45,7 @@ SwatterData = {
 			["stack"] = "[C]: in function `Hide'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:511: in function `RaidGroupFrame_Update'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:183: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:168>\n",
 		}, -- [5]
 		{
-			["message"] = "Note: AddOn ElvUI attempted to call a protected function (RaidGroupButton35:Hide()) during combat lockdown.",
+			["message"] = "Note: AddOn ElvUI attempted to call a protected function (RaidGroupButton39:Hide()) during combat lockdown.",
 			["count"] = 69,
 			["addons"] = "  Swatter, v8.2.6377 (SwimmingSeadragon)\n  AAPClassic, v0.12\n  AtlasLootClassic, vv1.1.2-beta\n  AtlasLootClassicCrafting, vv1.1.2-beta\n  AtlasLootClassicDungeonsAndRaids, vv1.1.2-beta\n  AucAdvanced, v8.2.6385 (SwimmingSeadragon)\n  AucFilterBasic, v8.2.6364 (SwimmingSeadragon)\n  AucScanData, v8.2.6365 (SwimmingSeadragon)\n  AucStatHistogram, v8.2.6366 (SwimmingSeadragon)\n  AucStatiLevel, v8.2.6370 (SwimmingSeadragon)\n  AucStatPurchased, v8.2.6367 (SwimmingSeadragon)\n  AucStatSimple, v8.2.6368 (SwimmingSeadragon)\n  AucStatStdDev, v8.2.6369 (SwimmingSeadragon)\n  AucUtilFixAH, v8.2.6371 (SwimmingSeadragon)\n  BeanCounter, v8.2.6381 (SwimmingSeadragon)\n  ChatLinkIcons, v2.0\n  ClassicAutoQuest, v1.1.0\n  DBMCore, v1.13.1\n  DBMDefaultSkin, v\n  DBMPartyClassic, v\n  DBMStatusBarTimers, v\n  Details, v\n  ElvUI, v1.03\n  Enchantrix, v8.2.6392 (SwimmingSeadragon)\n  FasterLooting, v1.0.0\n  GSE, v2.4.16\n  GSEGUI, v2.4.16\n  GSELDB, v2.4.16\n  Guidelime, v1.005\n  GuidelimeBusteas160leveling, v0.9.6-Beta\n  GuidelimeSevenleaves, v0.001-Beta\n  HealBot, v8.2.0.3\n  Informant, v8.2.6374 (SwimmingSeadragon)\n  Necrosis, v5.0\n  OmniCC, v8.2.3\n  OmniCCConfig, v\n  QuestieDevmaster, v4.0.5 ALPHA\n  SharedMedia, v3.1.0-191\n  SlideBar, v8.2.6375 (SwimmingSeadragon)\n  Stubby, v8.2.6376 (SwimmingSeadragon)\n  TidyPlatesThreatPlates, v1.2.0\n  VendorPrice, v1.1.4\n  BlizRuntimeLib_enUS v1.13.2.11302 <none>\n  (ck=56b)\n",
 			["timestamp"] = "2019-09-02 19:22:17",
@@ -53,7 +53,7 @@ SwatterData = {
 			["stack"] = "[C]: in function `Hide'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:511: in function `RaidGroupFrame_Update'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:183: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:168>\n",
 		}, -- [6]
 		{
-			["message"] = "Note: AddOn ElvUI attempted to call a protected function (RaidGroupButton36:Hide()) during combat lockdown.",
+			["message"] = "Note: AddOn ElvUI attempted to call a protected function (RaidGroupButton40:Hide()) during combat lockdown.",
 			["count"] = 69,
 			["addons"] = "  Swatter, v8.2.6377 (SwimmingSeadragon)\n  AAPClassic, v0.12\n  AtlasLootClassic, vv1.1.2-beta\n  AtlasLootClassicCrafting, vv1.1.2-beta\n  AtlasLootClassicDungeonsAndRaids, vv1.1.2-beta\n  AucAdvanced, v8.2.6385 (SwimmingSeadragon)\n  AucFilterBasic, v8.2.6364 (SwimmingSeadragon)\n  AucScanData, v8.2.6365 (SwimmingSeadragon)\n  AucStatHistogram, v8.2.6366 (SwimmingSeadragon)\n  AucStatiLevel, v8.2.6370 (SwimmingSeadragon)\n  AucStatPurchased, v8.2.6367 (SwimmingSeadragon)\n  AucStatSimple, v8.2.6368 (SwimmingSeadragon)\n  AucStatStdDev, v8.2.6369 (SwimmingSeadragon)\n  AucUtilFixAH, v8.2.6371 (SwimmingSeadragon)\n  BeanCounter, v8.2.6381 (SwimmingSeadragon)\n  ChatLinkIcons, v2.0\n  ClassicAutoQuest, v1.1.0\n  DBMCore, v1.13.1\n  DBMDefaultSkin, v\n  DBMPartyClassic, v\n  DBMStatusBarTimers, v\n  Details, v\n  ElvUI, v1.03\n  Enchantrix, v8.2.6392 (SwimmingSeadragon)\n  FasterLooting, v1.0.0\n  GSE, v2.4.16\n  GSEGUI, v2.4.16\n  GSELDB, v2.4.16\n  Guidelime, v1.005\n  GuidelimeBusteas160leveling, v0.9.6-Beta\n  GuidelimeSevenleaves, v0.001-Beta\n  HealBot, v8.2.0.3\n  Informant, v8.2.6374 (SwimmingSeadragon)\n  Necrosis, v5.0\n  OmniCC, v8.2.3\n  OmniCCConfig, v\n  QuestieDevmaster, v4.0.5 ALPHA\n  SharedMedia, v3.1.0-191\n  SlideBar, v8.2.6375 (SwimmingSeadragon)\n  Stubby, v8.2.6376 (SwimmingSeadragon)\n  TidyPlatesThreatPlates, v1.2.0\n  VendorPrice, v1.1.4\n  BlizRuntimeLib_enUS v1.13.2.11302 <none>\n  (ck=56b)\n",
 			["timestamp"] = "2019-09-02 19:22:17",
@@ -61,45 +61,13 @@ SwatterData = {
 			["stack"] = "[C]: in function `Hide'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:511: in function `RaidGroupFrame_Update'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:183: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:168>\n",
 		}, -- [7]
 		{
-			["message"] = "Note: AddOn ElvUI attempted to call a protected function (RaidGroupButton37:Hide()) during combat lockdown.",
-			["count"] = 69,
-			["addons"] = "  Swatter, v8.2.6377 (SwimmingSeadragon)\n  AAPClassic, v0.12\n  AtlasLootClassic, vv1.1.2-beta\n  AtlasLootClassicCrafting, vv1.1.2-beta\n  AtlasLootClassicDungeonsAndRaids, vv1.1.2-beta\n  AucAdvanced, v8.2.6385 (SwimmingSeadragon)\n  AucFilterBasic, v8.2.6364 (SwimmingSeadragon)\n  AucScanData, v8.2.6365 (SwimmingSeadragon)\n  AucStatHistogram, v8.2.6366 (SwimmingSeadragon)\n  AucStatiLevel, v8.2.6370 (SwimmingSeadragon)\n  AucStatPurchased, v8.2.6367 (SwimmingSeadragon)\n  AucStatSimple, v8.2.6368 (SwimmingSeadragon)\n  AucStatStdDev, v8.2.6369 (SwimmingSeadragon)\n  AucUtilFixAH, v8.2.6371 (SwimmingSeadragon)\n  BeanCounter, v8.2.6381 (SwimmingSeadragon)\n  ChatLinkIcons, v2.0\n  ClassicAutoQuest, v1.1.0\n  DBMCore, v1.13.1\n  DBMDefaultSkin, v\n  DBMPartyClassic, v\n  DBMStatusBarTimers, v\n  Details, v\n  ElvUI, v1.03\n  Enchantrix, v8.2.6392 (SwimmingSeadragon)\n  FasterLooting, v1.0.0\n  GSE, v2.4.16\n  GSEGUI, v2.4.16\n  GSELDB, v2.4.16\n  Guidelime, v1.005\n  GuidelimeBusteas160leveling, v0.9.6-Beta\n  GuidelimeSevenleaves, v0.001-Beta\n  HealBot, v8.2.0.3\n  Informant, v8.2.6374 (SwimmingSeadragon)\n  Necrosis, v5.0\n  OmniCC, v8.2.3\n  OmniCCConfig, v\n  QuestieDevmaster, v4.0.5 ALPHA\n  SharedMedia, v3.1.0-191\n  SlideBar, v8.2.6375 (SwimmingSeadragon)\n  Stubby, v8.2.6376 (SwimmingSeadragon)\n  TidyPlatesThreatPlates, v1.2.0\n  VendorPrice, v1.1.4\n  BlizRuntimeLib_enUS v1.13.2.11302 <none>\n  (ck=56b)\n",
-			["timestamp"] = "2019-09-02 19:22:17",
-			["context"] = "AddOn: ElvUI",
-			["stack"] = "[C]: in function `Hide'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:511: in function `RaidGroupFrame_Update'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:183: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:168>\n",
-		}, -- [8]
-		{
-			["message"] = "Note: AddOn ElvUI attempted to call a protected function (RaidGroupButton38:Hide()) during combat lockdown.",
-			["count"] = 69,
-			["addons"] = "  Swatter, v8.2.6377 (SwimmingSeadragon)\n  AAPClassic, v0.12\n  AtlasLootClassic, vv1.1.2-beta\n  AtlasLootClassicCrafting, vv1.1.2-beta\n  AtlasLootClassicDungeonsAndRaids, vv1.1.2-beta\n  AucAdvanced, v8.2.6385 (SwimmingSeadragon)\n  AucFilterBasic, v8.2.6364 (SwimmingSeadragon)\n  AucScanData, v8.2.6365 (SwimmingSeadragon)\n  AucStatHistogram, v8.2.6366 (SwimmingSeadragon)\n  AucStatiLevel, v8.2.6370 (SwimmingSeadragon)\n  AucStatPurchased, v8.2.6367 (SwimmingSeadragon)\n  AucStatSimple, v8.2.6368 (SwimmingSeadragon)\n  AucStatStdDev, v8.2.6369 (SwimmingSeadragon)\n  AucUtilFixAH, v8.2.6371 (SwimmingSeadragon)\n  BeanCounter, v8.2.6381 (SwimmingSeadragon)\n  ChatLinkIcons, v2.0\n  ClassicAutoQuest, v1.1.0\n  DBMCore, v1.13.1\n  DBMDefaultSkin, v\n  DBMPartyClassic, v\n  DBMStatusBarTimers, v\n  Details, v\n  ElvUI, v1.03\n  Enchantrix, v8.2.6392 (SwimmingSeadragon)\n  FasterLooting, v1.0.0\n  GSE, v2.4.16\n  GSEGUI, v2.4.16\n  GSELDB, v2.4.16\n  Guidelime, v1.005\n  GuidelimeBusteas160leveling, v0.9.6-Beta\n  GuidelimeSevenleaves, v0.001-Beta\n  HealBot, v8.2.0.3\n  Informant, v8.2.6374 (SwimmingSeadragon)\n  Necrosis, v5.0\n  OmniCC, v8.2.3\n  OmniCCConfig, v\n  QuestieDevmaster, v4.0.5 ALPHA\n  SharedMedia, v3.1.0-191\n  SlideBar, v8.2.6375 (SwimmingSeadragon)\n  Stubby, v8.2.6376 (SwimmingSeadragon)\n  TidyPlatesThreatPlates, v1.2.0\n  VendorPrice, v1.1.4\n  BlizRuntimeLib_enUS v1.13.2.11302 <none>\n  (ck=56b)\n",
-			["timestamp"] = "2019-09-02 19:22:17",
-			["context"] = "AddOn: ElvUI",
-			["stack"] = "[C]: in function `Hide'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:511: in function `RaidGroupFrame_Update'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:183: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:168>\n",
-		}, -- [9]
-		{
-			["message"] = "Note: AddOn ElvUI attempted to call a protected function (RaidGroupButton39:Hide()) during combat lockdown.",
-			["count"] = 69,
-			["addons"] = "  Swatter, v8.2.6377 (SwimmingSeadragon)\n  AAPClassic, v0.12\n  AtlasLootClassic, vv1.1.2-beta\n  AtlasLootClassicCrafting, vv1.1.2-beta\n  AtlasLootClassicDungeonsAndRaids, vv1.1.2-beta\n  AucAdvanced, v8.2.6385 (SwimmingSeadragon)\n  AucFilterBasic, v8.2.6364 (SwimmingSeadragon)\n  AucScanData, v8.2.6365 (SwimmingSeadragon)\n  AucStatHistogram, v8.2.6366 (SwimmingSeadragon)\n  AucStatiLevel, v8.2.6370 (SwimmingSeadragon)\n  AucStatPurchased, v8.2.6367 (SwimmingSeadragon)\n  AucStatSimple, v8.2.6368 (SwimmingSeadragon)\n  AucStatStdDev, v8.2.6369 (SwimmingSeadragon)\n  AucUtilFixAH, v8.2.6371 (SwimmingSeadragon)\n  BeanCounter, v8.2.6381 (SwimmingSeadragon)\n  ChatLinkIcons, v2.0\n  ClassicAutoQuest, v1.1.0\n  DBMCore, v1.13.1\n  DBMDefaultSkin, v\n  DBMPartyClassic, v\n  DBMStatusBarTimers, v\n  Details, v\n  ElvUI, v1.03\n  Enchantrix, v8.2.6392 (SwimmingSeadragon)\n  FasterLooting, v1.0.0\n  GSE, v2.4.16\n  GSEGUI, v2.4.16\n  GSELDB, v2.4.16\n  Guidelime, v1.005\n  GuidelimeBusteas160leveling, v0.9.6-Beta\n  GuidelimeSevenleaves, v0.001-Beta\n  HealBot, v8.2.0.3\n  Informant, v8.2.6374 (SwimmingSeadragon)\n  Necrosis, v5.0\n  OmniCC, v8.2.3\n  OmniCCConfig, v\n  QuestieDevmaster, v4.0.5 ALPHA\n  SharedMedia, v3.1.0-191\n  SlideBar, v8.2.6375 (SwimmingSeadragon)\n  Stubby, v8.2.6376 (SwimmingSeadragon)\n  TidyPlatesThreatPlates, v1.2.0\n  VendorPrice, v1.1.4\n  BlizRuntimeLib_enUS v1.13.2.11302 <none>\n  (ck=56b)\n",
-			["timestamp"] = "2019-09-02 19:22:17",
-			["context"] = "AddOn: ElvUI",
-			["stack"] = "[C]: in function `Hide'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:511: in function `RaidGroupFrame_Update'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:183: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:168>\n",
-		}, -- [10]
-		{
-			["message"] = "Note: AddOn ElvUI attempted to call a protected function (RaidGroupButton40:Hide()) during combat lockdown.",
-			["count"] = 69,
-			["addons"] = "  Swatter, v8.2.6377 (SwimmingSeadragon)\n  AAPClassic, v0.12\n  AtlasLootClassic, vv1.1.2-beta\n  AtlasLootClassicCrafting, vv1.1.2-beta\n  AtlasLootClassicDungeonsAndRaids, vv1.1.2-beta\n  AucAdvanced, v8.2.6385 (SwimmingSeadragon)\n  AucFilterBasic, v8.2.6364 (SwimmingSeadragon)\n  AucScanData, v8.2.6365 (SwimmingSeadragon)\n  AucStatHistogram, v8.2.6366 (SwimmingSeadragon)\n  AucStatiLevel, v8.2.6370 (SwimmingSeadragon)\n  AucStatPurchased, v8.2.6367 (SwimmingSeadragon)\n  AucStatSimple, v8.2.6368 (SwimmingSeadragon)\n  AucStatStdDev, v8.2.6369 (SwimmingSeadragon)\n  AucUtilFixAH, v8.2.6371 (SwimmingSeadragon)\n  BeanCounter, v8.2.6381 (SwimmingSeadragon)\n  ChatLinkIcons, v2.0\n  ClassicAutoQuest, v1.1.0\n  DBMCore, v1.13.1\n  DBMDefaultSkin, v\n  DBMPartyClassic, v\n  DBMStatusBarTimers, v\n  Details, v\n  ElvUI, v1.03\n  Enchantrix, v8.2.6392 (SwimmingSeadragon)\n  FasterLooting, v1.0.0\n  GSE, v2.4.16\n  GSEGUI, v2.4.16\n  GSELDB, v2.4.16\n  Guidelime, v1.005\n  GuidelimeBusteas160leveling, v0.9.6-Beta\n  GuidelimeSevenleaves, v0.001-Beta\n  HealBot, v8.2.0.3\n  Informant, v8.2.6374 (SwimmingSeadragon)\n  Necrosis, v5.0\n  OmniCC, v8.2.3\n  OmniCCConfig, v\n  QuestieDevmaster, v4.0.5 ALPHA\n  SharedMedia, v3.1.0-191\n  SlideBar, v8.2.6375 (SwimmingSeadragon)\n  Stubby, v8.2.6376 (SwimmingSeadragon)\n  TidyPlatesThreatPlates, v1.2.0\n  VendorPrice, v1.1.4\n  BlizRuntimeLib_enUS v1.13.2.11302 <none>\n  (ck=56b)\n",
-			["timestamp"] = "2019-09-02 19:22:17",
-			["context"] = "AddOn: ElvUI",
-			["stack"] = "[C]: in function `Hide'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:511: in function `RaidGroupFrame_Update'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:183: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:168>\n",
-		}, -- [11]
-		{
 			["message"] = "Note: AddOn ElvUI attempted to call a protected function (RaidGroupButton1:Hide()) during combat lockdown.",
 			["count"] = 67,
 			["addons"] = "  Swatter, v8.2.6377 (SwimmingSeadragon)\n  AAPClassic, v0.12\n  AtlasLootClassic, vv1.1.2-beta\n  AtlasLootClassicCrafting, vv1.1.2-beta\n  AtlasLootClassicDungeonsAndRaids, vv1.1.2-beta\n  AucAdvanced, v8.2.6385 (SwimmingSeadragon)\n  AucFilterBasic, v8.2.6364 (SwimmingSeadragon)\n  AucScanData, v8.2.6365 (SwimmingSeadragon)\n  AucStatHistogram, v8.2.6366 (SwimmingSeadragon)\n  AucStatiLevel, v8.2.6370 (SwimmingSeadragon)\n  AucStatPurchased, v8.2.6367 (SwimmingSeadragon)\n  AucStatSimple, v8.2.6368 (SwimmingSeadragon)\n  AucStatStdDev, v8.2.6369 (SwimmingSeadragon)\n  AucUtilFixAH, v8.2.6371 (SwimmingSeadragon)\n  BeanCounter, v8.2.6381 (SwimmingSeadragon)\n  ChatLinkIcons, v2.0\n  ClassicAutoQuest, v1.1.0\n  DBMCore, v1.13.1\n  DBMDefaultSkin, v\n  DBMPartyClassic, v\n  DBMStatusBarTimers, v\n  Details, v\n  ElvUI, v1.03\n  Enchantrix, v8.2.6392 (SwimmingSeadragon)\n  FasterLooting, v1.0.0\n  GSE, v2.4.16\n  GSEGUI, v2.4.16\n  GSELDB, v2.4.16\n  Guidelime, v1.005\n  GuidelimeBusteas160leveling, v0.9.6-Beta\n  GuidelimeSevenleaves, v0.001-Beta\n  HealBot, v8.2.0.3\n  Informant, v8.2.6374 (SwimmingSeadragon)\n  Necrosis, v5.0\n  OmniCC, v8.2.3\n  OmniCCConfig, v\n  QuestieDevmaster, v4.0.5 ALPHA\n  SharedMedia, v3.1.0-191\n  SlideBar, v8.2.6375 (SwimmingSeadragon)\n  Stubby, v8.2.6376 (SwimmingSeadragon)\n  TidyPlatesThreatPlates, v1.2.0\n  VendorPrice, v1.1.4\n  BlizRuntimeLib_enUS v1.13.2.11302 <none>\n  (ck=56b)\n",
 			["timestamp"] = "2019-09-02 19:23:58",
 			["context"] = "AddOn: ElvUI",
 			["stack"] = "[C]: in function `Hide'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:511: in function `RaidGroupFrame_Update'\nInterface\\FrameXML\\RaidFrame.lua:121: in function `RaidFrame_Update'\nInterface\\FrameXML\\RaidFrame.lua:60: in function `RaidFrame_OnEvent'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:169: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:168>\n",
-		}, -- [12]
+		}, -- [8]
 		{
 			["message"] = "Note: AddOn ElvUI attempted to call a protected function (RaidGroupButton2:Hide()) during combat lockdown.",
 			["count"] = 67,
@@ -107,7 +75,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-02 19:23:58",
 			["context"] = "AddOn: ElvUI",
 			["stack"] = "[C]: in function `Hide'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:511: in function `RaidGroupFrame_Update'\nInterface\\FrameXML\\RaidFrame.lua:121: in function `RaidFrame_Update'\nInterface\\FrameXML\\RaidFrame.lua:60: in function `RaidFrame_OnEvent'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:169: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:168>\n",
-		}, -- [13]
+		}, -- [9]
 		{
 			["message"] = "Note: AddOn ElvUI attempted to call a protected function (RaidGroupButton3:Hide()) during combat lockdown.",
 			["count"] = 67,
@@ -115,7 +83,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-02 19:23:58",
 			["context"] = "AddOn: ElvUI",
 			["stack"] = "[C]: in function `Hide'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:511: in function `RaidGroupFrame_Update'\nInterface\\FrameXML\\RaidFrame.lua:121: in function `RaidFrame_Update'\nInterface\\FrameXML\\RaidFrame.lua:60: in function `RaidFrame_OnEvent'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:169: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:168>\n",
-		}, -- [14]
+		}, -- [10]
 		{
 			["message"] = "Note: AddOn ElvUI attempted to call a protected function (RaidGroupButton4:Hide()) during combat lockdown.",
 			["count"] = 67,
@@ -123,7 +91,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-02 19:23:58",
 			["context"] = "AddOn: ElvUI",
 			["stack"] = "[C]: in function `Hide'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:511: in function `RaidGroupFrame_Update'\nInterface\\FrameXML\\RaidFrame.lua:121: in function `RaidFrame_Update'\nInterface\\FrameXML\\RaidFrame.lua:60: in function `RaidFrame_OnEvent'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:169: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:168>\n",
-		}, -- [15]
+		}, -- [11]
 		{
 			["message"] = "Note: AddOn ElvUI attempted to call a protected function (RaidGroupButton5:Hide()) during combat lockdown.",
 			["count"] = 67,
@@ -131,7 +99,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-02 19:23:58",
 			["context"] = "AddOn: ElvUI",
 			["stack"] = "[C]: in function `Hide'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:511: in function `RaidGroupFrame_Update'\nInterface\\FrameXML\\RaidFrame.lua:121: in function `RaidFrame_Update'\nInterface\\FrameXML\\RaidFrame.lua:60: in function `RaidFrame_OnEvent'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:169: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:168>\n",
-		}, -- [16]
+		}, -- [12]
 		{
 			["message"] = "Note: AddOn ElvUI attempted to call a protected function (RaidGroupButton6:Hide()) during combat lockdown.",
 			["count"] = 67,
@@ -139,7 +107,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-02 19:23:58",
 			["context"] = "AddOn: ElvUI",
 			["stack"] = "[C]: in function `Hide'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:511: in function `RaidGroupFrame_Update'\nInterface\\FrameXML\\RaidFrame.lua:121: in function `RaidFrame_Update'\nInterface\\FrameXML\\RaidFrame.lua:60: in function `RaidFrame_OnEvent'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:169: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:168>\n",
-		}, -- [17]
+		}, -- [13]
 		{
 			["message"] = "Note: AddOn ElvUI attempted to call a protected function (RaidGroup1:Hide()) during combat lockdown.",
 			["count"] = 25,
@@ -147,7 +115,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-02 19:23:58",
 			["context"] = "AddOn: ElvUI",
 			["stack"] = "[C]: in function `Hide'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:239: in function `RaidGroupFrame_Update'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:191: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:168>\n",
-		}, -- [18]
+		}, -- [14]
 		{
 			["message"] = "Note: AddOn ElvUI attempted to call a protected function (RaidGroup2:Hide()) during combat lockdown.",
 			["count"] = 25,
@@ -155,7 +123,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-02 19:23:58",
 			["context"] = "AddOn: ElvUI",
 			["stack"] = "[C]: in function `Hide'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:239: in function `RaidGroupFrame_Update'\nInterface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:191: in function <Interface\\AddOns\\Blizzard_RaidUI\\Blizzard_RaidUI.lua:168>\n",
-		}, -- [19]
+		}, -- [15]
 		{
 			["message"] = "Note: AddOn ElvUI attempted to call a protected function (CompactRaidFrame2:Hide()) during combat lockdown.",
 			["count"] = 25,
@@ -163,7 +131,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-02 19:23:58",
 			["context"] = "AddOn: ElvUI",
 			["stack"] = "[C]: in function `Hide'\nInterface\\FrameXML\\CompactUnitFrame.lua:355: in function `CompactUnitFrame_UpdateVisible'\nInterface\\FrameXML\\CompactUnitFrame.lua:286: in function `CompactUnitFrame_UpdateAll'\nInterface\\FrameXML\\CompactUnitFrame.lua:54: in function <Interface\\FrameXML\\CompactUnitFrame.lua:51>\n",
-		}, -- [20]
+		}, -- [16]
 		{
 			["message"] = "Note: AddOn ElvUI attempted to call a protected function (CompactRaidFrame3:Hide()) during combat lockdown.",
 			["count"] = 25,
@@ -171,7 +139,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-02 19:23:58",
 			["context"] = "AddOn: ElvUI",
 			["stack"] = "[C]: in function `Hide'\nInterface\\FrameXML\\CompactUnitFrame.lua:355: in function `CompactUnitFrame_UpdateVisible'\nInterface\\FrameXML\\CompactUnitFrame.lua:286: in function `CompactUnitFrame_UpdateAll'\nInterface\\FrameXML\\CompactUnitFrame.lua:54: in function <Interface\\FrameXML\\CompactUnitFrame.lua:51>\n",
-		}, -- [21]
+		}, -- [17]
 		{
 			["message"] = "Note: AddOn ElvUI attempted to call a protected function (CompactRaidFrame4:Hide()) during combat lockdown.",
 			["count"] = 25,
@@ -179,7 +147,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-02 19:23:58",
 			["context"] = "AddOn: ElvUI",
 			["stack"] = "[C]: in function `Hide'\nInterface\\FrameXML\\CompactUnitFrame.lua:355: in function `CompactUnitFrame_UpdateVisible'\nInterface\\FrameXML\\CompactUnitFrame.lua:286: in function `CompactUnitFrame_UpdateAll'\nInterface\\FrameXML\\CompactUnitFrame.lua:54: in function <Interface\\FrameXML\\CompactUnitFrame.lua:51>\n",
-		}, -- [22]
+		}, -- [18]
 		{
 			["message"] = "Note: AddOn ElvUI attempted to call a protected function (CompactRaidFrame5:Hide()) during combat lockdown.",
 			["count"] = 25,
@@ -187,7 +155,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-02 19:23:58",
 			["context"] = "AddOn: ElvUI",
 			["stack"] = "[C]: in function `Hide'\nInterface\\FrameXML\\CompactUnitFrame.lua:355: in function `CompactUnitFrame_UpdateVisible'\nInterface\\FrameXML\\CompactUnitFrame.lua:286: in function `CompactUnitFrame_UpdateAll'\nInterface\\FrameXML\\CompactUnitFrame.lua:54: in function <Interface\\FrameXML\\CompactUnitFrame.lua:51>\n",
-		}, -- [23]
+		}, -- [19]
 		{
 			["message"] = "Note: AddOn ElvUI attempted to call a protected function (CompactRaidFrame6:Hide()) during combat lockdown.",
 			["count"] = 25,
@@ -195,7 +163,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-02 19:23:58",
 			["context"] = "AddOn: ElvUI",
 			["stack"] = "[C]: in function `Hide'\nInterface\\FrameXML\\CompactUnitFrame.lua:355: in function `CompactUnitFrame_UpdateVisible'\nInterface\\FrameXML\\CompactUnitFrame.lua:286: in function `CompactUnitFrame_UpdateAll'\nInterface\\FrameXML\\CompactUnitFrame.lua:54: in function <Interface\\FrameXML\\CompactUnitFrame.lua:51>\n",
-		}, -- [24]
+		}, -- [20]
 		{
 			["message"] = "...s_ThreatPlates\\TidyPlatesInternal\\TidyPlatesCore.lua:737: attempt to perform arithmetic on local 'startTime' (a nil value)",
 			["count"] = 16,
@@ -203,7 +171,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-02 19:31:15",
 			["context"] = "Global",
 			["stack"] = "...s_ThreatPlates\\TidyPlatesInternal\\TidyPlatesCore.lua:737: in function <...s_ThreatPlates\\TidyPlatesInternal\\TidyPlatesCore.lua:712>\n...s_ThreatPlates\\TidyPlatesInternal\\TidyPlatesCore.lua:1079: in function <...s_ThreatPlates\\TidyPlatesInternal\\TidyPlatesCore.lua:1074>\n[C]: ?\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:29: in function <...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:25>\n...sic\\Libs\\CallbackHandler-1.0\\CallbackHandler-1.0.lua:64: in function `Fire'\n...tes\\Libs\\LibClassicCasterino\\LibClassicCasterino.lua:521: in function <...tes\\Libs\\LibClassicCasterino\\LibClassicCasterino.lua:518>\n...tes\\Libs\\LibClassicCasterino\\LibClassicCasterino.lua:103: in function <...tes\\Libs\\LibClassicCasterino\\LibClassicCasterino.lua:78>\n...tes\\Libs\\LibClassicCasterino\\LibClassicCasterino.lua:150: in function <...tes\\Libs\\LibClassicCasterino\\LibClassicCasterino.lua:125>\n(tail call): ?\n",
-		}, -- [25]
+		}, -- [21]
 		{
 			["message"] = "Note: AddOn Details attempted to call a protected function (PetActionButton4:Show()) during combat lockdown.",
 			["count"] = 8,
@@ -211,7 +179,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-03 01:05:39",
 			["context"] = "AddOn: Details",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\PetActionBarFrame.lua:198: in function `PetActionBar_Update'\nInterface\\FrameXML\\PetActionBarFrame.lua:81: in function <Interface\\FrameXML\\PetActionBarFrame.lua:77>\n",
-		}, -- [26]
+		}, -- [22]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 2,
@@ -220,7 +188,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-03 02:06:41",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [27]
+		}, -- [23]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 13,
@@ -229,7 +197,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-03 02:06:43",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [28]
+		}, -- [24]
 		{
 			["message"] = "Interface\\AddOns\\ElvUI\\Modules\\datatexts\\Armor.lua:31: attempt to call upvalue 'PaperDollFrame_GetArmorReduction' (a nil value)",
 			["count"] = 6,
@@ -238,7 +206,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-03 02:14:10",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\ElvUI\\Modules\\datatexts\\Armor.lua:31: in function `onEnter'\n...terface\\AddOns\\ElvUI\\Modules\\datatexts\\DataTexts.lua:236: in function <...terface\\AddOns\\ElvUI\\Modules\\datatexts\\DataTexts.lua:234>\n",
-		}, -- [29]
+		}, -- [25]
 		{
 			["message"] = "[string \"SendChatMessage(\"\\124cffff8000\\124Hitem:19019::::::::60:::::\\12...\"]:1: '<eof>' expected near 'end'",
 			["count"] = 1,
@@ -247,7 +215,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-03 02:48:26",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `RunScript'\nInterface\\FrameXML\\ChatFrame.lua:2033: in function `?'\nInterface\\FrameXML\\ChatFrame.lua:4606: in function `ChatEdit_ParseText'\nInterface\\FrameXML\\ChatFrame.lua:4267: in function `ChatEdit_SendText'\nInterface\\FrameXML\\ChatFrame.lua:2699: in function <Interface\\FrameXML\\ChatFrame.lua:2692>\n[C]: in function `UseAction'\nInterface\\FrameXML\\SecureTemplates.lua:338: in function `handler'\nInterface\\FrameXML\\SecureTemplates.lua:616: in function <Interface\\FrameXML\\SecureTemplates.lua:564>\n[C]: ?\nInterface\\FrameXML\\SecureHandlers.lua:266: in function <Interface\\FrameXML\\SecureHandlers.lua:263>\n[C]: ?\nInterface\\FrameXML\\SecureHandlers.lua:296: in function <Interface\\FrameXML\\SecureHandlers.lua:279>\n(tail call): ?\n",
-		}, -- [30]
+		}, -- [26]
 		{
 			["message"] = "Note: AddOn Details attempted to call a protected function (PetActionButton4:Show()) during combat lockdown.",
 			["count"] = 37,
@@ -255,7 +223,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-03 04:13:17",
 			["context"] = "AddOn: Details",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\PetActionBarFrame.lua:198: in function `PetActionBar_Update'\nInterface\\FrameXML\\PetActionBarFrame.lua:81: in function <Interface\\FrameXML\\PetActionBarFrame.lua:77>\n",
-		}, -- [31]
+		}, -- [27]
 		{
 			["message"] = "Note: AddOn Details attempted to call a protected function (PetActionButton5:Show()) during combat lockdown.",
 			["count"] = 18,
@@ -263,7 +231,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-03 04:16:45",
 			["context"] = "AddOn: Details",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\PetActionBarFrame.lua:198: in function `PetActionBar_Update'\nInterface\\FrameXML\\PetActionBarFrame.lua:81: in function <Interface\\FrameXML\\PetActionBarFrame.lua:77>\n",
-		}, -- [32]
+		}, -- [28]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 2,
@@ -272,7 +240,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-03 14:42:44",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [33]
+		}, -- [29]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 2,
@@ -281,7 +249,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-03 14:42:48",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [34]
+		}, -- [30]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 2,
@@ -290,7 +258,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-03 14:42:58",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [35]
+		}, -- [31]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 1,
@@ -299,7 +267,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-03 14:42:59",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [36]
+		}, -- [32]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 4,
@@ -308,7 +276,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-03 16:31:02",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [37]
+		}, -- [33]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 22,
@@ -317,7 +285,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-03 16:31:04",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [38]
+		}, -- [34]
 		{
 			["message"] = "Interface\\AddOns\\VendorPrice\\VendorPrice.lua:80: attempt to index local 'name' (a nil value)",
 			["count"] = 5,
@@ -326,7 +294,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-03 16:36:15",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\VendorPrice\\VendorPrice.lua:80: in function <Interface\\AddOns\\VendorPrice\\VendorPrice.lua:75>\n[C]: in function `OnTooltipSetItem'\nInterface\\AddOns\\Enchantrix\\EnxMain.lua:232: in function <Interface\\AddOns\\Enchantrix\\EnxMain.lua:228>\n[C]: ?\n[C]: ?\n...AddOns\\Auc-Advanced\\Libs\\LibExtraTip\\LibExtraTip.lua:408: in function `SetHyperlink'\n...AddOns\\Auc-Advanced\\Libs\\LibExtraTip\\LibExtraTip.lua:848: in function <...AddOns\\Auc-Advanced\\Libs\\LibExtraTip\\LibExtraTip.lua:832>\n(tail call): ?\n(tail call): ?\n...dvanced\\Modules\\Auc-Util-AutoMagic\\ConfirmSellUI.lua:166: in function `ASCOnEnter'\n...dvanced\\Modules\\Auc-Util-AutoMagic\\ConfirmSellUI.lua:287: in function `Processor'\n...\\AddOns\\Auc-Advanced\\Libs\\Configator\\ScrollSheet.lua:749: in function `Processor'\n...\\AddOns\\Auc-Advanced\\Libs\\Configator\\ScrollSheet.lua:649: in function <...\\AddOns\\Auc-Advanced\\Libs\\Configator\\ScrollSheet.lua:649>\n",
-		}, -- [39]
+		}, -- [35]
 		{
 			["message"] = "Interface\\AddOns\\AAP-Classic\\QuestHandler.lua:1064: Attempt to access forbidden object from code tainted by an AddOn",
 			["count"] = 436,
@@ -335,7 +303,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-03 16:49:32",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `GetName'\nInterface\\AddOns\\AAP-Classic\\QuestHandler.lua:1064: in function `CheckNamePlate'\nInterface\\AddOns\\AAP-Classic\\QuestHandler.lua:1453: in function <Interface\\AddOns\\AAP-Classic\\QuestHandler.lua:1127>\n",
-		}, -- [40]
+		}, -- [36]
 		{
 			["message"] = "Note: AddOn Details attempted to call a protected function (PetActionButton4:Show()) during combat lockdown.",
 			["count"] = 132,
@@ -343,7 +311,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-03 16:50:30",
 			["context"] = "AddOn: Details",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\PetActionBarFrame.lua:198: in function `PetActionBar_Update'\nInterface\\FrameXML\\PetActionBarFrame.lua:81: in function <Interface\\FrameXML\\PetActionBarFrame.lua:77>\n",
-		}, -- [41]
+		}, -- [37]
 		{
 			["message"] = "Note: AddOn Details attempted to call a protected function (PetActionButton5:Show()) during combat lockdown.",
 			["count"] = 124,
@@ -351,7 +319,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-03 16:50:30",
 			["context"] = "AddOn: Details",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\PetActionBarFrame.lua:198: in function `PetActionBar_Update'\nInterface\\FrameXML\\PetActionBarFrame.lua:81: in function <Interface\\FrameXML\\PetActionBarFrame.lua:77>\n",
-		}, -- [42]
+		}, -- [38]
 		{
 			["message"] = "Note: AddOn Details attempted to call a protected function (PetActionButton6:Show()) during combat lockdown.",
 			["count"] = 115,
@@ -359,7 +327,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-03 16:50:30",
 			["context"] = "AddOn: Details",
 			["stack"] = "[C]: in function `Show'\nInterface\\FrameXML\\PetActionBarFrame.lua:198: in function `PetActionBar_Update'\nInterface\\FrameXML\\PetActionBarFrame.lua:81: in function <Interface\\FrameXML\\PetActionBarFrame.lua:77>\n",
-		}, -- [43]
+		}, -- [39]
 		{
 			["message"] = "Interface\\AddOns\\ElvUI\\Modules\\datatexts\\Armor.lua:31: attempt to call upvalue 'PaperDollFrame_GetArmorReduction' (a nil value)",
 			["count"] = 3,
@@ -368,7 +336,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-03 17:01:17",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\ElvUI\\Modules\\datatexts\\Armor.lua:31: in function `onEnter'\n...terface\\AddOns\\ElvUI\\Modules\\datatexts\\DataTexts.lua:236: in function <...terface\\AddOns\\ElvUI\\Modules\\datatexts\\DataTexts.lua:234>\n",
-		}, -- [44]
+		}, -- [40]
 		{
 			["message"] = "Interface\\AddOns\\AAP-Classic\\MapFunctions.lua:1686: Usage: local continentID, worldPosition = C_Map.GetWorldPosFromMapPos(uiMapID, mapPosition)",
 			["count"] = 1000,
@@ -377,7 +345,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-03 17:26:39",
 			["context"] = "Global",
 			["stack"] = "[C]: in function `GetWorldPosFromMapPos'\nInterface\\AddOns\\AAP-Classic\\MapFunctions.lua:1686: in function `GetPlayerMapPos'\nInterface\\AddOns\\AAP-Classic\\QuestHandler.lua:779: in function `CheckCRangeText'\nInterface\\AddOns\\AAP-Classic\\QuestListFunctions.lua:206: in function `QuestText'\nInterface\\AddOns\\AAP-Classic\\QuestListFunctions.lua:314: in function `ReprintList'\nInterface\\AddOns\\AAP-Classic\\QuestHandler.lua:666: in function <Interface\\AddOns\\AAP-Classic\\QuestHandler.lua:575>\n",
-		}, -- [45]
+		}, -- [41]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 3,
@@ -386,7 +354,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 04:04:03",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [46]
+		}, -- [42]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 2,
@@ -395,7 +363,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 04:04:03",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [47]
+		}, -- [43]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 2,
@@ -404,7 +372,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 04:04:12",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [48]
+		}, -- [44]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 1,
@@ -413,7 +381,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 04:04:13",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [49]
+		}, -- [45]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 2,
@@ -422,7 +390,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 15:36:42",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [50]
+		}, -- [46]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 2,
@@ -431,7 +399,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 15:36:43",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [51]
+		}, -- [47]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 2,
@@ -440,7 +408,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 15:36:53",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [52]
+		}, -- [48]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 1,
@@ -449,7 +417,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 15:36:54",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [53]
+		}, -- [49]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 2,
@@ -458,7 +426,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 15:44:42",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [54]
+		}, -- [50]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 2,
@@ -467,7 +435,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 15:44:44",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [55]
+		}, -- [51]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 2,
@@ -476,7 +444,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 15:46:38",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [56]
+		}, -- [52]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 1,
@@ -485,7 +453,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 15:46:39",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [57]
+		}, -- [53]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 2,
@@ -494,7 +462,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 15:47:07",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [58]
+		}, -- [54]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 1,
@@ -503,7 +471,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 15:47:08",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [59]
+		}, -- [55]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 2,
@@ -512,7 +480,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 15:47:53",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [60]
+		}, -- [56]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 1,
@@ -521,7 +489,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 15:47:55",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [61]
+		}, -- [57]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 2,
@@ -530,7 +498,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 15:48:10",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [62]
+		}, -- [58]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 1,
@@ -539,7 +507,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 15:48:12",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [63]
+		}, -- [59]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 2,
@@ -548,7 +516,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 16:01:03",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [64]
+		}, -- [60]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 2,
@@ -557,7 +525,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 16:01:05",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [65]
+		}, -- [61]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 2,
@@ -566,7 +534,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 18:23:21",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [66]
+		}, -- [62]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 2,
@@ -575,7 +543,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 18:23:22",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [67]
+		}, -- [63]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 2,
@@ -584,7 +552,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 18:23:44",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [68]
+		}, -- [64]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 1,
@@ -593,7 +561,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 18:23:44",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [69]
+		}, -- [65]
 		{
 			["message"] = "Interface\\FrameXML\\StaticPopup.lua:1295: attempt to perform arithmetic on field 'resyncTime' (a nil value)",
 			["count"] = 1000,
@@ -602,7 +570,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 18:55:39",
 			["context"] = "Global",
 			["stack"] = "Interface\\FrameXML\\StaticPopup.lua:1295: in function `onUpdate'\nInterface\\FrameXML\\StaticPopup.lua:4851: in function `StaticPopup_OnUpdate'\nInterface\\FrameXML\\WorldFrame.lua:40: in function <Interface\\FrameXML\\WorldFrame.lua:24>\n",
-		}, -- [70]
+		}, -- [66]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 3,
@@ -611,7 +579,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 20:45:53",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [71]
+		}, -- [67]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 3,
@@ -620,7 +588,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 20:45:55",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [72]
+		}, -- [68]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 2,
@@ -629,7 +597,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 22:31:52",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [73]
+		}, -- [69]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 2,
@@ -638,7 +606,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 22:31:53",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [74]
+		}, -- [70]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 2,
@@ -647,7 +615,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 23:12:18",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [75]
+		}, -- [71]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 2,
@@ -656,7 +624,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 23:12:20",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [76]
+		}, -- [72]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 2,
@@ -665,7 +633,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 23:15:12",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [77]
+		}, -- [73]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 1,
@@ -674,7 +642,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 23:15:14",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [78]
+		}, -- [74]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 2,
@@ -683,7 +651,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 23:22:02",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [79]
+		}, -- [75]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 2,
@@ -692,7 +660,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 23:22:04",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [80]
+		}, -- [76]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 2,
@@ -701,7 +669,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 23:31:41",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [81]
+		}, -- [77]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 4,
@@ -710,7 +678,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 23:31:43",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [82]
+		}, -- [78]
 		{
 			["message"] = "...\\Libraries\\oUF_Plugins\\oUF_AuraBars\\oUF_AuraBars.lua:324: bad argument #2 to 'format' (string expected, got nil)",
 			["count"] = 1000,
@@ -718,7 +686,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-05 23:42:33",
 			["context"] = "Global",
 			["stack"] = "[C]: ?\n...\\Libraries\\oUF_Plugins\\oUF_AuraBars\\oUF_AuraBars.lua:324: in function `func'\nInterface\\AddOns\\ElvUI\\Libraries\\oUF\\ouf.lua:207: in function `UpdateAllElements'\n...ace\\AddOns\\ElvUI\\Modules\\unitframes\\Units\\Player.lua:170: in function `?'\n...rface\\AddOns\\ElvUI\\Modules\\unitframes\\UnitFrames.lua:971: in function `Update'\n...rface\\AddOns\\ElvUI\\Modules\\unitframes\\UnitFrames.lua:980: in function `CreateAndUpdateUF'\nInterface\\AddOns\\ElvUI_OptionsUI\\UnitFrames.lua:3603: in function <Interface\\AddOns\\ElvUI_OptionsUI\\UnitFrames.lua:3595>\n[C]: ?\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:50: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:48>\n...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:818: in function <...nfig-3.0\\AceConfigDialog-3.0\\AceConfigDialog-3.0.lua:639>\n[C]: ?\nInterface\\AddOns\\GSE\\Lib\\AceGUI-3.0\\AceGUI-3.0.lua:72: in function <Interface\\AddOns\\GSE\\Lib\\AceGUI-3.0\\AceGUI-3.0.lua:70>\nInterface\\AddOns\\GSE\\Lib\\AceGUI-3.0\\AceGUI-3.0.lua:287: in function `Fire'\n...s\\GSE\\Lib\\AceGUI-3.0\\widgets\\AceGUIWidget-Button.lua:22: in function <...s\\GSE\\Lib\\AceGUI-3.0\\widgets\\AceGUIWidget-Button.lua:19>\n",
-		}, -- [83]
+		}, -- [79]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 2,
@@ -727,7 +695,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-06 02:07:49",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [84]
+		}, -- [80]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 2,
@@ -736,7 +704,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-06 02:07:50",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [85]
+		}, -- [81]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 2,
@@ -745,7 +713,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-06 11:46:23",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [86]
+		}, -- [82]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 2,
@@ -754,7 +722,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-06 11:46:24",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [87]
+		}, -- [83]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 2,
@@ -763,7 +731,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-06 17:26:23",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [88]
+		}, -- [84]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 2,
@@ -772,7 +740,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-06 17:26:24",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [89]
+		}, -- [85]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 3,
@@ -781,7 +749,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-06 17:29:40",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [90]
+		}, -- [86]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 2,
@@ -790,7 +758,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-06 17:29:40",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [91]
+		}, -- [87]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 2,
@@ -799,7 +767,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-06 19:21:03",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [92]
+		}, -- [88]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 1,
@@ -808,7 +776,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-06 19:21:04",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [93]
+		}, -- [89]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 2,
@@ -817,7 +785,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-06 21:12:36",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [94]
+		}, -- [90]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 1,
@@ -826,7 +794,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-06 21:12:38",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [95]
+		}, -- [91]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 3,
@@ -835,7 +803,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-06 21:45:48",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [96]
+		}, -- [92]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 1,
@@ -844,7 +812,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-06 21:45:52",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [97]
+		}, -- [93]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 7,
@@ -853,7 +821,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-06 22:58:07",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [98]
+		}, -- [94]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 1,
@@ -862,7 +830,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-06 22:58:12",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [99]
+		}, -- [95]
 		{
 			["message"] = "Interface\\AddOns\\VendorPrice\\VendorPrice.lua:80: attempt to index local 'name' (a nil value)",
 			["count"] = 1,
@@ -871,7 +839,7 @@ SwatterData = {
 			["timestamp"] = "2019-09-07 01:59:48",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\VendorPrice\\VendorPrice.lua:80: in function <Interface\\AddOns\\VendorPrice\\VendorPrice.lua:75>\n[C]: in function `OnTooltipSetItem'\nInterface\\AddOns\\Enchantrix\\EnxMain.lua:232: in function <Interface\\AddOns\\Enchantrix\\EnxMain.lua:228>\n[C]: ?\n[C]: ?\n...AddOns\\Auc-Advanced\\Libs\\LibExtraTip\\LibExtraTip.lua:408: in function `SetHyperlink'\n...AddOns\\Auc-Advanced\\Libs\\LibExtraTip\\LibExtraTip.lua:848: in function <...AddOns\\Auc-Advanced\\Libs\\LibExtraTip\\LibExtraTip.lua:832>\n(tail call): ?\n(tail call): ?\n...dvanced\\Modules\\Auc-Util-AutoMagic\\ConfirmSellUI.lua:166: in function `ASCOnEnter'\n...dvanced\\Modules\\Auc-Util-AutoMagic\\ConfirmSellUI.lua:287: in function `Processor'\n...\\AddOns\\Auc-Advanced\\Libs\\Configator\\ScrollSheet.lua:749: in function `Processor'\n...\\AddOns\\Auc-Advanced\\Libs\\Configator\\ScrollSheet.lua:632: in function <...\\AddOns\\Auc-Advanced\\Libs\\Configator\\ScrollSheet.lua:632>\n",
-		}, -- [100]
+		}, -- [96]
 		{
 			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
 			["count"] = 2,
@@ -880,13 +848,49 @@ SwatterData = {
 			["timestamp"] = "2019-09-07 10:54:04",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
-		}, -- [101]
+		}, -- [97]
 		{
 			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
 			["count"] = 2,
 			["addons"] = "  Swatter, v8.2.6377 (SwimmingSeadragon)\n  AAPClassic, v0.12\n  AtlasLootClassic, vv1.1.2-beta\n  AucAdvanced, v8.2.6385 (SwimmingSeadragon)\n  AucFilterBasic, v8.2.6364 (SwimmingSeadragon)\n  AucStatHistogram, v8.2.6366 (SwimmingSeadragon)\n  AucStatiLevel, v8.2.6370 (SwimmingSeadragon)\n  AucStatPurchased, v8.2.6367 (SwimmingSeadragon)\n  AucStatSimple, v8.2.6368 (SwimmingSeadragon)\n  AucStatStdDev, v8.2.6369 (SwimmingSeadragon)\n  AucUtilFixAH, v8.2.6371 (SwimmingSeadragon)\n  BeanCounter, v8.2.6381 (SwimmingSeadragon)\n  ChatLinkIcons, v2.0\n  ClassicAutoQuest, v1.1.0\n  DBMCore, v1.13.1\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  Details, v\n  ElvUI, v1.03\n  Enchantrix, v8.2.6392 (SwimmingSeadragon)\n  FasterLooting, v1.0.0\n  GSE, v2.4.16\n  GSEGUI, v2.4.16\n  GSELDB, v2.4.16\n  Guidelime, v1.005\n  GuidelimeBusteas160leveling, v0.9.6-Beta\n  GuidelimeSevenleaves, v0.001-Beta\n  HealBot, v8.2.0.3\n  Informant, v8.2.6374 (SwimmingSeadragon)\n  Necrosis, v5.0\n  OmniCC, v8.2.3\n  QuestieDevmaster, v4.0.5 ALPHA\n  RealMobHealth, v2.3\n  SharedMedia, v3.1.0-191\n  SlideBar, v8.2.6375 (SwimmingSeadragon)\n  Stubby, v8.2.6376 (SwimmingSeadragon)\n  TidyPlatesThreatPlates, v1.2.0\n  VendorPrice, v1.1.4\n  BlizRuntimeLib_enUS v1.13.2.11302 <none>\n  (ck=4d3)\n",
 			["locals"] = "self = <table> {\n BindName = <function> defined @Interface\\AddOns\\Necrosis\\Bindings.lua:42\n GetCompanionInfo = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2886\n RezTimerUpdate = <function> defined @Interface\\AddOns\\Necrosis\\Timers\\OtherTimers.lua:45\n SetOfxy = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2857\n Unit = <table> {\n }\n CurseVector_Click = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Options-Menus.lua:850\n TradeStone = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2416\n TextTimerUpdate = <function> defined @Interface\\AddOns\\Necrosis\\Timers\\OtherTimers.lua:95\n SymetrieTimer = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2787\n OnDragStart = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:965\n BagExplore = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:1756\n Localization_Speech_De = <function> defined @Interface\\AddOns\\Necrosis\\Speech\\Speech-de.lua:37\n Timer_Click = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Options-Timers.lua:194\n Drag = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2476\n NoDrag = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2464\n SoulshardSwitch = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:1966\n NoCombatAttribute = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Attributes.lua:373\n SelfEffect = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:742\n Localization_Speech_Es = <function> defined @Interface\\AddOns\\Necrosis\\Speech\\Speech-es.lua:37\n Localization_Dialog_Cn = <function> defined @Interface\\AddOns\\Necrosis\\Locales\\Dialog-cn.lua:43\n GameTooltip_ClearMoney = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2446\n OnDragStop = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:970\n ShowAntiFearWarning = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2354\n AntiFear = <table> {\n }\n Localization_Dialog_En = <function> defined @Interface\\AddOns\\Necrosis\\Locales\\Dialog-en.lua:41\n SetCompanionPage = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Options-Buttons.lua:551\n CreateGroup = <function> defined @Interface\\AddOns\\Necrosis\\Timers\\GraphicalTimers.lua:45\n SetTimersConfig = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Options-Timers.lua:45\n Localization_Speech_Fr = <function> defined @Interface\\AddOns\\Necrosis\\Speech\\Speech-fr.lua:37\n SpellstoneUpdateAttribute = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Attributes.lua:549\n TimerExisteDeja = <function> defined @Interface\\AddOns\\Necrosis\\Timers\\Functions.lua:361\n Localization_Dialog_De = <function> defined @Interface\\AddOns\\Necrosis\\Locales\\Dialog-de.lua:41\n UnitHasEffect = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2319\n FindSpellAttribute = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2306\n Msg = <function> defined @Interface\\AddOns\\Necrosis\\Message.lua:42\n AddFrame = <function> defined @Interface\\AddOns\\Necrosis\\Timers\\GraphicalTimers.lua:114\n SpellSetup = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2154\n Localization_Speech_En = <function> defined @Interface\\AddOns\\Necrosis\\Speech\\Speech-en.lua:37\n RankToStone = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2136\n Localization_Speech_Cn = <function> defined @Interface\\AddOns\\Necrosis\\Speech\\Speech-cn.lua:44\n ButtonSetup = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2030\n FindSlot = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:1992\n InCombatAttribute = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Attributes.lua:443\n Recall = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2758\n UpdateMana = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:1457\n CurseVector_Init = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Options-Menus.lua:839\n RetraitTimerParGuid = <function> defined @Interface\\AddOns\\Necrosis\\Timers\\Functions.lua:313\n DemonVector_Init = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Options-Menus.lua:810\n BuffSpellAttribute = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Attribute",
 			["timestamp"] = "2019-09-07 10:54:05",
+			["context"] = "Global",
+			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
+		}, -- [98]
+		{
+			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
+			["count"] = 2,
+			["addons"] = "  Swatter, v8.2.6377 (SwimmingSeadragon)\n  AAPClassic, v0.12\n  AtlasLootClassic, vv1.1.2-beta\n  AucAdvanced, v8.2.6385 (SwimmingSeadragon)\n  AucFilterBasic, v8.2.6364 (SwimmingSeadragon)\n  AucStatHistogram, v8.2.6366 (SwimmingSeadragon)\n  AucStatiLevel, v8.2.6370 (SwimmingSeadragon)\n  AucStatPurchased, v8.2.6367 (SwimmingSeadragon)\n  AucStatSimple, v8.2.6368 (SwimmingSeadragon)\n  AucStatStdDev, v8.2.6369 (SwimmingSeadragon)\n  AucUtilFixAH, v8.2.6371 (SwimmingSeadragon)\n  BeanCounter, v8.2.6381 (SwimmingSeadragon)\n  ChatLinkIcons, v2.0\n  ClassicAutoQuest, v1.1.0\n  DBMCore, v1.13.1\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  Details, v\n  ElvUI, v1.03\n  FasterLooting, v1.0.0\n  GSE, v2.4.16\n  GSEGUI, v2.4.16\n  GSELDB, v2.4.16\n  Guidelime, v1.005\n  GuidelimeBusteas160leveling, v0.9.6-Beta\n  GuidelimeSevenleaves, v0.001-Beta\n  HealBot, v8.2.0.3\n  Necrosis, v5.0\n  OmniCC, v8.2.3\n  QuestieDevmaster, v4.0.5 ALPHA\n  RealMobHealth, v2.3\n  SharedMedia, v3.1.0-191\n  SlideBar, v8.2.6375 (SwimmingSeadragon)\n  Stubby, v8.2.6376 (SwimmingSeadragon)\n  TidyPlatesThreatPlates, v1.2.0\n  VendorPrice, v1.1.4\n  BlizRuntimeLib_enUS v1.13.2.11302 <none>\n  (ck=47c)\n",
+			["locals"] = "(*temporary) = nil\n(*temporary) = <table> {\n NewLibrary = <function> defined @Interface\\AddOns\\!Swatter\\Support\\LibStub.lua:11\n minors = <table> {\n }\n minor = 2\n IterateLibraries = <function> defined @Interface\\AddOns\\!Swatter\\Support\\LibStub.lua:28\n GetLibrary = <function> defined @Interface\\AddOns\\!Swatter\\Support\\LibStub.lua:21\n libs = <table> {\n }\n}\n(*temporary) = \"LibClassicHealComm-1.0\"\n(*temporary) = true\n(*temporary) = \"attempt to index upvalue 'libCHC' (a nil value)\"\nlibCHC = nil\n",
+			["timestamp"] = "2019-09-07 12:01:30",
+			["context"] = "Global",
+			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
+		}, -- [99]
+		{
+			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
+			["count"] = 2,
+			["addons"] = "  Swatter, v8.2.6377 (SwimmingSeadragon)\n  AAPClassic, v0.12\n  AtlasLootClassic, vv1.1.2-beta\n  AucAdvanced, v8.2.6385 (SwimmingSeadragon)\n  AucFilterBasic, v8.2.6364 (SwimmingSeadragon)\n  AucStatHistogram, v8.2.6366 (SwimmingSeadragon)\n  AucStatiLevel, v8.2.6370 (SwimmingSeadragon)\n  AucStatPurchased, v8.2.6367 (SwimmingSeadragon)\n  AucStatSimple, v8.2.6368 (SwimmingSeadragon)\n  AucStatStdDev, v8.2.6369 (SwimmingSeadragon)\n  AucUtilFixAH, v8.2.6371 (SwimmingSeadragon)\n  BeanCounter, v8.2.6381 (SwimmingSeadragon)\n  ChatLinkIcons, v2.0\n  ClassicAutoQuest, v1.1.0\n  DBMCore, v1.13.1\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  Details, v\n  ElvUI, v1.03\n  Enchantrix, v8.2.6392 (SwimmingSeadragon)\n  FasterLooting, v1.0.0\n  GSE, v2.4.16\n  GSEGUI, v2.4.16\n  GSELDB, v2.4.16\n  Guidelime, v1.005\n  GuidelimeBusteas160leveling, v0.9.6-Beta\n  GuidelimeSevenleaves, v0.001-Beta\n  HealBot, v8.2.0.3\n  Informant, v8.2.6374 (SwimmingSeadragon)\n  Necrosis, v5.0\n  OmniCC, v8.2.3\n  QuestieDevmaster, v4.0.5 ALPHA\n  RealMobHealth, v2.3\n  SharedMedia, v3.1.0-191\n  SlideBar, v8.2.6375 (SwimmingSeadragon)\n  Stubby, v8.2.6376 (SwimmingSeadragon)\n  TidyPlatesThreatPlates, v1.2.0\n  VendorPrice, v1.1.4\n  BlizRuntimeLib_enUS v1.13.2.11302 <none>\n  (ck=4d3)\n",
+			["locals"] = "self = <table> {\n BindName = <function> defined @Interface\\AddOns\\Necrosis\\Bindings.lua:42\n GetCompanionInfo = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2886\n RezTimerUpdate = <function> defined @Interface\\AddOns\\Necrosis\\Timers\\OtherTimers.lua:45\n SetOfxy = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2857\n Unit = <table> {\n }\n CurseVector_Click = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Options-Menus.lua:850\n TradeStone = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2416\n TextTimerUpdate = <function> defined @Interface\\AddOns\\Necrosis\\Timers\\OtherTimers.lua:95\n SymetrieTimer = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2787\n OnDragStart = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:965\n BagExplore = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:1756\n Localization_Speech_De = <function> defined @Interface\\AddOns\\Necrosis\\Speech\\Speech-de.lua:37\n Timer_Click = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Options-Timers.lua:194\n Drag = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2476\n NoDrag = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2464\n SoulshardSwitch = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:1966\n NoCombatAttribute = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Attributes.lua:373\n SelfEffect = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:742\n Localization_Speech_Es = <function> defined @Interface\\AddOns\\Necrosis\\Speech\\Speech-es.lua:37\n Localization_Dialog_Cn = <function> defined @Interface\\AddOns\\Necrosis\\Locales\\Dialog-cn.lua:43\n GameTooltip_ClearMoney = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2446\n OnDragStop = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:970\n ShowAntiFearWarning = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2354\n AntiFear = <table> {\n }\n Localization_Dialog_En = <function> defined @Interface\\AddOns\\Necrosis\\Locales\\Dialog-en.lua:41\n SetCompanionPage = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Options-Buttons.lua:551\n CreateGroup = <function> defined @Interface\\AddOns\\Necrosis\\Timers\\GraphicalTimers.lua:45\n SetTimersConfig = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Options-Timers.lua:45\n Localization_Speech_Fr = <function> defined @Interface\\AddOns\\Necrosis\\Speech\\Speech-fr.lua:37\n SpellstoneUpdateAttribute = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Attributes.lua:549\n TimerExisteDeja = <function> defined @Interface\\AddOns\\Necrosis\\Timers\\Functions.lua:361\n Localization_Dialog_De = <function> defined @Interface\\AddOns\\Necrosis\\Locales\\Dialog-de.lua:41\n UnitHasEffect = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2319\n FindSpellAttribute = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2306\n Msg = <function> defined @Interface\\AddOns\\Necrosis\\Message.lua:42\n AddFrame = <function> defined @Interface\\AddOns\\Necrosis\\Timers\\GraphicalTimers.lua:114\n SpellSetup = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2154\n Localization_Speech_En = <function> defined @Interface\\AddOns\\Necrosis\\Speech\\Speech-en.lua:37\n RankToStone = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2136\n Localization_Speech_Cn = <function> defined @Interface\\AddOns\\Necrosis\\Speech\\Speech-cn.lua:44\n ButtonSetup = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2030\n FindSlot = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:1992\n InCombatAttribute = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Attributes.lua:443\n Recall = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2758\n UpdateMana = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:1457\n CurseVector_Init = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Options-Menus.lua:839\n RetraitTimerParGuid = <function> defined @Interface\\AddOns\\Necrosis\\Timers\\Functions.lua:313\n DemonVector_Init = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Options-Menus.lua:810\n BuffSpellAttribute = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Attribute",
+			["timestamp"] = "2019-09-07 12:01:32",
+			["context"] = "Global",
+			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
+		}, -- [100]
+		{
+			["message"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: attempt to index upvalue 'libCHC' (a nil value)",
+			["count"] = 2,
+			["addons"] = "  Swatter, v8.2.6377 (SwimmingSeadragon)\n  AAPClassic, v0.12\n  AtlasLootClassic, vv1.1.2-beta\n  AucAdvanced, v8.2.6385 (SwimmingSeadragon)\n  AucFilterBasic, v8.2.6364 (SwimmingSeadragon)\n  AucStatHistogram, v8.2.6366 (SwimmingSeadragon)\n  AucStatiLevel, v8.2.6370 (SwimmingSeadragon)\n  AucStatPurchased, v8.2.6367 (SwimmingSeadragon)\n  AucStatSimple, v8.2.6368 (SwimmingSeadragon)\n  AucStatStdDev, v8.2.6369 (SwimmingSeadragon)\n  AucUtilFixAH, v8.2.6371 (SwimmingSeadragon)\n  BeanCounter, v8.2.6381 (SwimmingSeadragon)\n  ChatLinkIcons, v2.0\n  ClassicAutoQuest, v1.1.0\n  DBMCore, v1.13.1\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  Details, v\n  ElvUI, v1.03\n  FasterLooting, v1.0.0\n  GSE, v2.4.16\n  GSEGUI, v2.4.16\n  GSELDB, v2.4.16\n  Guidelime, v1.005\n  GuidelimeBusteas160leveling, v0.9.6-Beta\n  GuidelimeSevenleaves, v0.001-Beta\n  HealBot, v8.2.0.3\n  Necrosis, v5.0\n  OmniCC, v8.2.3\n  QuestieDevmaster, v4.0.5 ALPHA\n  RealMobHealth, v2.3\n  SharedMedia, v3.1.0-191\n  SlideBar, v8.2.6375 (SwimmingSeadragon)\n  Stubby, v8.2.6376 (SwimmingSeadragon)\n  TidyPlatesThreatPlates, v1.2.0\n  VendorPrice, v1.1.4\n  BlizRuntimeLib_enUS v1.13.2.11302 <none>\n  (ck=47c)\n",
+			["locals"] = "(*temporary) = nil\n(*temporary) = <table> {\n NewLibrary = <function> defined @Interface\\AddOns\\!Swatter\\Support\\LibStub.lua:11\n minors = <table> {\n }\n minor = 2\n IterateLibraries = <function> defined @Interface\\AddOns\\!Swatter\\Support\\LibStub.lua:28\n GetLibrary = <function> defined @Interface\\AddOns\\!Swatter\\Support\\LibStub.lua:21\n libs = <table> {\n }\n}\n(*temporary) = \"LibClassicHealComm-1.0\"\n(*temporary) = true\n(*temporary) = \"attempt to index upvalue 'libCHC' (a nil value)\"\nlibCHC = nil\n",
+			["timestamp"] = "2019-09-07 17:45:39",
+			["context"] = "Global",
+			["stack"] = "Interface\\AddOns\\HealBot\\HealBot.lua:5471: in function `HealBot_Register_IncHeals'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:4465: in function `HealBot_Options_CheckInHealsEvent'\nInterface\\AddOns\\HealBot\\HealBot_Options.lua:13190: in function `HealBot_Options_SetSkins'\nInterface\\AddOns\\HealBot\\HealBot.lua:1384: in function <Interface\\AddOns\\HealBot\\HealBot.lua:1355>\nInterface\\AddOns\\HealBot\\HealBot.lua:3104: in function <Interface\\AddOns\\HealBot\\HealBot.lua:2897>\nInterface\\AddOns\\HealBot\\HealBot.lua:7159: in function `HealBot_OnEvent'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
+		}, -- [101]
+		{
+			["message"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: attempt to index field '?' (a nil value)",
+			["count"] = 8,
+			["addons"] = "  Swatter, v8.2.6377 (SwimmingSeadragon)\n  AAPClassic, v0.12\n  AtlasLootClassic, vv1.1.2-beta\n  AucAdvanced, v8.2.6385 (SwimmingSeadragon)\n  AucFilterBasic, v8.2.6364 (SwimmingSeadragon)\n  AucStatHistogram, v8.2.6366 (SwimmingSeadragon)\n  AucStatiLevel, v8.2.6370 (SwimmingSeadragon)\n  AucStatPurchased, v8.2.6367 (SwimmingSeadragon)\n  AucStatSimple, v8.2.6368 (SwimmingSeadragon)\n  AucStatStdDev, v8.2.6369 (SwimmingSeadragon)\n  AucUtilFixAH, v8.2.6371 (SwimmingSeadragon)\n  BeanCounter, v8.2.6381 (SwimmingSeadragon)\n  ChatLinkIcons, v2.0\n  ClassicAutoQuest, v1.1.0\n  DBMCore, v1.13.1\n  DBMDefaultSkin, v\n  DBMStatusBarTimers, v\n  Details, v\n  ElvUI, v1.03\n  Enchantrix, v8.2.6392 (SwimmingSeadragon)\n  FasterLooting, v1.0.0\n  GSE, v2.4.16\n  GSEGUI, v2.4.16\n  GSELDB, v2.4.16\n  Guidelime, v1.005\n  GuidelimeBusteas160leveling, v0.9.6-Beta\n  GuidelimeSevenleaves, v0.001-Beta\n  HealBot, v8.2.0.3\n  Informant, v8.2.6374 (SwimmingSeadragon)\n  Necrosis, v5.0\n  OmniCC, v8.2.3\n  QuestieDevmaster, v4.0.5 ALPHA\n  RealMobHealth, v2.3\n  SharedMedia, v3.1.0-191\n  SlideBar, v8.2.6375 (SwimmingSeadragon)\n  Stubby, v8.2.6376 (SwimmingSeadragon)\n  TidyPlatesThreatPlates, v1.2.0\n  VendorPrice, v1.1.4\n  BlizRuntimeLib_enUS v1.13.2.11302 <none>\n  (ck=4d3)\n",
+			["locals"] = "self = <table> {\n BindName = <function> defined @Interface\\AddOns\\Necrosis\\Bindings.lua:42\n GetCompanionInfo = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2886\n RezTimerUpdate = <function> defined @Interface\\AddOns\\Necrosis\\Timers\\OtherTimers.lua:45\n SetOfxy = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2857\n Unit = <table> {\n }\n CurseVector_Click = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Options-Menus.lua:850\n TradeStone = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2416\n TextTimerUpdate = <function> defined @Interface\\AddOns\\Necrosis\\Timers\\OtherTimers.lua:95\n SymetrieTimer = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2787\n OnDragStart = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:965\n BagExplore = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:1756\n Localization_Speech_De = <function> defined @Interface\\AddOns\\Necrosis\\Speech\\Speech-de.lua:37\n Timer_Click = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Options-Timers.lua:194\n Drag = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2476\n NoDrag = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2464\n SoulshardSwitch = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:1966\n NoCombatAttribute = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Attributes.lua:373\n SelfEffect = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:742\n Localization_Speech_Es = <function> defined @Interface\\AddOns\\Necrosis\\Speech\\Speech-es.lua:37\n Localization_Dialog_Cn = <function> defined @Interface\\AddOns\\Necrosis\\Locales\\Dialog-cn.lua:43\n GameTooltip_ClearMoney = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2446\n OnDragStop = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:970\n ShowAntiFearWarning = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2354\n AntiFear = <table> {\n }\n Localization_Dialog_En = <function> defined @Interface\\AddOns\\Necrosis\\Locales\\Dialog-en.lua:41\n SetCompanionPage = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Options-Buttons.lua:551\n CreateGroup = <function> defined @Interface\\AddOns\\Necrosis\\Timers\\GraphicalTimers.lua:45\n SetTimersConfig = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Options-Timers.lua:45\n Localization_Speech_Fr = <function> defined @Interface\\AddOns\\Necrosis\\Speech\\Speech-fr.lua:37\n SpellstoneUpdateAttribute = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Attributes.lua:549\n TimerExisteDeja = <function> defined @Interface\\AddOns\\Necrosis\\Timers\\Functions.lua:361\n Localization_Dialog_De = <function> defined @Interface\\AddOns\\Necrosis\\Locales\\Dialog-de.lua:41\n UnitHasEffect = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2319\n FindSpellAttribute = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2306\n Msg = <function> defined @Interface\\AddOns\\Necrosis\\Message.lua:42\n AddFrame = <function> defined @Interface\\AddOns\\Necrosis\\Timers\\GraphicalTimers.lua:114\n SpellSetup = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2154\n Localization_Speech_En = <function> defined @Interface\\AddOns\\Necrosis\\Speech\\Speech-en.lua:37\n RankToStone = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2136\n Localization_Speech_Cn = <function> defined @Interface\\AddOns\\Necrosis\\Speech\\Speech-cn.lua:44\n ButtonSetup = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2030\n FindSlot = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:1992\n InCombatAttribute = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Attributes.lua:443\n Recall = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:2758\n UpdateMana = <function> defined @Interface\\AddOns\\Necrosis\\Necrosis.lua:1457\n CurseVector_Init = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Options-Menus.lua:839\n RetraitTimerParGuid = <function> defined @Interface\\AddOns\\Necrosis\\Timers\\Functions.lua:313\n DemonVector_Init = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Options-Menus.lua:810\n BuffSpellAttribute = <function> defined @Interface\\AddOns\\Necrosis\\XML\\Attribute",
+			["timestamp"] = "2019-09-07 17:45:40",
 			["context"] = "Global",
 			["stack"] = "Interface\\AddOns\\Necrosis\\Necrosis.lua:2256: in function `SpellSetup'\nInterface\\AddOns\\Necrosis\\Necrosis.lua:342: in function `OnLoad'\n[string \"*:OnEvent\"]:1: in function <[string \"*:OnEvent\"]:1>\n",
 		}, -- [102]
