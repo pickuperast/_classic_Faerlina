@@ -16,8 +16,8 @@ GuidelimeDataChar = {
 			true, -- [8]
 			[31] = true,
 			[12] = true,
-			[30] = true,
 			[23] = true,
+			[30] = true,
 			[29] = true,
 		},
 		["Custom guides 12-21 Bustea's Undead Guide"] = {
@@ -153,7 +153,7 @@ GuidelimeDataChar = {
 	["currentGuide"] = "Bustea's Horde Leveling guide 31-41 Bustea's Horde Guide",
 	["editorFrameX"] = 0,
 	["arrowX"] = -27.3822212219238,
-	["mainFrameY"] = 49.1180381774902,
+	["mainFrameFontSize"] = 14,
 	["showArrow"] = true,
 	["guideSize"] = {
 		["Bustea's Horde Leveling guide 1-6 Freezy3 Undead Starter"] = 38,
@@ -172,5 +172,5 @@ GuidelimeDataChar = {
 	["mainFrameShowing"] = true,
 	["editorFrameRelative"] = "CENTER",
 	["mainFrameRelative"] = "RIGHT",
-	["mainFrameFontSize"] = 14,
+	["mainFrameY"] = 49.1180381774902,
 }

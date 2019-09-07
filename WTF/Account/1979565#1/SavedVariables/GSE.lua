@@ -2,27 +2,27 @@
 GSEOptions = {
 	["HideLoginMessage"] = false,
 	["DefaultImportAction"] = "MERGE",
-	["UseWLMExportFormat"] = true,
+	["showGSEoocqueue"] = true,
 	["COMMENT"] = "|cff55cc55",
 	["use2"] = false,
 	["STANDARDFUNCS"] = "|cff55ddcc",
 	["showGSEUsers"] = false,
 	["UnfoundSpellIDs"] = {
 	},
-	["showGSEoocqueue"] = true,
+	["UseWLMExportFormat"] = true,
 	["Updated801"] = true,
 	["use14"] = false,
-	["CreateGlobalButtons"] = false,
 	["autoCreateMacroStubsClass"] = true,
+	["CreateGlobalButtons"] = false,
 	["EQUALS"] = "|cffccddee",
-	["use11"] = false,
+	["NUMBER"] = "|cffffaa00",
 	["sendDebugOutputToChatWindow"] = false,
 	["debug"] = false,
 	["DefaultDisabledMacroIcon"] = "Interface\\Icons\\INV_MISC_BOOK_08",
 	["Update2305"] = true,
 	["ActiveSequenceVersions"] = {
 	},
-	["use6"] = false,
+	["CONCAT"] = "|cffcc7777",
 	["CommandColour"] = "|cFF00FF00",
 	["DisabledSequences"] = {
 	},
@@ -30,19 +30,19 @@ GSEOptions = {
 	["DebugPrintModConditionsOnKeyPress"] = false,
 	["overflowPersonalMacros"] = false,
 	["autoCreateMacroStubsGlobal"] = false,
-	["Update2410"] = true,
+	["ErroneousSpellID"] = {
+	},
 	["requireTarget"] = false,
 	["sendDebugOutputToDebugOutput"] = false,
 	["hideSoundErrors"] = false,
-	["ErroneousSpellID"] = {
-	},
+	["Update2410"] = true,
 	["hideUIErrors"] = false,
 	["STRING"] = "|cff888888",
 	["clearUIErrors"] = false,
 	["Update2415"] = true,
 	["Update2411"] = true,
 	["TitleColour"] = "|cFFFF0000",
-	["PromptSample"] = true,
+	["useTranslator"] = false,
 	["initialised"] = true,
 	["resetOOC"] = true,
 	["DebugModules"] = {
@@ -62,7 +62,7 @@ GSEOptions = {
 		["LeftButton"] = false,
 		["LeftAlt"] = false,
 		["RightShift"] = false,
-		["RightAlt"] = false,
+		["RightButton"] = false,
 		["AnyMod"] = false,
 		["Button5"] = false,
 		["LeftShift"] = false,
@@ -71,7 +71,7 @@ GSEOptions = {
 		["RightControl"] = false,
 		["MiddleButton"] = false,
 		["Button4"] = false,
-		["RightButton"] = false,
+		["RightAlt"] = false,
 	},
 	["filterList"] = {
 		["All"] = false,
@@ -84,7 +84,7 @@ GSEOptions = {
 	["WOWSHORTCUTS"] = "|cffddaaff",
 	["RealtimeParse"] = false,
 	["deleteOrphansOnLogout"] = false,
-	["useTranslator"] = false,
+	["PromptSample"] = true,
 	["UnfoundSpells"] = {
 	},
 	["AuthorColour"] = "|cFF00D1FF",
@@ -100,11 +100,11 @@ GSEOptions = {
 	["showMiniMap"] = {
 		["hide"] = true,
 	},
-	["CONCAT"] = "|cffcc7777",
+	["use6"] = false,
 	["use12"] = false,
 	["use13"] = false,
 	["NormalColour"] = "|cFFFFFFFF",
-	["NUMBER"] = "|cffffaa00",
+	["use11"] = false,
 	["saveAllMacrosLocal"] = true,
 	["setDefaultIconQuestionMark"] = true,
 	["KEYWORD"] = "|cff88bbdd",
@@ -135,11 +135,11 @@ GSELibrary = {
 					["PostMacro"] = {
 					},
 					["StepFunction"] = "Sequential",
-					["KeyPress"] = {
+					["KeyRelease"] = {
 					},
 					["PreMacro"] = {
 					},
-					["KeyRelease"] = {
+					["KeyPress"] = {
 					},
 				}, -- [1]
 				{

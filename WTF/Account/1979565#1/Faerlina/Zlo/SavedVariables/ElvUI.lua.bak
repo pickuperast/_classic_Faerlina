@@ -1,1216 +1,754 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/cw Ihateorcs-Faerlina какой у тебя батлтаг", -- [1]
-		"da", -- [2]
-		"не стоит", -- [3]
-		"пусть хоть 1 не будет играть вов)", -- [4]
-		"из нашей семьи", -- [5]
-		"блин", -- [6]
-		"на твое усмотрение короче", -- [7]
-		"/cw Lucía res pls", -- [8]
-		"/cw Lucía res and i help you", -- [9]
-		"/cw Juneebjones-Faerlina im grinding", -- [10]
-		"/cw Juneebjones-Faerlina im grindin4g4", -- [11]
-		"/s no mana", -- [12]
-		"/s wtf with your dps?", -- [13]
-		"/s inv", -- [14]
-		"/s +", -- [15]
-		"/s INV", -- [16]
-		"/played", -- [17]
-		"/gse", -- [18]
-		"/macro", -- [19]
-		"/targetenemy", -- [20]
+		"/reloadui", -- [1]
+		"/elvui", -- [2]
+		"/s /c lear tar get", -- [3]
+		"/s 1914508", -- [4]
+		"/s 2111632", -- [5]
+		"/s 1848713", -- [6]
+		"/s 1519228", -- [7]
+		"/s 1979263", -- [8]
+		"/s 11447982", -- [9]
+		"/s 1584511", -- [10]
+		"/s 2894984", -- [11]
+		"/s 12763842", -- [12]
+		"/cleartarget", -- [13]
+		"/s 4294967295", -- [14]
+		"/s 1126279", -- [15]
+		"/s 3092371", -- [16]
+		"/s 12303291", -- [17]
+		"/s 459268", -- [18]
+		"/s 4724997", -- [19]
+		"/s 3881787", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"you go oom to fast", -- [1]
-			"Hogan-Faerlina", -- [2]
+			"no this is patrick", -- [1]
+			"Osiriis-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hogan", -- [5]
+			"Osiriis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			28910, -- [11]
-			"Player-4408-005E819B", -- [12]
+			17842, -- [11]
+			"Player-4408-00A717D7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffHogan|r",
-			[51] = 1567757035,
+			[52] = "|cffffffffOsiriis|r",
+			[51] = 1567797846,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [1]
 		{
-			"305 mana per dot", -- [1]
-			"Rileyj-Faerlina", -- [2]
+			"what is a healer", -- [1]
+			"Fogdeath-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rileyj", -- [5]
+			"Fogdeath", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			28915, -- [11]
-			"Player-4408-00009639", -- [12]
+			17855, -- [11]
+			"Player-4408-00ACACE6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffRileyj|r",
-			[51] = 1567757044,
+			[52] = "|cffffffffFogdeath|r",
+			[51] = 1567797859,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [2]
 		{
-			"call it if you want tho", -- [1]
-			"Xhotl-Faerlina", -- [2]
+			"can i get a layer please", -- [1]
+			"Squippyy-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Xhotl", -- [5]
+			"Squippyy", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			28926, -- [11]
-			"Player-4408-00FE1937", -- [12]
+			17894, -- [11]
+			"Player-4408-004B43D0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaXhotl|r",
-			[51] = 1567757054,
+			[52] = "|cff3fc6eaSquippyy|r",
+			[51] = 1567797895,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [3]
 		{
-			"priests are OP", -- [1]
-			"Xhotl-Faerlina", -- [2]
+			"thx", -- [1]
+			"Squippyy-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Xhotl", -- [5]
+			"Squippyy", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			28934, -- [11]
-			"Player-4408-00FE1937", -- [12]
+			17903, -- [11]
+			"Player-4408-004B43D0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaXhotl|r",
-			[51] = 1567757060,
+			[52] = "|cff3fc6eaSquippyy|r",
+			[51] = 1567797906,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [4]
 		{
-			"WTF MOLT", -- [1]
-			"Gomi-Faerlina", -- [2]
+			"what is love (8)", -- [1]
+			"Fogdeath-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gomi", -- [5]
+			"Fogdeath", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			28940, -- [11]
-			"Player-4408-0095E1B3", -- [12]
+			17928, -- [11]
+			"Player-4408-00ACACE6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Gomi|r",
-			[51] = 1567757062,
+			[52] = "|cffffffffFogdeath|r",
+			[51] = 1567797941,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [5]
 		{
-			"51", -- [1]
-			"Gomi-Faerlina", -- [2]
+			"don't hurt me", -- [1]
+			"Chärm-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gomi", -- [5]
+			"Chärm", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			28949, -- [11]
-			"Player-4408-0095E1B3", -- [12]
+			17942, -- [11]
+			"Player-4408-00D5AB21", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Gomi|r",
-			[51] = 1567757067,
+			[52] = "|cffffffffChärm|r",
+			[51] = 1567797956,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [6]
 		{
-			"$%^&*a", -- [1]
-			"Gomi-Faerlina", -- [2]
+			"no more", -- [1]
+			"Chärm-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gomi", -- [5]
+			"Chärm", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			28950, -- [11]
-			"Player-4408-0095E1B3", -- [12]
+			17948, -- [11]
+			"Player-4408-00D5AB21", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Gomi|r",
-			[51] = 1567757068,
+			[52] = "|cffffffffChärm|r",
+			[51] = 1567797970,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [7]
 		{
-			"u kinda cant multi as a healer", -- [1]
-			"Rileyj-Faerlina", -- [2]
+			"BABY DONT HURT MEEEEEE", -- [1]
+			"Fogdeath-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rileyj", -- [5]
+			"Fogdeath", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			28951, -- [11]
-			"Player-4408-00009639", -- [12]
+			17950, -- [11]
+			"Player-4408-00ACACE6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffRileyj|r",
-			[51] = 1567757068,
+			[52] = "|cffffffffFogdeath|r",
+			[51] = 1567797971,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [8]
 		{
-			"mage is busted", -- [1]
-			"Rileyj-Faerlina", -- [2]
+			"i was trying to figure out why the runlvl was a joke", -- [1]
+			"Scyllan-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Rileyj", -- [5]
+			"Scyllan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			28964, -- [11]
-			"Player-4408-00009639", -- [12]
+			17972, -- [11]
+			"Player-4408-005E93B5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffRileyj|r",
-			[51] = 1567757087,
+			[52] = "|cffff7c0aScyllan|r",
+			[51] = 1567797987,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [9]
 		{
-			"wts |cffa335ee|Hitem:14551::::::::60:::::::|h[Edgemaster's Handguards]|h|r 900", -- [1]
-			"Shiny-Faerlina", -- [2]
+			"and then i realize its pepe", -- [1]
+			"Scyllan-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Scyllan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			17978, -- [11]
+			"Player-4408-005E93B5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aScyllan|r",
+			[51] = 1567797991,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [10]
+		{
+			"wts |cff1eff00|Hitem:14259::::::1851:687247616:44:::1::::|h[Bloodwoven Boots of Shadow Wrath]|h|r|cff1eff00|Hitem:7474::::::1845:1140544000:44:::1::::|h[Regal Cloak of Shadow Wrath]|h|r|cff1eff00|Hitem:9846:66:::::1843:1762256128:44:::::::|h[Conjurer's Bracers of Shadow Wrath]|h|r pm offers", -- [1]
+			"Argus-Faerlina", -- [2]
 			"", -- [3]
 			"4. world", -- [4]
-			"Shiny", -- [5]
+			"Argus", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world", -- [9]
 			0, -- [10]
-			29008, -- [11]
-			"Player-4408-00531F7C", -- [12]
+			18103, -- [11]
+			"Player-4408-009F51AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Shiny|r",
-			[51] = 1567757145,
+			[52] = "|cff8787edArgus|r",
+			[51] = 1567798143,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [10]
-		{
-			"|cff0070dd|Hitem:13332::::::::44:::14::::|h[Blue Skeletal Horse]|h|r hell yeah", -- [1]
-			"Hogan-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Hogan", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			29018, -- [11]
-			"Player-4408-005E819B", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffHogan|r",
-			[51] = 1567757164,
-			[50] = "CHAT_MSG_GUILD",
 		}, -- [11]
 		{
-			"blue???", -- [1]
-			"Skatey-Faerlina", -- [2]
+			"wts |cff1eff00|Hitem:14259::::::1851:687247616:44:::1::::|h[Bloodwoven Boots of Shadow Wrath]|h|r|cff1eff00|Hitem:7474::::::1845:1140544000:44:::1::::|h[Regal Cloak of Shadow Wrath]|h|r|cff1eff00|Hitem:9846:66:::::1843:1762256128:44:::::::|h[Conjurer's Bracers of Shadow Wrath]|h|r pm offers", -- [1]
+			"Argus-Faerlina", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Skatey", -- [5]
+			"4. world", -- [4]
+			"Argus", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			4, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			29022, -- [11]
-			"Player-4408-0087A4A2", -- [12]
+			18181, -- [11]
+			"Player-4408-009F51AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Skatey|r",
-			[51] = 1567757170,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edArgus|r",
+			[51] = 1567798237,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [12]
 		{
-			"jk gratz", -- [1]
-			"Skatey-Faerlina", -- [2]
+			"wts |cff1eff00|Hitem:14259::::::1851:687247616:44:::1::::|h[Bloodwoven Boots of Shadow Wrath]|h|r|cff1eff00|Hitem:7474::::::1845:1140544000:44:::1::::|h[Regal Cloak of Shadow Wrath]|h|r|cff1eff00|Hitem:9846:66:::::1843:1762256128:44:::::::|h[Conjurer's Bracers of Shadow Wrath]|h|r pm offers", -- [1]
+			"Argus-Faerlina", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Skatey", -- [5]
+			"4. world", -- [4]
+			"Argus", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			4, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			29025, -- [11]
-			"Player-4408-0087A4A2", -- [12]
+			18349, -- [11]
+			"Player-4408-009F51AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Skatey|r",
-			[51] = 1567757173,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edArgus|r",
+			[51] = 1567798448,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [13]
 		{
-			"now is the question should i go deep disc or holy", -- [1]
-			"Hogan-Faerlina", -- [2]
+			"PogChamp a 2nd level 50", -- [1]
+			"Molt-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hogan", -- [5]
+			"Molt", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			29073, -- [11]
-			"Player-4408-005E819B", -- [12]
+			18452, -- [11]
+			"Player-4408-0073B01C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffHogan|r",
-			[51] = 1567757353,
+			[52] = "|cff3fc6eaMolt|r",
+			[51] = 1567798598,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [14]
 		{
-			"yo wtf", -- [1]
-			"Skatey-Faerlina", -- [2]
+			"wts |cff1eff00|Hitem:14259::::::1851:687247616:44:::1::::|h[Bloodwoven Boots of Shadow Wrath]|h|r|cff1eff00|Hitem:7474::::::1845:1140544000:44:::1::::|h[Regal Cloak of Shadow Wrath]|h|r|cff1eff00|Hitem:9846:66:::::1843:1762256128:44:::::::|h[Conjurer's Bracers of Shadow Wrath]|h|r pm offers", -- [1]
+			"Argus-Faerlina", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Skatey", -- [5]
+			"4. world", -- [4]
+			"Argus", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			4, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			29074, -- [11]
-			"Player-4408-0087A4A2", -- [12]
+			18531, -- [11]
+			"Player-4408-009F51AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Skatey|r",
-			[51] = 1567757357,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edArgus|r",
+			[51] = 1567798692,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [15]
 		{
-			"|cff9d9d9d|Hitem:24231::::::::36:::::::|h[Coarse Snuff]|h|r in my bag is glowing orange", -- [1]
-			"Skatey-Faerlina", -- [2]
+			"going to have a 3rd by tomorrow", -- [1]
+			"Osiriis-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Skatey", -- [5]
+			"Osiriis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			29076, -- [11]
-			"Player-4408-0087A4A2", -- [12]
+			18601, -- [11]
+			"Player-4408-00A717D7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Skatey|r",
-			[51] = 1567757365,
+			[52] = "|cffffffffOsiriis|r",
+			[51] = 1567798763,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [16]
 		{
-			"Go DEEEEEEP", -- [1]
-			"Kermitcrime-Faerlina", -- [2]
+			"wts |cff1eff00|Hitem:14259::::::1851:687247616:44:::1::::|h[Bloodwoven Boots of Shadow Wrath]|h|r|cff1eff00|Hitem:7474::::::1845:1140544000:44:::1::::|h[Regal Cloak of Shadow Wrath]|h|r|cff1eff00|Hitem:9846:66:::::1843:1762256128:44:::::::|h[Conjurer's Bracers of Shadow Wrath]|h|r pm offers", -- [1]
+			"Argus-Faerlina", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Kermitcrime", -- [5]
+			"4. world", -- [4]
+			"Argus", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			4, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			29078, -- [11]
-			"Player-4408-0091D839", -- [12]
+			18692, -- [11]
+			"Player-4408-009F51AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Kermitcrime|r",
-			[51] = 1567757369,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edArgus|r",
+			[51] = 1567798875,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [17]
 		{
-			"My |cffffffff|Hitem:8066::::::::23:::11::::|h[Fizzule's Whistle]|h|r is glowing too", -- [1]
-			"Kermitcrime-Faerlina", -- [2]
+			"wts |cff1eff00|Hitem:14259::::::1851:687247616:44:::1::::|h[Bloodwoven Boots of Shadow Wrath]|h|r|cff1eff00|Hitem:7474::::::1845:1140544000:44:::1::::|h[Regal Cloak of Shadow Wrath]|h|r|cff1eff00|Hitem:9846:66:::::1843:1762256128:44:::::::|h[Conjurer's Bracers of Shadow Wrath]|h|r pm offers", -- [1]
+			"Argus-Faerlina", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Kermitcrime", -- [5]
+			"4. world", -- [4]
+			"Argus", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			4, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			29086, -- [11]
-			"Player-4408-0091D839", -- [12]
+			18786, -- [11]
+			"Player-4408-009F51AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Kermitcrime|r",
-			[51] = 1567757387,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edArgus|r",
+			[51] = 1567798961,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [18]
 		{
-			"wtf you see it too", -- [1]
-			"Skatey-Faerlina", -- [2]
+			"ding 41", -- [1]
+			"Hurpusderpus-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Skatey", -- [5]
+			"Hurpusderpus", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			29091, -- [11]
-			"Player-4408-0087A4A2", -- [12]
+			18788, -- [11]
+			"Player-4408-0000F084", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Skatey|r",
-			[51] = 1567757403,
+			[52] = "|cff3fc6eaHurpusderpus|r",
+			[51] = 1567798962,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [19]
 		{
-			"LFG HINTERLANDS ELITE QUEST - SHAREABLE |cff1eff00|Hitem:19120::::::::50:::11:1:3524:::|h[Rune of the Guard Captain]|h|r", -- [1]
-			"Oshamacare-Faerlina", -- [2]
+			"wts |cff1eff00|Hitem:14259::::::1851:687247616:44:::1::::|h[Bloodwoven Boots of Shadow Wrath]|h|r|cff1eff00|Hitem:7474::::::1845:1140544000:44:::1::::|h[Regal Cloak of Shadow Wrath]|h|r|cff1eff00|Hitem:9846:66:::::1843:1762256128:44:::::::|h[Conjurer's Bracers of Shadow Wrath]|h|r pm offers", -- [1]
+			"Argus-Faerlina", -- [2]
 			"", -- [3]
 			"4. world", -- [4]
-			"Oshamacare", -- [5]
+			"Argus", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world", -- [9]
 			0, -- [10]
-			29172, -- [11]
-			"Player-4408-006FCB91", -- [12]
+			18860, -- [11]
+			"Player-4408-009F51AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbOshamacare|r",
-			[51] = 1567757584,
+			[52] = "|cff8787edArgus|r",
+			[51] = 1567799025,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [20]
 		{
-			"LFG HINTERLANDS ELITE QUEST - SHAREABLE |cff1eff00|Hitem:19120::::::::50:::11:1:3524:::|h[Rune of the Guard Captain]|h|r", -- [1]
-			"Oshamacare-Faerlina", -- [2]
+			"gz", -- [1]
+			"Osiriis-Faerlina", -- [2]
 			"", -- [3]
-			"4. world", -- [4]
-			"Oshamacare", -- [5]
+			"", -- [4]
+			"Osiriis", -- [5]
 			"", -- [6]
 			0, -- [7]
-			4, -- [8]
-			"world", -- [9]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			29206, -- [11]
-			"Player-4408-006FCB91", -- [12]
+			18874, -- [11]
+			"Player-4408-00A717D7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbOshamacare|r",
-			[51] = 1567757637,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffffffffOsiriis|r",
+			[51] = 1567799034,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [21]
 		{
-			"LFG HINTERLANDS ELITE QUEST - SHAREABLE |cff1eff00|Hitem:19120::::::::50:::11:1:3524:::|h[Rune of the Guard Captain]|h|r", -- [1]
-			"Oshamacare-Faerlina", -- [2]
+			"wts |cff1eff00|Hitem:14259::::::1851:687247616:44:::1::::|h[Bloodwoven Boots of Shadow Wrath]|h|r|cff1eff00|Hitem:7474::::::1845:1140544000:44:::1::::|h[Regal Cloak of Shadow Wrath]|h|r|cff1eff00|Hitem:9846:66:::::1843:1762256128:44:::::::|h[Conjurer's Bracers of Shadow Wrath]|h|r pm offers", -- [1]
+			"Argus-Faerlina", -- [2]
 			"", -- [3]
 			"4. world", -- [4]
-			"Oshamacare", -- [5]
+			"Argus", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world", -- [9]
 			0, -- [10]
-			29223, -- [11]
-			"Player-4408-006FCB91", -- [12]
+			18910, -- [11]
+			"Player-4408-009F51AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbOshamacare|r",
-			[51] = 1567757661,
+			[52] = "|cff8787edArgus|r",
+			[51] = 1567799067,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [22]
 		{
-			"anyone runnning SFK?", -- [1]
-			"Haystown-Faerlina", -- [2]
+			"could i get another layer plz ;p", -- [1]
+			"Squippyy-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Haystown", -- [5]
+			"Squippyy", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			29452, -- [11]
-			"Player-4408-001B3C34", -- [12]
+			18927, -- [11]
+			"Player-4408-004B43D0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaHaystown|r",
-			[51] = 1567758019,
+			[52] = "|cff3fc6eaSquippyy|r",
+			[51] = 1567799079,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [23]
 		{
-			"WTS |cff0070dd|Hitem:13115::::::::52:::::::|h[Sheepshear Mantle]|h|r", -- [1]
-			"Masker-Faerlina", -- [2]
+			"wts |cff1eff00|Hitem:14259::::::1851:687247616:44:::1::::|h[Bloodwoven Boots of Shadow Wrath]|h|r|cff1eff00|Hitem:7474::::::1845:1140544000:44:::1::::|h[Regal Cloak of Shadow Wrath]|h|r|cff1eff00|Hitem:9846:66:::::1843:1762256128:44:::::::|h[Conjurer's Bracers of Shadow Wrath]|h|r pm offers", -- [1]
+			"Argus-Faerlina", -- [2]
 			"", -- [3]
 			"4. world", -- [4]
-			"Masker", -- [5]
+			"Argus", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world", -- [9]
 			0, -- [10]
-			29617, -- [11]
-			"Player-4408-009CE3A9", -- [12]
+			19012, -- [11]
+			"Player-4408-009F51AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aMasker|r",
-			[51] = 1567758335,
+			[52] = "|cff8787edArgus|r",
+			[51] = 1567799126,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [24]
 		{
-			"WTS |cff0070dd|Hitem:13115::::::::52:::::::|h[Sheepshear Mantle]|h|r", -- [1]
-			"Masker-Faerlina", -- [2]
-			"", -- [3]
-			"4. world", -- [4]
-			"Masker", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"world", -- [9]
-			0, -- [10]
-			29618, -- [11]
-			"Player-4408-009CE3A9", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aMasker|r",
-			[51] = 1567758335,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [25]
-		{
-			"can any inv to switch layer?", -- [1]
-			"Greatbrother-Faerlina", -- [2]
+			"im g now", -- [1]
+			"Squippyy-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Greatbrother", -- [5]
+			"Squippyy", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			29622, -- [11]
-			"Player-4408-003C7302", -- [12]
+			19104, -- [11]
+			"Player-4408-004B43D0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Greatbrother|r",
-			[51] = 1567758337,
+			[52] = "|cff3fc6eaSquippyy|r",
+			[51] = 1567799215,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [25]
+		{
+			"what level for mara?", -- [1]
+			"Blackhawk-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Blackhawk", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			19235, -- [11]
+			"Player-4408-003B1D39", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aBlackhawk|r",
+			[51] = 1567799315,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [26]
 		{
-			"can inv any more pls?", -- [1]
-			"Greatbrother-Faerlina", -- [2]
+			"wts |cff1eff00|Hitem:14259::::::1851:687247616:44:::1::::|h[Bloodwoven Boots of Shadow Wrath]|h|r|cff1eff00|Hitem:7474::::::1845:1140544000:44:::1::::|h[Regal Cloak of Shadow Wrath]|h|r|cff1eff00|Hitem:9846:66:::::1843:1762256128:44:::::::|h[Conjurer's Bracers of Shadow Wrath]|h|r pm offers", -- [1]
+			"Argus-Faerlina", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Greatbrother", -- [5]
+			"4. world", -- [4]
+			"Argus", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			4, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			29700, -- [11]
-			"Player-4408-003C7302", -- [12]
+			19550, -- [11]
+			"Player-4408-009F51AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Greatbrother|r",
-			[51] = 1567758467,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edArgus|r",
+			[51] = 1567799544,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [27]
 		{
-			"np", -- [1]
-			"Papadukes-Faerlina", -- [2]
+			"wts |cff1eff00|Hitem:14259::::::1851:687247616:44:::1::::|h[Bloodwoven Boots of Shadow Wrath]|h|r|cff1eff00|Hitem:7474::::::1845:1140544000:44:::1::::|h[Regal Cloak of Shadow Wrath]|h|r|cff1eff00|Hitem:9846:66:::::1843:1762256128:44:::::::|h[Conjurer's Bracers of Shadow Wrath]|h|r pm offers", -- [1]
+			"Argus-Faerlina", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Papadukes", -- [5]
+			"4. world", -- [4]
+			"Argus", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			4, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			29737, -- [11]
-			"Player-4408-00B1A901", -- [12]
+			19680, -- [11]
+			"Player-4408-009F51AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Papadukes|r",
-			[51] = 1567758508,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edArgus|r",
+			[51] = 1567799675,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [28]
 		{
-			"can i also get a layer plz?", -- [1]
-			"Optoxd-Faerlina", -- [2]
+			"Welcome!!!", -- [1]
+			"Walter-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Optoxd", -- [5]
+			"Walter", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			29747, -- [11]
-			"Player-4408-00774D57", -- [12]
+			19815, -- [11]
+			"Player-4408-0078A42F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaOptoxd|r",
-			[51] = 1567758523,
+			[52] = "|cff0070dbWalter|r",
+			[51] = 1567799793,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [29]
 		{
-			"ty", -- [1]
-			"Optoxd-Faerlina", -- [2]
+			"Details! report for Milkshakes Brought To the Yard [0:00 EF]", -- [1]
+			"Ratz-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Optoxd", -- [5]
+			"Ratz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			29755, -- [11]
-			"Player-4408-00774D57", -- [12]
+			20347, -- [11]
+			"Player-4408-00EC3EF1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaOptoxd|r",
-			[51] = 1567758530,
+			[52] = "|cff3fc6eaRatz|r",
+			[51] = 1567800479,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [30]
 		{
-			"np", -- [1]
-			"Diinkey-Faerlina", -- [2]
+			"1. Ratz ... 100 (100%)", -- [1]
+			"Ratz-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Diinkey", -- [5]
+			"Ratz", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			29761, -- [11]
-			"Player-4408-00C0AE78", -- [12]
+			20348, -- [11]
+			"Player-4408-00EC3EF1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Diinkey|r",
-			[51] = 1567758536,
+			[52] = "|cff3fc6eaRatz|r",
+			[51] = 1567800479,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [31]
 		{
-			"wts |cffa335ee|Hitem:14551::::::::60:::::::|h[Edgemaster's Handguards]|h|r 900", -- [1]
-			"Shiny-Faerlina", -- [2]
+			"2. You ... 0 (0%)", -- [1]
+			"Ratz-Faerlina", -- [2]
 			"", -- [3]
-			"4. world", -- [4]
-			"Shiny", -- [5]
+			"", -- [4]
+			"Ratz", -- [5]
 			"", -- [6]
 			0, -- [7]
-			4, -- [8]
-			"world", -- [9]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			30131, -- [11]
-			"Player-4408-00531F7C", -- [12]
+			20349, -- [11]
+			"Player-4408-00EC3EF1", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Shiny|r",
-			[51] = 1567759098,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff3fc6eaRatz|r",
+			[51] = 1567800479,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [32]
 		{
-			"wtb |cff1eff00|Hitem:4369::::::::24:::11:1:3524:::|h[Deadly Blunderbuss]|h|r", -- [1]
-			"Nyanners-Faerlina", -- [2]
+			"wts |cff1eff00|Hitem:14259::::::1851:687247616:44:::1::::|h[Bloodwoven Boots of Shadow Wrath]|h|r|cff1eff00|Hitem:7474::::::1845:1140544000:44:::1::::|h[Regal Cloak of Shadow Wrath]|h|r|cff1eff00|Hitem:9846:66:::::1843:1762256128:44:::::::|h[Conjurer's Bracers of Shadow Wrath]|h|r pm offers", -- [1]
+			"Argus-Faerlina", -- [2]
 			"", -- [3]
 			"4. world", -- [4]
-			"Nyanners", -- [5]
+			"Argus", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world", -- [9]
 			0, -- [10]
-			30142, -- [11]
-			"Player-4408-00CEBC06", -- [12]
+			20410, -- [11]
+			"Player-4408-009F51AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edNyanners|r",
-			[51] = 1567759112,
+			[52] = "|cff8787edArgus|r",
+			[51] = 1567800549,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [33]
-		{
-			"WTS |cff0070dd|Hitem:2802::::::::41:::::::|h[Blazing Emblem]|h|r60g", -- [1]
-			"Imgonnasayit-Faerlina", -- [2]
-			"", -- [3]
-			"4. world", -- [4]
-			"Imgonnasayit", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"world", -- [9]
-			0, -- [10]
-			30151, -- [11]
-			"Player-4408-005E5851", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaImgonnasayit|r",
-			[51] = 1567759125,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [34]
-		{
-			"wts |cffa335ee|Hitem:14551::::::::60:::::::|h[Edgemaster's Handguards]|h|r 900", -- [1]
-			"Shiny-Faerlina", -- [2]
-			"", -- [3]
-			"4. world", -- [4]
-			"Shiny", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"world", -- [9]
-			0, -- [10]
-			30214, -- [11]
-			"Player-4408-00531F7C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Shiny|r",
-			[51] = 1567759234,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [35]
-		{
-			"wtb |cff1eff00|Hitem:4369::::::::24:::11:1:3524:::|h[Deadly Blunderbuss]|h|r", -- [1]
-			"Nyanners-Faerlina", -- [2]
-			"", -- [3]
-			"4. world", -- [4]
-			"Nyanners", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"world", -- [9]
-			0, -- [10]
-			30223, -- [11]
-			"Player-4408-00CEBC06", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edNyanners|r",
-			[51] = 1567759243,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [36]
-		{
-			"wtb |cffa335ee|Hitem:811::::::::60:::::::|h[Axe of the Deep Woods]|h|r", -- [1]
-			"Jaelaw-Faerlina", -- [2]
-			"", -- [3]
-			"4. world", -- [4]
-			"Jaelaw", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"world", -- [9]
-			0, -- [10]
-			30451, -- [11]
-			"Player-4408-005CA03C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dJaelaw|r",
-			[51] = 1567759665,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [37]
-		{
-			"can i get a layer?", -- [1]
-			"Optoxd-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Optoxd", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			30519, -- [11]
-			"Player-4408-00774D57", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaOptoxd|r",
-			[51] = 1567759814,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [38]
-		{
-			"ty", -- [1]
-			"Optoxd-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Optoxd", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			30521, -- [11]
-			"Player-4408-00774D57", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaOptoxd|r",
-			[51] = 1567759822,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [39]
-		{
-			"can someone invite also", -- [1]
-			"Villie-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Villie", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			30534, -- [11]
-			"Player-4408-0078D378", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaVillie|r",
-			[51] = 1567759843,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [40]
-		{
-			"wts |cffa335ee|Hitem:14551::::::::60:::::::|h[Edgemaster's Handguards]|h|r 900", -- [1]
-			"Shiny-Faerlina", -- [2]
-			"", -- [3]
-			"4. world", -- [4]
-			"Shiny", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"world", -- [9]
-			0, -- [10]
-			30584, -- [11]
-			"Player-4408-00531F7C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Shiny|r",
-			[51] = 1567759980,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [41]
-		{
-			"in 3 bars I go sleep", -- [1]
-			"Molt-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Molt", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			30594, -- [11]
-			"Player-4408-0073B01C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaMolt|r",
-			[51] = 1567760004,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [42]
-		{
-			"get 60 on sunday", -- [1]
-			"Molt-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Molt", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			30595, -- [11]
-			"Player-4408-0073B01C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaMolt|r",
-			[51] = 1567760013,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [43]
-		{
-			"one more layer plz", -- [1]
-			"Optoxd-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Optoxd", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			30629, -- [11]
-			"Player-4408-00774D57", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaOptoxd|r",
-			[51] = 1567760102,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [44]
-		{
-			"wts |cffa335ee|Hitem:14551::::::::60:::::::|h[Edgemaster's Handguards]|h|r 900", -- [1]
-			"Shiny-Faerlina", -- [2]
-			"", -- [3]
-			"4. world", -- [4]
-			"Shiny", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"world", -- [9]
-			0, -- [10]
-			30807, -- [11]
-			"Player-4408-00531F7C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Shiny|r",
-			[51] = 1567760591,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [45]
-		{
-			"WTS |cff0070dd|Hitem:13035::::::::52:::::::|h[Serpent Slicer]|h|r pst with offer", -- [1]
-			"Ragat-Faerlina", -- [2]
-			"", -- [3]
-			"4. world", -- [4]
-			"Ragat", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"world", -- [9]
-			0, -- [10]
-			30889, -- [11]
-			"Player-4408-0075986A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070dbRagat|r",
-			[51] = 1567760879,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [46]
-		{
-			"look at this |cffffffff|Hitem:11108::::::::48:::::::|h[Faded Photograph]|h|r", -- [1]
-			"Gomi-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gomi", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			30911, -- [11]
-			"Player-4408-0095E1B3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Gomi|r",
-			[51] = 1567760954,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [47]
-		{
-			"everytime i see it makes me laugh", -- [1]
-			"Gomi-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gomi", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			30914, -- [11]
-			"Player-4408-0095E1B3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Gomi|r",
-			[51] = 1567760959,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [48]
-		{
-			"no", -- [1]
-			"Osiriis-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Osiriis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			30930, -- [11]
-			"Player-4408-00A717D7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffOsiriis|r",
-			[51] = 1567761005,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [49]
-		{
-			"haha", -- [1]
-			"Haystown-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Haystown", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			30934, -- [11]
-			"Player-4408-001B3C34", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaHaystown|r",
-			[51] = 1567761021,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [50]
-		{
-			"my god questing right now is hitting the nostalgia trip hard", -- [1]
-			"Osiriis-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Osiriis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			31006, -- [11]
-			"Player-4408-00A717D7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffOsiriis|r",
-			[51] = 1567761191,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [51]
-		{
-			"killing these ogres on my hunter not knowing wtf i was going", -- [1]
-			"Osiriis-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Osiriis", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			31015, -- [11]
-			"Player-4408-00A717D7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffOsiriis|r",
-			[51] = 1567761204,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [52]
-		{
-			"lol I remember how bad of drop rate the centaur bracers have and its kinda hitting home lol", -- [1]
-			"Yeeoleport-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Yeeoleport", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			31024, -- [11]
-			"Player-4408-00FD3BDC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffYeeoleport|r",
-			[51] = 1567761224,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [53]
-		{
-			"wts |cff0070dd|Hitem:13139::::::::50:::::::|h[Guttbuster]|h|r pst", -- [1]
-			"Grimmzly-Faerlina", -- [2]
-			"", -- [3]
-			"4. world", -- [4]
-			"Grimmzly", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"world", -- [9]
-			0, -- [10]
-			31043, -- [11]
-			"Player-4408-00589620", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff8787edGrimmzly|r",
-			[51] = 1567761247,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [54]
 		{
 			"|cffffff00The Great Lift is under attack!|r", -- [1]
 			"", -- [2]
@@ -1222,7 +760,7 @@ ElvCharacterDB = {
 			3, -- [8]
 			"LocalDefense - Thousand Needles", -- [9]
 			0, -- [10]
-			31174, -- [11]
+			20431, -- [11]
 			false, -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1230,191 +768,847 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "",
-			[51] = 1567761510,
+			[51] = 1567800576,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [55]
+		}, -- [34]
 		{
-			"WTS |cff0070dd|Hitem:13035::::::::52:::::::|h[Serpent Slicer]|h|r pst with offer", -- [1]
-			"Ragat-Faerlina", -- [2]
+			"wts |cff1eff00|Hitem:14259::::::1851:687247616:44:::1::::|h[Bloodwoven Boots of Shadow Wrath]|h|r|cff1eff00|Hitem:7474::::::1845:1140544000:44:::1::::|h[Regal Cloak of Shadow Wrath]|h|r|cff1eff00|Hitem:9846:66:::::1843:1762256128:44:::::::|h[Conjurer's Bracers of Shadow Wrath]|h|r pm offers", -- [1]
+			"Argus-Faerlina", -- [2]
 			"", -- [3]
 			"4. world", -- [4]
-			"Ragat", -- [5]
+			"Argus", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world", -- [9]
 			0, -- [10]
-			31197, -- [11]
-			"Player-4408-0075986A", -- [12]
+			20628, -- [11]
+			"Player-4408-009F51AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbRagat|r",
-			[51] = 1567761553,
+			[52] = "|cff8787edArgus|r",
+			[51] = 1567800823,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [56]
+		}, -- [35]
 		{
-			"my first ever char was a warrior and centuars made me reroll becuase they were so frustrating", -- [1]
-			"Osiriis-Faerlina", -- [2]
+			"WTS |cff1eff00|Hitem:15566::::::155:1513591680:36:::::::|h[Marauder's Bracers of Strength]|h|r", -- [1]
+			"Rezan-Faerlina", -- [2]
+			"", -- [3]
+			"4. world", -- [4]
+			"Rezan", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			20747, -- [11]
+			"Player-4408-005AC4A9", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Rezan|r",
+			[51] = 1567800999,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [36]
+		{
+			"WTS|cff1eff00|Hitem:8029::::::::43:::::::|h[Plans: Wicked Mithril Blade]|h|r", -- [1]
+			"Helltsm-Faerlina", -- [2]
+			"", -- [3]
+			"4. world", -- [4]
+			"Helltsm", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			20790, -- [11]
+			"Player-4408-00BA5E11", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaHelltsm|r",
+			[51] = 1567801052,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [37]
+		{
+			"wts |cff1eff00|Hitem:14259::::::1851:687247616:44:::1::::|h[Bloodwoven Boots of Shadow Wrath]|h|r|cff1eff00|Hitem:7474::::::1845:1140544000:44:::1::::|h[Regal Cloak of Shadow Wrath]|h|r|cff1eff00|Hitem:9846:66:::::1843:1762256128:44:::::::|h[Conjurer's Bracers of Shadow Wrath]|h|r pm offers", -- [1]
+			"Argus-Faerlina", -- [2]
+			"", -- [3]
+			"4. world", -- [4]
+			"Argus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			21018, -- [11]
+			"Player-4408-009F51AE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edArgus|r",
+			[51] = 1567801306,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [38]
+		{
+			"wts |cff1eff00|Hitem:14259::::::1851:687247616:44:::1::::|h[Bloodwoven Boots of Shadow Wrath]|h|r|cff1eff00|Hitem:7474::::::1845:1140544000:44:::1::::|h[Regal Cloak of Shadow Wrath]|h|r|cff1eff00|Hitem:9846:66:::::1843:1762256128:44:::::::|h[Conjurer's Bracers of Shadow Wrath]|h|r pm offers", -- [1]
+			"Argus-Faerlina", -- [2]
+			"", -- [3]
+			"4. world", -- [4]
+			"Argus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			21085, -- [11]
+			"Player-4408-009F51AE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edArgus|r",
+			[51] = 1567801383,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [39]
+		{
+			"wts |cff1eff00|Hitem:14259::::::1851:687247616:44:::1::::|h[Bloodwoven Boots of Shadow Wrath]|h|r|cff1eff00|Hitem:7474::::::1845:1140544000:44:::1::::|h[Regal Cloak of Shadow Wrath]|h|r|cff1eff00|Hitem:9846:66:::::1843:1762256128:44:::::::|h[Conjurer's Bracers of Shadow Wrath]|h|r pm offers", -- [1]
+			"Argus-Faerlina", -- [2]
+			"", -- [3]
+			"4. world", -- [4]
+			"Argus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			21126, -- [11]
+			"Player-4408-009F51AE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edArgus|r",
+			[51] = 1567801427,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [40]
+		{
+			"wts |cff1eff00|Hitem:14259::::::1851:687247616:44:::1::::|h[Bloodwoven Boots of Shadow Wrath]|h|r|cff1eff00|Hitem:7474::::::1845:1140544000:44:::1::::|h[Regal Cloak of Shadow Wrath]|h|r|cff1eff00|Hitem:9846:66:::::1843:1762256128:44:::::::|h[Conjurer's Bracers of Shadow Wrath]|h|r pm offers", -- [1]
+			"Argus-Faerlina", -- [2]
+			"", -- [3]
+			"4. world", -- [4]
+			"Argus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			21171, -- [11]
+			"Player-4408-009F51AE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edArgus|r",
+			[51] = 1567801473,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [41]
+		{
+			"WTS|cff1eff00|Hitem:8029::::::::43:::::::|h[Plans: Wicked Mithril Blade]|h|r", -- [1]
+			"Helltsm-Faerlina", -- [2]
+			"", -- [3]
+			"4. world", -- [4]
+			"Helltsm", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			21305, -- [11]
+			"Player-4408-00BA5E11", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaHelltsm|r",
+			[51] = 1567801571,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [42]
+		{
+			"could i get a new layer invite by chance", -- [1]
+			"Hurpusderpus-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Osiriis", -- [5]
+			"Hurpusderpus", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			31269, -- [11]
-			"Player-4408-00A717D7", -- [12]
+			21361, -- [11]
+			"Player-4408-0000F084", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffOsiriis|r",
-			[51] = 1567761719,
+			[52] = "|cff3fc6eaHurpusderpus|r",
+			[51] = 1567801603,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [43]
+		{
+			"wts |cff1eff00|Hitem:14259::::::1851:687247616:44:::1::::|h[Bloodwoven Boots of Shadow Wrath]|h|r|cff1eff00|Hitem:7474::::::1845:1140544000:44:::1::::|h[Regal Cloak of Shadow Wrath]|h|r|cff1eff00|Hitem:9846:66:::::1843:1762256128:44:::::::|h[Conjurer's Bracers of Shadow Wrath]|h|r pm offers", -- [1]
+			"Argus-Faerlina", -- [2]
+			"", -- [3]
+			"4. world", -- [4]
+			"Argus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			21509, -- [11]
+			"Player-4408-009F51AE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edArgus|r",
+			[51] = 1567801705,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [44]
+		{
+			"wts |cff1eff00|Hitem:14259::::::1851:687247616:44:::1::::|h[Bloodwoven Boots of Shadow Wrath]|h|r|cff1eff00|Hitem:7474::::::1845:1140544000:44:::1::::|h[Regal Cloak of Shadow Wrath]|h|r|cff1eff00|Hitem:9846:66:::::1843:1762256128:44:::::::|h[Conjurer's Bracers of Shadow Wrath]|h|r pm offers", -- [1]
+			"Argus-Faerlina", -- [2]
+			"", -- [3]
+			"4. world", -- [4]
+			"Argus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			21598, -- [11]
+			"Player-4408-009F51AE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edArgus|r",
+			[51] = 1567801756,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [45]
+		{
+			"wts |cff1eff00|Hitem:14259::::::1851:687247616:44:::1::::|h[Bloodwoven Boots of Shadow Wrath]|h|r|cff1eff00|Hitem:7474::::::1845:1140544000:44:::1::::|h[Regal Cloak of Shadow Wrath]|h|r|cff1eff00|Hitem:9846:66:::::1843:1762256128:44:::::::|h[Conjurer's Bracers of Shadow Wrath]|h|r pm offers", -- [1]
+			"Argus-Faerlina", -- [2]
+			"", -- [3]
+			"4. world", -- [4]
+			"Argus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			21797, -- [11]
+			"Player-4408-009F51AE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edArgus|r",
+			[51] = 1567801905,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [46]
+		{
+			"wts |cff1eff00|Hitem:14259::::::1851:687247616:44:::1::::|h[Bloodwoven Boots of Shadow Wrath]|h|r|cff1eff00|Hitem:7474::::::1845:1140544000:44:::1::::|h[Regal Cloak of Shadow Wrath]|h|r|cff1eff00|Hitem:9846:66:::::1843:1762256128:44:::::::|h[Conjurer's Bracers of Shadow Wrath]|h|r pm offers", -- [1]
+			"Argus-Faerlina", -- [2]
+			"", -- [3]
+			"4. world", -- [4]
+			"Argus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			21921, -- [11]
+			"Player-4408-009F51AE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edArgus|r",
+			[51] = 1567802018,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [47]
+		{
+			"wts |cff1eff00|Hitem:14259::::::1851:687247616:44:::1::::|h[Bloodwoven Boots of Shadow Wrath]|h|r|cff1eff00|Hitem:7474::::::1845:1140544000:44:::1::::|h[Regal Cloak of Shadow Wrath]|h|r|cff1eff00|Hitem:9846:66:::::1843:1762256128:44:::::::|h[Conjurer's Bracers of Shadow Wrath]|h|r pm offers", -- [1]
+			"Argus-Faerlina", -- [2]
+			"", -- [3]
+			"4. world", -- [4]
+			"Argus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			22205, -- [11]
+			"Player-4408-009F51AE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edArgus|r",
+			[51] = 1567802295,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [48]
+		{
+			"layer please", -- [1]
+			"Garrosj-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Garrosj", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			22304, -- [11]
+			"Player-4408-00D17692", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dGarrosj|r",
+			[51] = 1567802383,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [49]
+		{
+			"nvm", -- [1]
+			"Garrosj-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Garrosj", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			22313, -- [11]
+			"Player-4408-00D17692", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dGarrosj|r",
+			[51] = 1567802393,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [50]
+		{
+			"wts |cff1eff00|Hitem:14259::::::1851:687247616:44:::1::::|h[Bloodwoven Boots of Shadow Wrath]|h|r|cff1eff00|Hitem:7474::::::1845:1140544000:44:::1::::|h[Regal Cloak of Shadow Wrath]|h|r|cff1eff00|Hitem:9846:66:::::1843:1762256128:44:::::::|h[Conjurer's Bracers of Shadow Wrath]|h|r pm offers", -- [1]
+			"Argus-Faerlina", -- [2]
+			"", -- [3]
+			"4. world", -- [4]
+			"Argus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			22370, -- [11]
+			"Player-4408-009F51AE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edArgus|r",
+			[51] = 1567802428,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [51]
+		{
+			"lvl 30 pog", -- [1]
+			"Cheefsteve-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Cheefsteve", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			22450, -- [11]
+			"Player-4408-00649510", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dCheefsteve|r",
+			[51] = 1567802471,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [52]
+		{
+			"|cffffff00The Great Lift is under attack!|r", -- [1]
+			"", -- [2]
+			"", -- [3]
+			"3. LocalDefense - Thousand Needles", -- [4]
+			"", -- [5]
+			"", -- [6]
+			22, -- [7]
+			3, -- [8]
+			"LocalDefense - Thousand Needles", -- [9]
+			0, -- [10]
+			22488, -- [11]
+			false, -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "",
+			[51] = 1567802505,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [53]
+		{
+			"thanks guys for i worked hard", -- [1]
+			"Cheefsteve-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Cheefsteve", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			22497, -- [11]
+			"Player-4408-00649510", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dCheefsteve|r",
+			[51] = 1567802509,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [54]
+		{
+			"gz", -- [1]
+			"Gnomana-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gnomana", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			22504, -- [11]
+			"Player-4408-0000CB0F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaGnomana|r",
+			[51] = 1567802515,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [55]
+		{
+			"gz", -- [1]
+			"Froogg-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Froogg", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			22561, -- [11]
+			"Player-4408-00D53A63", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Froogg|r",
+			[51] = 1567802576,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [56]
+		{
+			"F", -- [1]
+			"Walter-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Walter", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			22588, -- [11]
+			"Player-4408-0078A42F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070dbWalter|r",
+			[51] = 1567802602,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [57]
 		{
-			"i'm rolling a warrior on the sides, and sometimes things get so enfuriating omg", -- [1]
-			"Xhotl-Faerlina", -- [2]
+			"hes lonely anyway", -- [1]
+			"Garrosj-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Xhotl", -- [5]
+			"Garrosj", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			31292, -- [11]
-			"Player-4408-00FE1937", -- [12]
+			22605, -- [11]
+			"Player-4408-00D17692", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaXhotl|r",
-			[51] = 1567761768,
+			[52] = "|cffc69b6dGarrosj|r",
+			[51] = 1567802612,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [58]
 		{
-			"i need to lear ranged weapons asap to pull without too much risk", -- [1]
-			"Xhotl-Faerlina", -- [2]
+			"lol", -- [1]
+			"Gnomana-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Xhotl", -- [5]
+			"Gnomana", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			31301, -- [11]
-			"Player-4408-00FE1937", -- [12]
+			22614, -- [11]
+			"Player-4408-0000CB0F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaXhotl|r",
-			[51] = 1567761793,
+			[52] = "|cff3fc6eaGnomana|r",
+			[51] = 1567802621,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [59]
 		{
-			"найс", -- [1]
-			"|Km6|k", -- [2]
+			"poor lil fella", -- [1]
+			"Gnomana-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Gnomana", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			31383, -- [11]
-			false, -- [12]
-			6, -- [13]
+			22615, -- [11]
+			"Player-4408-0000CB0F", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dHexus|r",
-			[51] = 1567761967,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Hexus",
+			[52] = "|cff3fc6eaGnomana|r",
+			[51] = 1567802625,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [60]
 		{
-			"чтобы прилететь с пылевых топей в лагерь таурахо", -- [1]
-			"|Km6|k", -- [2]
+			"|cffffff00The Great Lift is under attack!|r", -- [1]
+			"", -- [2]
 			"", -- [3]
-			"", -- [4]
+			"3. LocalDefense - Thousand Needles", -- [4]
 			"", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			22, -- [7]
+			3, -- [8]
+			"LocalDefense - Thousand Needles", -- [9]
 			0, -- [10]
-			31386, -- [11]
+			22623, -- [11]
 			false, -- [12]
-			6, -- [13]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dHexus|r",
-			[51] = 1567761978,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Hexus",
+			[52] = "",
+			[51] = 1567802635,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [61]
 		{
-			"надо через перекресток лететь", -- [1]
-			"|Km6|k", -- [2]
+			"hes like kirito in sword art online", -- [1]
+			"Gnomana-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Gnomana", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			31389, -- [11]
-			false, -- [12]
-			6, -- [13]
+			22635, -- [11]
+			"Player-4408-0000CB0F", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dHexus|r",
-			[51] = 1567761985,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Hexus",
+			[52] = "|cff3fc6eaGnomana|r",
+			[51] = 1567802645,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [62]
 		{
-			"Делаю громаднейший крюк", -- [1]
-			"|Km6|k", -- [2]
+			"anyone playing hunter monster iceborne?", -- [1]
+			"Chunkels-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Chunkels", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			31391, -- [11]
-			false, -- [12]
-			6, -- [13]
+			22664, -- [11]
+			"Player-4408-00D72AC0", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dHexus|r",
-			[51] = 1567761991,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Hexus",
+			[52] = "|cfffff468Chunkels|r",
+			[51] = 1567802683,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [63]
 		{
-			"|cff0070dd|Hitem:13029::::::::45:::::::|h[Umbral Crystal]|h|r", -- [1]
+			"i was planning", -- [1]
+			"Froogg-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Froogg", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			22730, -- [11]
+			"Player-4408-00D53A63", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Froogg|r",
+			[51] = 1567802764,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [64]
+		{
+			"but then i started with wow", -- [1]
+			"Froogg-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Froogg", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			22739, -- [11]
+			"Player-4408-00D53A63", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Froogg|r",
+			[51] = 1567802771,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [65]
+		{
+			"Been a wild ride boys.", -- [1]
+			"Mistakes-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mistakes", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			22870, -- [11]
+			"Player-4408-00B0273C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dMistakes|r",
+			[51] = 1567802901,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [66]
+		{
+			"Love you all", -- [1]
+			"Mistakes-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Mistakes", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			22872, -- [11]
+			"Player-4408-00B0273C", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dMistakes|r",
+			[51] = 1567802902,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [67]
+		{
+			";-;", -- [1]
+			"Garrosj-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Garrosj", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			22880, -- [11]
+			"Player-4408-00D17692", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dGarrosj|r",
+			[51] = 1567802909,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [68]
+		{
+			"big f", -- [1]
+			"Garrosj-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Garrosj", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			22893, -- [11]
+			"Player-4408-00D17692", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dGarrosj|r",
+			[51] = 1567802916,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [69]
+		{
+			"F", -- [1]
+			"Walter-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Walter", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			22895, -- [11]
+			"Player-4408-0078A42F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070dbWalter|r",
+			[51] = 1567802917,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [70]
+		{
+			"rip", -- [1]
+			"Gnomana-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Gnomana", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			22898, -- [11]
+			"Player-4408-0000CB0F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaGnomana|r",
+			[51] = 1567802922,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [71]
+		{
+			"F", -- [1]
+			"Rileyj-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Rileyj", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			22902, -- [11]
+			"Player-4408-00009639", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffRileyj|r",
+			[51] = 1567802925,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [72]
+		{
+			"stupid *!@#ing mistakes man", -- [1]
 			"Osiriis-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1424,7 +1618,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			31401, -- [11]
+			22910, -- [11]
 			"Player-4408-00A717D7", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1432,1403 +1626,1195 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cffffffffOsiriis|r",
-			[51] = 1567762003,
+			[51] = 1567802932,
 			[50] = "CHAT_MSG_GUILD",
-		}, -- [64]
-		{
-			"Капец", -- [1]
-			"|Km6|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			31402, -- [11]
-			false, -- [12]
-			6, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dHexus|r",
-			[51] = 1567762008,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Hexus",
-		}, -- [65]
-		{
-			"Я пролетел мимо лагерь таурахо", -- [1]
-			"|Km6|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			31406, -- [11]
-			false, -- [12]
-			6, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dHexus|r",
-			[51] = 1567762015,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Hexus",
-		}, -- [66]
-		{
-			"anyone wanna run RFC a bunch of times?", -- [1]
-			"Yeeoleport-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Yeeoleport", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			31417, -- [11]
-			"Player-4408-00FD3BDC", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffYeeoleport|r",
-			[51] = 1567762029,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [67]
-		{
-			"афигеть", -- [1]
-			"|Km6|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			31480, -- [11]
-			false, -- [12]
-			6, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dHexus|r",
-			[51] = 1567762162,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Hexus",
-		}, -- [68]
-		{
-			"я полетел в перекресток", -- [1]
-			"|Km6|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			31484, -- [11]
-			false, -- [12]
-			6, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dHexus|r",
-			[51] = 1567762170,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Hexus",
-		}, -- [69]
-		{
-			"и вернулся обратно", -- [1]
-			"|Km6|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			31487, -- [11]
-			false, -- [12]
-			6, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dHexus|r",
-			[51] = 1567762173,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Hexus",
-		}, -- [70]
-		{
-			"в лагерь который я мимо пролетел", -- [1]
-			"|Km6|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			31495, -- [11]
-			false, -- [12]
-			6, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dHexus|r",
-			[51] = 1567762178,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Hexus",
-		}, -- [71]
-		{
-			"К-Классик", -- [1]
-			"|Km6|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			31498, -- [11]
-			false, -- [12]
-			6, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dHexus|r",
-			[51] = 1567762182,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Hexus",
-		}, -- [72]
-		{
-			"и мне челы пишут", -- [1]
-			"|Km6|k", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			31556, -- [11]
-			false, -- [12]
-			6, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffc69b6dHexus|r",
-			[51] = 1567762375,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Hexus",
 		}, -- [73]
 		{
-			"хочу ли я потанковать в WC", -- [1]
-			"|Km6|k", -- [2]
+			"f", -- [1]
+			"Tomek-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Tomek", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			31557, -- [11]
-			false, -- [12]
-			6, -- [13]
+			22911, -- [11]
+			"Player-4408-00A10824", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dHexus|r",
-			[51] = 1567762382,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Hexus",
+			[52] = "|cff8787edTomek|r",
+			[51] = 1567802932,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [74]
 		{
-			"говорят пати собранное", -- [1]
-			"|Km6|k", -- [2]
+			"f", -- [1]
+			"Anfernius-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"", -- [5]
+			"Anfernius", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			31560, -- [11]
-			false, -- [12]
-			6, -- [13]
+			22969, -- [11]
+			"Player-4408-00FCC41C", -- [12]
+			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dHexus|r",
-			[51] = 1567762389,
-			[50] = "CHAT_MSG_BN_WHISPER",
-			[53] = "Hexus",
+			[52] = "|cffaad372Anfernius|r",
+			[51] = 1567803004,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [75]
 		{
-			"wts |cffa335ee|Hitem:14551::::::::60:::::::|h[Edgemaster's Handguards]|h|r 900g", -- [1]
-			"Shiny-Faerlina", -- [2]
-			"", -- [3]
-			"4. world", -- [4]
-			"Shiny", -- [5]
-			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"world", -- [9]
-			0, -- [10]
-			31571, -- [11]
-			"Player-4408-00531F7C", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Shiny|r",
-			[51] = 1567762411,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [76]
-		{
-			"|cff0070dd|Hitem:18082::::::::51:::1::::|h[Zum'rah's Vexing Cane]|h|r", -- [1]
-			"Molt-Faerlina", -- [2]
+			"layer pls", -- [1]
+			"Fogdeath-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Molt", -- [5]
+			"Fogdeath", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			31661, -- [11]
-			"Player-4408-0073B01C", -- [12]
+			22972, -- [11]
+			"Player-4408-00ACACE6", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaMolt|r",
-			[51] = 1567762651,
+			[52] = "|cffffffffFogdeath|r",
+			[51] = 1567803006,
+			[50] = "CHAT_MSG_GUILD",
+		}, -- [76]
+		{
+			"tyty", -- [1]
+			"Fogdeath-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Fogdeath", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			23003, -- [11]
+			"Player-4408-00ACACE6", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffFogdeath|r",
+			[51] = 1567803031,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [77]
 		{
-			"|cff0070dd|Hitem:6449::::::::22:::1::::|h[Glowing Lizardscale Cloak]|h|r", -- [1]
-			"Imunemployed-Faerlina", -- [2]
+			"$%^&ing dwarf", -- [1]
+			"Garrosj-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Imunemployed", -- [5]
+			"Garrosj", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			31669, -- [11]
-			"Player-4408-00E79F44", -- [12]
+			23032, -- [11]
+			"Player-4408-00D17692", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaImunemployed|r",
-			[51] = 1567762677,
+			[52] = "|cffc69b6dGarrosj|r",
+			[51] = 1567803059,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [78]
 		{
-			"hass", -- [1]
-			"Gomi-Faerlina", -- [2]
+			"killed me with rez sickness", -- [1]
+			"Garrosj-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gomi", -- [5]
+			"Garrosj", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			31677, -- [11]
-			"Player-4408-0095E1B3", -- [12]
+			23039, -- [11]
+			"Player-4408-00D17692", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Gomi|r",
-			[51] = 1567762721,
+			[52] = "|cffc69b6dGarrosj|r",
+			[51] = 1567803065,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [79]
 		{
-			"wanna do zf?", -- [1]
-			"Gomi-Faerlina", -- [2]
+			"no honor", -- [1]
+			"Garrosj-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gomi", -- [5]
+			"Garrosj", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			31681, -- [11]
-			"Player-4408-0095E1B3", -- [12]
+			23043, -- [11]
+			"Player-4408-00D17692", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Gomi|r",
-			[51] = 1567762724,
+			[52] = "|cffc69b6dGarrosj|r",
+			[51] = 1567803067,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [80]
 		{
-			"Im questing a lil bit", -- [1]
-			"Hasso-Faerlina", -- [2]
+			"i had that happen to me in thousand needles but there were 3 of them", -- [1]
+			"Hurpusderpus-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hasso", -- [5]
+			"Hurpusderpus", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			31682, -- [11]
-			"Player-4408-00777E41", -- [12]
+			23061, -- [11]
+			"Player-4408-0000F084", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dHasso|r",
-			[51] = 1567762731,
+			[52] = "|cff3fc6eaHurpusderpus|r",
+			[51] = 1567803083,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [81]
 		{
-			"right now", -- [1]
-			"Hasso-Faerlina", -- [2]
+			"and then they said E A S Y", -- [1]
+			"Hurpusderpus-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hasso", -- [5]
+			"Hurpusderpus", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			31683, -- [11]
-			"Player-4408-00777E41", -- [12]
+			23073, -- [11]
+			"Player-4408-0000F084", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dHasso|r",
-			[51] = 1567762734,
+			[52] = "|cff3fc6eaHurpusderpus|r",
+			[51] = 1567803091,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [82]
 		{
-			"ok ok np", -- [1]
-			"Gomi-Faerlina", -- [2]
+			"WTS |cff0070dd|Hitem:15063::::::::60::::1:3524:::|h[Devilsaur Gauntlets]|h|r 200g. Can craft the whole set w/ your mats.", -- [1]
+			"Sevenleaves-Faerlina", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Gomi", -- [5]
+			"4. world", -- [4]
+			"Sevenleaves", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			4, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			31684, -- [11]
-			"Player-4408-0095E1B3", -- [12]
+			23148, -- [11]
+			"Player-4408-000002E5", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Gomi|r",
-			[51] = 1567762738,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cfffff468Sevenleaves|r",
+			[51] = 1567803155,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [83]
 		{
-			"I just joined a new group", -- [1]
-			"Molt-Faerlina", -- [2]
+			"245 tailoring PogChamp", -- [1]
+			"Walter-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Molt", -- [5]
+			"Walter", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			31685, -- [11]
-			"Player-4408-0073B01C", -- [12]
+			23170, -- [11]
+			"Player-4408-0078A42F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaMolt|r",
-			[51] = 1567762745,
+			[52] = "|cff0070dbWalter|r",
+			[51] = 1567803164,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [84]
 		{
-			"I want to try sunken temple", -- [1]
-			"Hasso-Faerlina", -- [2]
+			"why are you tailoring you dont even wear cloth lol", -- [1]
+			"Osiriis-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hasso", -- [5]
+			"Osiriis", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			31686, -- [11]
-			"Player-4408-00777E41", -- [12]
+			23346, -- [11]
+			"Player-4408-00A717D7", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dHasso|r",
-			[51] = 1567762746,
+			[52] = "|cffffffffOsiriis|r",
+			[51] = 1567803263,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [85]
 		{
-			"wts |cffa335ee|Hitem:14551::::::::60:::::::|h[Edgemaster's Handguards]|h|r 900g", -- [1]
-			"Shiny-Faerlina", -- [2]
+			"My lad was already doing leatherworking for mail", -- [1]
+			"Walter-Faerlina", -- [2]
 			"", -- [3]
-			"4. world", -- [4]
-			"Shiny", -- [5]
+			"", -- [4]
+			"Walter", -- [5]
 			"", -- [6]
 			0, -- [7]
-			4, -- [8]
-			"world", -- [9]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			31726, -- [11]
-			"Player-4408-00531F7C", -- [12]
+			23407, -- [11]
+			"Player-4408-0078A42F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Shiny|r",
-			[51] = 1567762898,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff0070dbWalter|r",
+			[51] = 1567803288,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [86]
 		{
-			"COD ME ALL |cffffffff|Hitem:14047::::::::60:::::::|h[Runecloth]|h|r 1G/STACK ", -- [1]
-			"Shiny-Faerlina", -- [2]
+			"monies", -- [1]
+			"Zigy-Faerlina", -- [2]
 			"", -- [3]
-			"4. world", -- [4]
-			"Shiny", -- [5]
+			"", -- [4]
+			"Zigy", -- [5]
 			"", -- [6]
 			0, -- [7]
-			4, -- [8]
-			"world", -- [9]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			31878, -- [11]
-			"Player-4408-00531F7C", -- [12]
+			23410, -- [11]
+			"Player-4408-006EF9B0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Shiny|r",
-			[51] = 1567763335,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff0070dbZigy|r",
+			[51] = 1567803289,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [87]
 		{
-			"wts |cffa335ee|Hitem:14551::::::::60:::::::|h[Edgemaster's Handguards]|h|r 900g / COD ME ALL |cffffffff|Hitem:14047::::::::60:::::::|h[Runecloth]|h|r 1g/Stack", -- [1]
-			"Shiny-Faerlina", -- [2]
+			"and monies", -- [1]
+			"Walter-Faerlina", -- [2]
 			"", -- [3]
-			"4. world", -- [4]
-			"Shiny", -- [5]
+			"", -- [4]
+			"Walter", -- [5]
 			"", -- [6]
 			0, -- [7]
-			4, -- [8]
-			"world", -- [9]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			32077, -- [11]
-			"Player-4408-00531F7C", -- [12]
+			23423, -- [11]
+			"Player-4408-0078A42F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Shiny|r",
-			[51] = 1567763794,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff0070dbWalter|r",
+			[51] = 1567803295,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [88]
 		{
-			"wts |cffa335ee|Hitem:14551::::::::60:::::::|h[Edgemaster's Handguards]|h|r 900g / COD ME ALL |cffffffff|Hitem:14047::::::::60:::::::|h[Runecloth]|h|r 1g/Stack", -- [1]
-			"Shiny-Faerlina", -- [2]
+			"literally all my close homies are doing each profession", -- [1]
+			"Walter-Faerlina", -- [2]
 			"", -- [3]
-			"4. world", -- [4]
-			"Shiny", -- [5]
+			"", -- [4]
+			"Walter", -- [5]
 			"", -- [6]
 			0, -- [7]
-			4, -- [8]
-			"world", -- [9]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			32194, -- [11]
-			"Player-4408-00531F7C", -- [12]
+			23442, -- [11]
+			"Player-4408-0078A42F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Shiny|r",
-			[51] = 1567764048,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff0070dbWalter|r",
+			[51] = 1567803312,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [89]
 		{
-			"WTS |cff1eff00|Hitem:4328::::::::39::::1:3524:::|h[Spider Belt]|h|r", -- [1]
-			"Qilin-Faerlina", -- [2]
+			"WTS |cff1eff00|Hitem:15566::::::155:1513591680:36:::::::|h[Marauder's Bracers of Strength]|h|r", -- [1]
+			"Rezan-Faerlina", -- [2]
 			"", -- [3]
 			"4. world", -- [4]
-			"Qilin", -- [5]
+			"Rezan", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world", -- [9]
 			0, -- [10]
-			32205, -- [11]
-			"Player-4408-00939B96", -- [12]
+			23601, -- [11]
+			"Player-4408-005AC4A9", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffQilin|r",
-			[51] = 1567764075,
+			[52] = "|cffaad372Rezan|r",
+			[51] = 1567803470,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [90]
 		{
-			"52 boys", -- [1]
-			"Molt-Faerlina", -- [2]
+			"|cff1eff00|Hitem:12039::::::248:874489600:34:::::::|h[Tundra Necklace of the Falcon]|h|r or |cff0070dd|Hitem:7731::::::::34:::1::::|h[Ghostshard Talisman]|h|r", -- [1]
+			"Chunkels-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Molt", -- [5]
+			"Chunkels", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			32252, -- [11]
-			"Player-4408-0073B01C", -- [12]
+			23769, -- [11]
+			"Player-4408-00D72AC0", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaMolt|r",
-			[51] = 1567764165,
+			[52] = "|cfffff468Chunkels|r",
+			[51] = 1567803671,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [91]
 		{
-			"gratz", -- [1]
-			"Hasso-Faerlina", -- [2]
+			"will need 3 dps for Ulda in about 15 minutes", -- [1]
+			"Billclintonx-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Hasso", -- [5]
+			"Billclintonx", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			32256, -- [11]
-			"Player-4408-00777E41", -- [12]
+			23885, -- [11]
+			"Player-4408-000454A2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dHasso|r",
-			[51] = 1567764172,
+			[52] = "|cffffffffBillclintonx|r",
+			[51] = 1567803827,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [92]
 		{
-			"to to bed", -- [1]
-			"Gomi-Faerlina", -- [2]
+			"have dpriest and prot warr", -- [1]
+			"Billclintonx-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Gomi", -- [5]
+			"Billclintonx", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			32258, -- [11]
-			"Player-4408-0095E1B3", -- [12]
+			23891, -- [11]
+			"Player-4408-000454A2", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Gomi|r",
-			[51] = 1567764186,
+			[52] = "|cffffffffBillclintonx|r",
+			[51] = 1567803837,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [93]
 		{
-			"go", -- [1]
-			"Gomi-Faerlina", -- [2]
+			"wts |cff1eff00|Hitem:14259::::::1851:687247616:44:::1::::|h[Bloodwoven Boots of Shadow Wrath]|h|r|cff1eff00|Hitem:7474::::::1845:1140544000:44:::1::::|h[Regal Cloak of Shadow Wrath]|h|r|cff1eff00|Hitem:9846:66:::::1843:1762256128:44:::::::|h[Conjurer's Bracers of Shadow Wrath]|h|r pm offers", -- [1]
+			"Argus-Faerlina", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Gomi", -- [5]
+			"4. world", -- [4]
+			"Argus", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			4, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			32259, -- [11]
-			"Player-4408-0095E1B3", -- [12]
+			24099, -- [11]
+			"Player-4408-009F51AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Gomi|r",
-			[51] = 1567764187,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edArgus|r",
+			[51] = 1567804079,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [94]
 		{
-			"gratz", -- [1]
-			"Papadukes-Faerlina", -- [2]
+			"|cff1eff00|Hitem:5961::::::::19:::::::|h[Dark Leather Pants]|h|r|cff1eff00|Hitem:2317::::::::19:::::::|h[Dark Leather Tunic]|h|r", -- [1]
+			"Anfernius-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Papadukes", -- [5]
+			"Anfernius", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			32263, -- [11]
-			"Player-4408-00B1A901", -- [12]
+			24101, -- [11]
+			"Player-4408-00FCC41C", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Papadukes|r",
-			[51] = 1567764194,
+			[52] = "|cffaad372Anfernius|r",
+			[51] = 1567804081,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [95]
 		{
-			"WTS |cff1eff00|Hitem:4328::::::::39::::1:3524:::|h[Spider Belt]|h|r", -- [1]
-			"Qilin-Faerlina", -- [2]
+			"|cffffff00The Great Lift is under attack!|r", -- [1]
+			"", -- [2]
 			"", -- [3]
-			"4. world", -- [4]
-			"Qilin", -- [5]
+			"3. LocalDefense - Thousand Needles", -- [4]
+			"", -- [5]
 			"", -- [6]
-			0, -- [7]
-			4, -- [8]
-			"world", -- [9]
+			22, -- [7]
+			3, -- [8]
+			"LocalDefense - Thousand Needles", -- [9]
 			0, -- [10]
-			32265, -- [11]
-			"Player-4408-00939B96", -- [12]
+			24313, -- [11]
+			false, -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffQilin|r",
-			[51] = 1567764198,
+			[52] = "",
+			[51] = 1567804353,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [96]
 		{
-			"i got off all next week going to be epic", -- [1]
-			"Papadukes-Faerlina", -- [2]
+			"wts |cff1eff00|Hitem:14259::::::1851:687247616:44:::1::::|h[Bloodwoven Boots of Shadow Wrath]|h|r|cff1eff00|Hitem:7474::::::1845:1140544000:44:::1::::|h[Regal Cloak of Shadow Wrath]|h|r|cff1eff00|Hitem:9846:66:::::1843:1762256128:44:::::::|h[Conjurer's Bracers of Shadow Wrath]|h|r pm offers", -- [1]
+			"Argus-Faerlina", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Papadukes", -- [5]
+			"4. world", -- [4]
+			"Argus", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			4, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			32271, -- [11]
-			"Player-4408-00B1A901", -- [12]
+			24369, -- [11]
+			"Player-4408-009F51AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Papadukes|r",
-			[51] = 1567764224,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edArgus|r",
+			[51] = 1567804417,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [97]
 		{
-			"time for bed", -- [1]
-			"Molt-Faerlina", -- [2]
+			"wts |cff1eff00|Hitem:14259::::::1851:687247616:44:::1::::|h[Bloodwoven Boots of Shadow Wrath]|h|r|cff1eff00|Hitem:7474::::::1845:1140544000:44:::1::::|h[Regal Cloak of Shadow Wrath]|h|r|cff1eff00|Hitem:9846:66:::::1843:1762256128:44:::::::|h[Conjurer's Bracers of Shadow Wrath]|h|r pm offers", -- [1]
+			"Argus-Faerlina", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Molt", -- [5]
+			"4. world", -- [4]
+			"Argus", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			4, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			32273, -- [11]
-			"Player-4408-0073B01C", -- [12]
+			24442, -- [11]
+			"Player-4408-009F51AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaMolt|r",
-			[51] = 1567764247,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edArgus|r",
+			[51] = 1567804530,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [98]
 		{
-			"maybe u can catch up", -- [1]
-			"Molt-Faerlina", -- [2]
+			"wts |cff1eff00|Hitem:14259::::::1851:687247616:44:::1::::|h[Bloodwoven Boots of Shadow Wrath]|h|r|cff1eff00|Hitem:7474::::::1845:1140544000:44:::1::::|h[Regal Cloak of Shadow Wrath]|h|r|cff1eff00|Hitem:9846:66:::::1843:1762256128:44:::::::|h[Conjurer's Bracers of Shadow Wrath]|h|r pm offers", -- [1]
+			"Argus-Faerlina", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Molt", -- [5]
+			"4. world", -- [4]
+			"Argus", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			4, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			32274, -- [11]
-			"Player-4408-0073B01C", -- [12]
+			24490, -- [11]
+			"Player-4408-009F51AE", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaMolt|r",
-			[51] = 1567764253,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cff8787edArgus|r",
+			[51] = 1567804588,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [99]
 		{
-			"psyche", -- [1]
-			"Molt-Faerlina", -- [2]
+			"hola", -- [1]
+			"Tuggy-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Molt", -- [5]
+			"Tuggy", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			32275, -- [11]
-			"Player-4408-0073B01C", -- [12]
+			25413, -- [11]
+			"Player-4408-007D4717", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaMolt|r",
-			[51] = 1567764254,
+			[52] = "|cffc69b6dTuggy|r",
+			[51] = 1567805415,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [100]
 		{
-			"lol", -- [1]
-			"Molt-Faerlina", -- [2]
+			"|cffffff00The Great Lift is under attack!|r", -- [1]
+			"", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Molt", -- [5]
+			"3. LocalDefense - Thousand Needles", -- [4]
+			"", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			22, -- [7]
+			3, -- [8]
+			"LocalDefense - Thousand Needles", -- [9]
 			0, -- [10]
-			32277, -- [11]
-			"Player-4408-0073B01C", -- [12]
+			25451, -- [11]
+			false, -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaMolt|r",
-			[51] = 1567764259,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "",
+			[51] = 1567805452,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [101]
 		{
-			"ill be 60 next week", -- [1]
-			"Papadukes-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Papadukes", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			32281, -- [11]
-			"Player-4408-00B1A901", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Papadukes|r",
-			[51] = 1567764271,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [102]
-		{
-			"buying all |cffa335ee|Hitem:14551::::::::60:::::::|h[Edgemaster's Handguards]|h|r20g cod", -- [1]
-			"Shiny-Faerlina", -- [2]
+			"WTS |cffffffff|Hitem:15417::::::::60:::::::|h[Devilsaur Leather]|h|r", -- [1]
+			"Shapesx-Faerlina", -- [2]
 			"", -- [3]
 			"4. world", -- [4]
-			"Shiny", -- [5]
+			"Shapesx", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world", -- [9]
 			0, -- [10]
-			32369, -- [11]
-			"Player-4408-00531F7C", -- [12]
+			25583, -- [11]
+			"Player-4408-00705B28", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Shiny|r",
-			[51] = 1567764488,
+			[52] = "|cffff7c0aShapesx|r",
+			[51] = 1567805508,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [102]
+		{
+			"WTS |cffffffff|Hitem:15417::::::::60:::::::|h[Devilsaur Leather]|h|r", -- [1]
+			"Shapesx-Faerlina", -- [2]
+			"", -- [3]
+			"4. world", -- [4]
+			"Shapesx", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			25648, -- [11]
+			"Player-4408-00705B28", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aShapesx|r",
+			[51] = 1567805539,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [103]
 		{
-			"wts |cffa335ee|Hitem:14551::::::::60:::::::|h[Edgemaster's Handguards]|h|r 900g / COD ME ALL |cffffffff|Hitem:14047::::::::60:::::::|h[Runecloth]|h|r 1g/Stack", -- [1]
-			"Shiny-Faerlina", -- [2]
+			"WTS |cff0070dd|Hitem:13045::::::::35:::::::|h[Viscous Hammer]|h|r", -- [1]
+			"Kurske-Faerlina", -- [2]
 			"", -- [3]
 			"4. world", -- [4]
-			"Shiny", -- [5]
+			"Kurske", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world", -- [9]
 			0, -- [10]
-			32370, -- [11]
-			"Player-4408-00531F7C", -- [12]
+			25843, -- [11]
+			"Player-4408-00038205", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Shiny|r",
-			[51] = 1567764490,
+			[52] = "|cff0070dbKurske|r",
+			[51] = 1567805654,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [104]
 		{
-			"WTS |cff1eff00|Hitem:13863::::::::60:::::::|h[Runecloth Gloves]|h|r 1g", -- [1]
-			"Lepan-Faerlina", -- [2]
+			"WTS |cffffffff|Hitem:15417::::::::60:::::::|h[Devilsaur Leather]|h|r", -- [1]
+			"Shapesx-Faerlina", -- [2]
 			"", -- [3]
 			"4. world", -- [4]
-			"Lepan", -- [5]
+			"Shapesx", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world", -- [9]
 			0, -- [10]
-			32464, -- [11]
-			"Player-4408-008C78E9", -- [12]
+			25932, -- [11]
+			"Player-4408-00705B28", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaLepan|r",
-			[51] = 1567764881,
+			[52] = "|cffff7c0aShapesx|r",
+			[51] = 1567805700,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [105]
 		{
-			"WTS |cff1eff00|Hitem:13863::::::::60:::::::|h[Runecloth Gloves]|h|r 1g", -- [1]
-			"Lepan-Faerlina", -- [2]
+			"WTS |cffffffff|Hitem:15417::::::::60:::::::|h[Devilsaur Leather]|h|r", -- [1]
+			"Shapesx-Faerlina", -- [2]
 			"", -- [3]
 			"4. world", -- [4]
-			"Lepan", -- [5]
+			"Shapesx", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world", -- [9]
 			0, -- [10]
-			32490, -- [11]
-			"Player-4408-008C78E9", -- [12]
+			25934, -- [11]
+			"Player-4408-00705B28", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaLepan|r",
-			[51] = 1567764994,
+			[52] = "|cffff7c0aShapesx|r",
+			[51] = 1567805701,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [106]
 		{
-			"wts |cffa335ee|Hitem:14551::::::::60:::::::|h[Edgemaster's Handguards]|h|r 900g / COD ME ALL |cffffffff|Hitem:14047::::::::60:::::::|h[Runecloth]|h|r 1g/Stack", -- [1]
-			"Shiny-Faerlina", -- [2]
+			"WTS |cffffffff|Hitem:15417::::::::60:::::::|h[Devilsaur Leather]|h|r", -- [1]
+			"Shapesx-Faerlina", -- [2]
 			"", -- [3]
 			"4. world", -- [4]
-			"Shiny", -- [5]
+			"Shapesx", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world", -- [9]
 			0, -- [10]
-			32492, -- [11]
-			"Player-4408-00531F7C", -- [12]
+			25936, -- [11]
+			"Player-4408-00705B28", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Shiny|r",
-			[51] = 1567765008,
+			[52] = "|cffff7c0aShapesx|r",
+			[51] = 1567805702,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [107]
 		{
-			"anyone about to do a layer reset pls", -- [1]
-			"Papadukes-Faerlina", -- [2]
+			"WTS |cffffffff|Hitem:15417::::::::60:::::::|h[Devilsaur Leather]|h|r", -- [1]
+			"Shapesx-Faerlina", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Papadukes", -- [5]
+			"4. world", -- [4]
+			"Shapesx", -- [5]
 			"", -- [6]
 			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			4, -- [8]
+			"world", -- [9]
 			0, -- [10]
-			32601, -- [11]
-			"Player-4408-00B1A901", -- [12]
+			25971, -- [11]
+			"Player-4408-00705B28", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Papadukes|r",
-			[51] = 1567765454,
-			[50] = "CHAT_MSG_GUILD",
+			[52] = "|cffff7c0aShapesx|r",
+			[51] = 1567805721,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [108]
 		{
-			"able *", -- [1]
-			"Papadukes-Faerlina", -- [2]
+			"sad", -- [1]
+			"Tuggy-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Papadukes", -- [5]
+			"Tuggy", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			32605, -- [11]
-			"Player-4408-00B1A901", -- [12]
+			26068, -- [11]
+			"Player-4408-007D4717", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Papadukes|r",
-			[51] = 1567765460,
+			[52] = "|cffc69b6dTuggy|r",
+			[51] = 1567805778,
 			[50] = "CHAT_MSG_GUILD",
 		}, -- [109]
 		{
-			"LFM MARAUDON QUEST RUN! COME GET YOUR |cff1eff00|Hitem:17774::::::::48:::11:1:3524:::|h[Mark of the Chosen]|h|r ", -- [1]
-			"Xzane-Faerlina", -- [2]
+			"oops wrong caht", -- [1]
+			"Tuggy-Faerlina", -- [2]
 			"", -- [3]
-			"4. world", -- [4]
-			"Xzane", -- [5]
+			"", -- [4]
+			"Tuggy", -- [5]
 			"", -- [6]
 			0, -- [7]
-			4, -- [8]
-			"world", -- [9]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			32613, -- [11]
-			"Player-4408-0084F73A", -- [12]
+			26077, -- [11]
+			"Player-4408-007D4717", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbXzane|r",
-			[51] = 1567765481,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dTuggy|r",
+			[51] = 1567805780,
+			[50] = "CHAT_MSG_GUILD",
 		}, -- [110]
 		{
-			"wts |cff1eff00|Hitem:9906::::::214:858921344:41:::::::|h[Royal Sash of Intellect]|h|r pst", -- [1]
-			"Mils-Faerlina", -- [2]
+			"WTS |cffffffff|Hitem:15417::::::::60:::::::|h[Devilsaur Leather]|h|r", -- [1]
+			"Shapesx-Faerlina", -- [2]
 			"", -- [3]
 			"4. world", -- [4]
-			"Mils", -- [5]
+			"Shapesx", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world", -- [9]
 			0, -- [10]
-			32654, -- [11]
-			"Player-4408-009FB36B", -- [12]
+			26120, -- [11]
+			"Player-4408-00705B28", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaMils|r",
-			[51] = 1567765610,
+			[52] = "|cffff7c0aShapesx|r",
+			[51] = 1567805802,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [111]
 		{
-			"wts |cff1eff00|Hitem:9906::::::214:858921344:41:::::::|h[Royal Sash of Intellect]|h|r pst", -- [1]
-			"Mils-Faerlina", -- [2]
+			"WTS |cffffffff|Hitem:15417::::::::60:::::::|h[Devilsaur Leather]|h|r", -- [1]
+			"Shapesx-Faerlina", -- [2]
 			"", -- [3]
 			"4. world", -- [4]
-			"Mils", -- [5]
+			"Shapesx", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world", -- [9]
 			0, -- [10]
-			32670, -- [11]
-			"Player-4408-009FB36B", -- [12]
+			26123, -- [11]
+			"Player-4408-00705B28", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaMils|r",
-			[51] = 1567765660,
+			[52] = "|cffff7c0aShapesx|r",
+			[51] = 1567805803,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [112]
 		{
-			"WTS STACKS |cffffffff|Hitem:4338::::::::33:::::::|h[Mageweave Cloth]|h|r|cffffffff|Hitem:4338::::::::33:::::::|h[Mageweave Cloth]|h|r", -- [1]
-			"Lakeeffect-Faerlina", -- [2]
+			"WTS |cffffffff|Hitem:15417::::::::60:::::::|h[Devilsaur Leather]|h|r", -- [1]
+			"Shapesx-Faerlina", -- [2]
 			"", -- [3]
 			"4. world", -- [4]
-			"Lakeeffect", -- [5]
+			"Shapesx", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world", -- [9]
 			0, -- [10]
-			32715, -- [11]
-			"Player-4408-0062B340", -- [12]
+			26126, -- [11]
+			"Player-4408-00705B28", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaLakeeffect|r",
-			[51] = 1567765852,
+			[52] = "|cffff7c0aShapesx|r",
+			[51] = 1567805804,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [113]
 		{
-			"WTS |cff1eff00|Hitem:2077::::::600:1998225792:28:::::::|h[Magician Staff of the Monkey]|h|r  5g", -- [1]
-			"Thrashed-Faerlina", -- [2]
+			"WTS |cffffffff|Hitem:15417::::::::60:::::::|h[Devilsaur Leather]|h|r", -- [1]
+			"Shapesx-Faerlina", -- [2]
 			"", -- [3]
 			"4. world", -- [4]
-			"Thrashed", -- [5]
+			"Shapesx", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world", -- [9]
 			0, -- [10]
-			32840, -- [11]
-			"Player-4408-0074A87E", -- [12]
+			26211, -- [11]
+			"Player-4408-00705B28", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dThrashed|r",
-			[51] = 1567766189,
+			[52] = "|cffff7c0aShapesx|r",
+			[51] = 1567805850,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [114]
 		{
-			"WTS |cff1eff00|Hitem:15168::::::2044:1538181760:47:::1::::|h[Imposing Pants of Healing]|h|r|cff1eff00|Hitem:9923::::::211:1114058240:47:::1::::|h[Tracker's Shoulderpads of Agility]|h|r", -- [1]
-			"Oblivious-Faerlina", -- [2]
+			"WTS |cffffffff|Hitem:15417::::::::60:::::::|h[Devilsaur Leather]|h|r", -- [1]
+			"Shapesx-Faerlina", -- [2]
 			"", -- [3]
 			"4. world", -- [4]
-			"Oblivious", -- [5]
+			"Shapesx", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world", -- [9]
 			0, -- [10]
-			32854, -- [11]
-			"Player-4408-00AEBD2E", -- [12]
+			26220, -- [11]
+			"Player-4408-00705B28", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbOblivious|r",
-			[51] = 1567766240,
+			[52] = "|cffff7c0aShapesx|r",
+			[51] = 1567805852,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [115]
 		{
-			"COD ME ALL |cffffffff|Hitem:14047::::::::60:::::::|h[Runecloth]|h|r 1g/Stack", -- [1]
-			"Shiny-Faerlina", -- [2]
+			"WTS |cffffffff|Hitem:15417::::::::60:::::::|h[Devilsaur Leather]|h|r", -- [1]
+			"Shapesx-Faerlina", -- [2]
 			"", -- [3]
 			"4. world", -- [4]
-			"Shiny", -- [5]
+			"Shapesx", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world", -- [9]
 			0, -- [10]
-			33003, -- [11]
-			"Player-4408-00531F7C", -- [12]
+			26231, -- [11]
+			"Player-4408-00705B28", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Shiny|r",
-			[51] = 1567766611,
+			[52] = "|cffff7c0aShapesx|r",
+			[51] = 1567805858,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [116]
 		{
-			"COD ME ALL |cffffffff|Hitem:14047::::::::60:::::::|h[Runecloth]|h|r 1g/Stack", -- [1]
-			"Shiny-Faerlina", -- [2]
+			"WTS 200x |cffffffff|Hitem:4338::::::::45:::::::|h[Mageweave Cloth]|h|r", -- [1]
+			"Rlph-Faerlina", -- [2]
 			"", -- [3]
 			"4. world", -- [4]
-			"Shiny", -- [5]
+			"Rlph", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world", -- [9]
 			0, -- [10]
-			33096, -- [11]
-			"Player-4408-00531F7C", -- [12]
+			26253, -- [11]
+			"Player-4408-0073C612", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Shiny|r",
-			[51] = 1567766875,
+			[52] = "|cffff7c0aRlph|r",
+			[51] = 1567805870,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [117]
 		{
-			"F", -- [1]
-			"Gomi-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Gomi", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			33145, -- [11]
-			"Player-4408-0095E1B3", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Gomi|r",
-			[51] = 1567767021,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [118]
-		{
-			"F ", -- [1]
-			"Leclou-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Leclou", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			33152, -- [11]
-			"Player-4408-00B08BD7", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Leclou|r",
-			[51] = 1567767040,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [119]
-		{
-			"F", -- [1]
-			"Skatey-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Skatey", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			33155, -- [11]
-			"Player-4408-0087A4A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Skatey|r",
-			[51] = 1567767049,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [120]
-		{
-			"WTS |cff1eff00|Hitem:9923::::::211:1114058240:47:::1::::|h[Tracker's Shoulderpads of Agility]|h|r|cff1eff00|Hitem:15168::::::2044:1538181760:47:::1::::|h[Imposing Pants of Healing]|h|r", -- [1]
-			"Oblivious-Faerlina", -- [2]
+			"WTS |cffffffff|Hitem:15417::::::::60:::::::|h[Devilsaur Leather]|h|r", -- [1]
+			"Shapesx-Faerlina", -- [2]
 			"", -- [3]
 			"4. world", -- [4]
-			"Oblivious", -- [5]
+			"Shapesx", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world", -- [9]
 			0, -- [10]
-			33156, -- [11]
-			"Player-4408-00AEBD2E", -- [12]
+			26368, -- [11]
+			"Player-4408-00705B28", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbOblivious|r",
-			[51] = 1567767057,
+			[52] = "|cffff7c0aShapesx|r",
+			[51] = 1567805937,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [118]
+		{
+			"WTS |cffffffff|Hitem:15417::::::::60:::::::|h[Devilsaur Leather]|h|r", -- [1]
+			"Shapesx-Faerlina", -- [2]
+			"", -- [3]
+			"4. world", -- [4]
+			"Shapesx", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			26373, -- [11]
+			"Player-4408-00705B28", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aShapesx|r",
+			[51] = 1567805938,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [119]
+		{
+			"WTS |cffffffff|Hitem:15417::::::::60:::::::|h[Devilsaur Leather]|h|r", -- [1]
+			"Shapesx-Faerlina", -- [2]
+			"", -- [3]
+			"4. world", -- [4]
+			"Shapesx", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			26377, -- [11]
+			"Player-4408-00705B28", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aShapesx|r",
+			[51] = 1567805939,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [120]
+		{
+			"WTS |cffffffff|Hitem:15417::::::::60:::::::|h[Devilsaur Leather]|h|r", -- [1]
+			"Shapesx-Faerlina", -- [2]
+			"", -- [3]
+			"4. world", -- [4]
+			"Shapesx", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			26380, -- [11]
+			"Player-4408-00705B28", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aShapesx|r",
+			[51] = 1567805939,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [121]
 		{
-			"should i just buy another runecloth bag instead of my herb pouch", -- [1]
-			"Skatey-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Skatey", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			33284, -- [11]
-			"Player-4408-0087A4A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Skatey|r",
-			[51] = 1567767352,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [122]
-		{
-			"herb pouch is 12 slots but only herbs obv", -- [1]
-			"Skatey-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Skatey", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			33291, -- [11]
-			"Player-4408-0087A4A2", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Skatey|r",
-			[51] = 1567767367,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [123]
-		{
-			"you still have herb pouch", -- [1]
-			"Nootso-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Nootso", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			33293, -- [11]
-			"Player-4408-006C123A", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffNootso|r",
-			[51] = 1567767384,
-			[50] = "CHAT_MSG_GUILD",
-		}, -- [124]
-		{
-			"COD ME ALL |cffffffff|Hitem:14047::::::::60:::::::|h[Runecloth]|h|r 1g/Stack", -- [1]
-			"Shiny-Faerlina", -- [2]
+			"WTS |cffffffff|Hitem:15417::::::::60:::::::|h[Devilsaur Leather]|h|r", -- [1]
+			"Shapesx-Faerlina", -- [2]
 			"", -- [3]
 			"4. world", -- [4]
-			"Shiny", -- [5]
+			"Shapesx", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world", -- [9]
 			0, -- [10]
-			33318, -- [11]
-			"Player-4408-00531F7C", -- [12]
+			26763, -- [11]
+			"Player-4408-00705B28", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Shiny|r",
-			[51] = 1567767505,
+			[52] = "|cffff7c0aShapesx|r",
+			[51] = 1567806119,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [122]
+		{
+			"WTS |cffffffff|Hitem:15417::::::::60:::::::|h[Devilsaur Leather]|h|r", -- [1]
+			"Shapesx-Faerlina", -- [2]
+			"", -- [3]
+			"4. world", -- [4]
+			"Shapesx", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			26764, -- [11]
+			"Player-4408-00705B28", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aShapesx|r",
+			[51] = 1567806119,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [123]
+		{
+			"WTS 200X |cffffffff|Hitem:4338::::::::45:::::::|h[Mageweave Cloth]|h|r", -- [1]
+			"Rlph-Faerlina", -- [2]
+			"", -- [3]
+			"4. world", -- [4]
+			"Rlph", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			26770, -- [11]
+			"Player-4408-0073C612", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aRlph|r",
+			[51] = 1567806123,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [124]
+		{
+			"wts |cff1eff00|Hitem:14259::::::1851:687247616:44:::1::::|h[Bloodwoven Boots of Shadow Wrath]|h|r|cff1eff00|Hitem:7474::::::1845:1140544000:44:::1::::|h[Regal Cloak of Shadow Wrath]|h|r|cff1eff00|Hitem:9846:66:::::1843:1762256128:44:::::::|h[Conjurer's Bracers of Shadow Wrath]|h|r pm offers", -- [1]
+			"Argus-Faerlina", -- [2]
+			"", -- [3]
+			"4. world", -- [4]
+			"Argus", -- [5]
+			"", -- [6]
+			0, -- [7]
+			4, -- [8]
+			"world", -- [9]
+			0, -- [10]
+			26773, -- [11]
+			"Player-4408-009F51AE", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edArgus|r",
+			[51] = 1567806125,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [125]
 		{
-			"LF rogue |cff1eff00|Hitem:4637::::::::47:::1::::|h[Steel Lockbox]|h|r", -- [1]
-			"Oblivious-Faerlina", -- [2]
+			"WTS 200X |cffffffff|Hitem:4338::::::::45:::::::|h[Mageweave Cloth]|h|r", -- [1]
+			"Rlph-Faerlina", -- [2]
 			"", -- [3]
 			"4. world", -- [4]
-			"Oblivious", -- [5]
+			"Rlph", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world", -- [9]
 			0, -- [10]
-			33359, -- [11]
-			"Player-4408-00AEBD2E", -- [12]
+			26807, -- [11]
+			"Player-4408-0073C612", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbOblivious|r",
-			[51] = 1567767740,
+			[52] = "|cffff7c0aRlph|r",
+			[51] = 1567806148,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [126]
 		{
-			"WTS |cff1eff00|Hitem:9923::::::211:1114058240:47:::1::::|h[Tracker's Shoulderpads of Agility]|h|r|cff1eff00|Hitem:15168::::::2044:1538181760:47:::1::::|h[Imposing Pants of Healing]|h|r", -- [1]
-			"Oblivious-Faerlina", -- [2]
+			"WTS |cffffffff|Hitem:15417::::::::60:::::::|h[Devilsaur Leather]|h|r", -- [1]
+			"Shapesx-Faerlina", -- [2]
 			"", -- [3]
 			"4. world", -- [4]
-			"Oblivious", -- [5]
+			"Shapesx", -- [5]
 			"", -- [6]
 			0, -- [7]
 			4, -- [8]
 			"world", -- [9]
 			0, -- [10]
-			33361, -- [11]
-			"Player-4408-00AEBD2E", -- [12]
+			26917, -- [11]
+			"Player-4408-00705B28", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbOblivious|r",
-			[51] = 1567767747,
+			[52] = "|cffff7c0aShapesx|r",
+			[51] = 1567806218,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [127]
 	},

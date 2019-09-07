@@ -4,8 +4,7 @@ VER 3 0000000000000006 "2" "INV_MISC_QUESTIONMARK"
 /startattack
 END
 VER 3 0000000000000003 "BOSS" "INV_MISC_QUESTIONMARK"
-/target Barak Kodobane
-/startattack
+/script if (UnitIsPlayer("target")) then TargetUnit("Player"); end;
 END
 VER 3 0000000000000004 "da" "INV_MISC_QUESTIONMARK"
 /targetenemy [nodead]

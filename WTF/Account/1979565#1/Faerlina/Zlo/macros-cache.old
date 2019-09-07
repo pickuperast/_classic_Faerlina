@@ -1,4 +1,0 @@
-VER 3 0000000001000001 "NEW_SEQUENCE" "INV_MISC_QUESTIONMARK"
-#showtooltip
-/click [button:2] NEW_SEQUENCE RightButton; [button:3] NEW_SEQUENCE MiddleButton; [button:4] NEW_SEQUENCE Button4; [button:5] NEW_SEQUENCE Button5; NEW_SEQUENCE
-END

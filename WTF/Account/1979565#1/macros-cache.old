@@ -15,7 +15,7 @@ VER 3 0000000000000007 "dddd" "INV_MISC_QUESTIONMARK"
 /cast [mod:Alt] Find Herbs; Find Minerals
 END
 VER 3 0000000000000001 "sad" "INV_MISC_QUESTIONMARK"
-/castsequence reset=target Smite, Mind Blast, Shadow Word: Pain, Shoot
+/castsequence [@target,exist,nodead] reset=target Shadow Word: Pain, Power Word: Shield, Holy Fire, Mind Blast, Shoot
 END
 VER 3 0000000000000002 "sss" "INV_MISC_QUESTIONMARK"
 /castsequence reset=target Smite, Mind Blast, Shadow Word: Pain, Attack

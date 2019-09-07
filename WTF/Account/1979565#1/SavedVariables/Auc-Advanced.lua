@@ -86,14 +86,14 @@ AucAdvancedData = {
 	},
 }
 AucAdvancedServers = {
+	["Timestamp"] = 1567418316,
 	["KnownRealms"] = {
 		["Faerlina"] = "Faerlina",
 		["Thunderfury"] = "Thunderfury",
 	},
-	["Timestamp"] = 1567418316,
-	["Version"] = 1,
 	["KnownServerKeys"] = {
-		["Faerlina"] = 1567769184,
+		["Faerlina"] = 1567832044,
 		["Thunderfury"] = 1567634653,
 	},
+	["Version"] = 1,
 }

@@ -1,0 +1,6 @@
+VER 3 0000000001000002 "clear" "INV_MISC_QUESTIONMARK"
+/cleartarget
+END
+VER 3 0000000001000001 "rangechecker" "136222"
+/cast Shadow Word: Pain
+END
