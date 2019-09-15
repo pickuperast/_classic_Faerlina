@@ -35,9 +35,9 @@ Healbot_Config_Skins = {
 			["HIDEBOSSF"] = false,
 			["HIDEPARTYF"] = true,
 			["FLUIDFREQ"] = 3,
+			["HIDERAIDF"] = true,
 			["STICKYFRAME"] = true,
 			["STICKYSENSITIVITY"] = 20,
-			["HIDERAIDF"] = true,
 			["FLUIDBARS"] = true,
 			["HIDEPTF"] = true,
 		},
@@ -45,9 +45,9 @@ Healbot_Config_Skins = {
 			["HIDEBOSSF"] = false,
 			["HIDEPARTYF"] = false,
 			["FLUIDFREQ"] = 3,
+			["HIDERAIDF"] = true,
 			["STICKYFRAME"] = true,
 			["STICKYSENSITIVITY"] = 30,
-			["HIDERAIDF"] = true,
 			["FLUIDBARS"] = false,
 			["HIDEPTF"] = false,
 		},
@@ -55,9 +55,9 @@ Healbot_Config_Skins = {
 			["HIDEBOSSF"] = false,
 			["HIDEPARTYF"] = false,
 			["FLUIDFREQ"] = 3,
+			["HIDERAIDF"] = true,
 			["STICKYFRAME"] = true,
 			["STICKYSENSITIVITY"] = 20,
-			["HIDERAIDF"] = true,
 			["FLUIDBARS"] = true,
 			["HIDEPTF"] = false,
 		},
@@ -65,9 +65,9 @@ Healbot_Config_Skins = {
 			["HIDEBOSSF"] = false,
 			["HIDEPARTYF"] = false,
 			["FLUIDFREQ"] = 3,
+			["HIDERAIDF"] = true,
 			["STICKYFRAME"] = true,
 			["STICKYSENSITIVITY"] = 30,
-			["HIDERAIDF"] = true,
 			["FLUIDBARS"] = false,
 			["HIDEPTF"] = false,
 		},
@@ -642,7 +642,7 @@ Healbot_Config_Skins = {
 			}, -- [10]
 		},
 	},
-	["Skin_ID"] = 1,
+	["Current_Skin"] = "Standard",
 	["HeadBar"] = {
 		["Standard"] = {
 			{
@@ -1053,7 +1053,236 @@ Healbot_Config_Skins = {
 			}, -- [10]
 		},
 	},
-	["Current_Skin"] = "Standard",
+	["HealGroups"] = {
+		["Standard"] = {
+			{
+				["FRAME"] = 1,
+				["STATE"] = false,
+				["NAME"] = "Self",
+			}, -- [1]
+			{
+				["FRAME"] = 1,
+				["STATE"] = true,
+				["NAME"] = "Main tanks",
+			}, -- [2]
+			{
+				["FRAME"] = 1,
+				["STATE"] = true,
+				["NAME"] = "Healers",
+			}, -- [3]
+			{
+				["FRAME"] = 1,
+				["STATE"] = true,
+				["NAME"] = "Group",
+			}, -- [4]
+			{
+				["FRAME"] = 1,
+				["STATE"] = true,
+				["NAME"] = "Raid",
+			}, -- [5]
+			{
+				["FRAME"] = 1,
+				["STATE"] = false,
+				["NAME"] = "My Targets",
+			}, -- [6]
+			{
+				["FRAME"] = 6,
+				["STATE"] = false,
+				["NAME"] = "Vehicle",
+			}, -- [7]
+			{
+				["FRAME"] = 7,
+				["STATE"] = false,
+				["NAME"] = "Pets",
+			}, -- [8]
+			{
+				["FRAME"] = 8,
+				["STATE"] = true,
+				["NAME"] = "Target",
+			}, -- [9]
+			{
+				["FRAME"] = 9,
+				["STATE"] = false,
+				["NAME"] = "Focus",
+			}, -- [10]
+			{
+				["FRAME"] = 10,
+				["STATE"] = false,
+				["NAME"] = "Enemy",
+			}, -- [11]
+		},
+		["Raid 40"] = {
+			{
+				["FRAME"] = 2,
+				["STATE"] = true,
+				["NAME"] = "Main tanks",
+			}, -- [1]
+			{
+				["FRAME"] = 1,
+				["STATE"] = true,
+				["NAME"] = "Self",
+			}, -- [2]
+			{
+				["FRAME"] = 1,
+				["STATE"] = true,
+				["NAME"] = "Healers",
+			}, -- [3]
+			{
+				["FRAME"] = 1,
+				["STATE"] = true,
+				["NAME"] = "Group",
+			}, -- [4]
+			{
+				["FRAME"] = 1,
+				["STATE"] = true,
+				["NAME"] = "Raid",
+			}, -- [5]
+			{
+				["FRAME"] = 1,
+				["STATE"] = true,
+				["NAME"] = "My Targets",
+			}, -- [6]
+			{
+				["FRAME"] = 6,
+				["STATE"] = false,
+				["NAME"] = "Vehicle",
+			}, -- [7]
+			{
+				["FRAME"] = 7,
+				["STATE"] = true,
+				["NAME"] = "Pets",
+			}, -- [8]
+			{
+				["FRAME"] = 8,
+				["STATE"] = false,
+				["NAME"] = "Target",
+			}, -- [9]
+			{
+				["FRAME"] = 9,
+				["STATE"] = false,
+				["NAME"] = "Focus",
+			}, -- [10]
+			{
+				["FRAME"] = 10,
+				["STATE"] = false,
+				["NAME"] = "Enemy",
+			}, -- [11]
+		},
+		["Group"] = {
+			{
+				["FRAME"] = 1,
+				["STATE"] = false,
+				["NAME"] = "Self",
+			}, -- [1]
+			{
+				["FRAME"] = 1,
+				["STATE"] = true,
+				["NAME"] = "Main tanks",
+			}, -- [2]
+			{
+				["FRAME"] = 1,
+				["STATE"] = true,
+				["NAME"] = "Healers",
+			}, -- [3]
+			{
+				["FRAME"] = 1,
+				["STATE"] = true,
+				["NAME"] = "Group",
+			}, -- [4]
+			{
+				["FRAME"] = 1,
+				["STATE"] = false,
+				["NAME"] = "Raid",
+			}, -- [5]
+			{
+				["FRAME"] = 1,
+				["STATE"] = true,
+				["NAME"] = "My Targets",
+			}, -- [6]
+			{
+				["FRAME"] = 6,
+				["STATE"] = false,
+				["NAME"] = "Vehicle",
+			}, -- [7]
+			{
+				["FRAME"] = 7,
+				["STATE"] = true,
+				["NAME"] = "Pets",
+			}, -- [8]
+			{
+				["FRAME"] = 8,
+				["STATE"] = true,
+				["NAME"] = "Target",
+			}, -- [9]
+			{
+				["FRAME"] = 9,
+				["STATE"] = true,
+				["NAME"] = "Focus",
+			}, -- [10]
+			{
+				["FRAME"] = 10,
+				["STATE"] = false,
+				["NAME"] = "Enemy",
+			}, -- [11]
+		},
+		["Raid 25"] = {
+			{
+				["FRAME"] = 2,
+				["STATE"] = true,
+				["NAME"] = "Main tanks",
+			}, -- [1]
+			{
+				["FRAME"] = 1,
+				["STATE"] = true,
+				["NAME"] = "Self",
+			}, -- [2]
+			{
+				["FRAME"] = 1,
+				["STATE"] = true,
+				["NAME"] = "Healers",
+			}, -- [3]
+			{
+				["FRAME"] = 1,
+				["STATE"] = true,
+				["NAME"] = "Group",
+			}, -- [4]
+			{
+				["FRAME"] = 1,
+				["STATE"] = true,
+				["NAME"] = "Raid",
+			}, -- [5]
+			{
+				["FRAME"] = 1,
+				["STATE"] = true,
+				["NAME"] = "My Targets",
+			}, -- [6]
+			{
+				["FRAME"] = 6,
+				["STATE"] = false,
+				["NAME"] = "Vehicle",
+			}, -- [7]
+			{
+				["FRAME"] = 7,
+				["STATE"] = true,
+				["NAME"] = "Pets",
+			}, -- [8]
+			{
+				["FRAME"] = 8,
+				["STATE"] = true,
+				["NAME"] = "Target",
+			}, -- [9]
+			{
+				["FRAME"] = 9,
+				["STATE"] = true,
+				["NAME"] = "Focus",
+			}, -- [10]
+			{
+				["FRAME"] = 10,
+				["STATE"] = false,
+				["NAME"] = "Enemy",
+			}, -- [11]
+		},
+	},
 	["Chat"] = {
 		["Standard"] = {
 			["EOCOOM"] = false,
@@ -2154,7 +2383,7 @@ Healbot_Config_Skins = {
 				["SIZE"] = 12,
 				["NAME"] = "",
 				["R"] = 1,
-				["ALIAS"] = "",
+				["ALIAS"] = "Frame 1",
 				["G"] = 1,
 				["SHOW"] = false,
 				["OFFSET"] = 0,
@@ -4720,7 +4949,7 @@ Healbot_Config_Skins = {
 				["STUCKPOINT"] = "NONE",
 			}, -- [7]
 			{
-				["STUCK"] = false,
+				["STUCK"] = true,
 				["STUCKTOPOINT"] = "TOPLEFT",
 				["STUCKTO"] = 1,
 				["STUCKPOINT"] = "BOTTOMLEFT",
@@ -5600,13 +5829,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 4,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [1]
 			{
@@ -5616,13 +5845,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 4,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [2]
 			{
@@ -5632,13 +5861,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 4,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [3]
 			{
@@ -5648,13 +5877,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 4,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [4]
 			{
@@ -5664,13 +5893,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 4,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [5]
 			{
@@ -5680,13 +5909,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 4,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [6]
 			{
@@ -5696,13 +5925,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 4,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [7]
 			{
@@ -5712,13 +5941,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 4,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [8]
 			{
@@ -5728,13 +5957,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 4,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [9]
 			{
@@ -5744,13 +5973,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 4,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [10]
 		},
@@ -5762,13 +5991,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 2,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 4,
 			}, -- [1]
 			{
@@ -5778,13 +6007,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 4,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [2]
 			{
@@ -5794,13 +6023,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 3,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [3]
 			{
@@ -5810,13 +6039,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 3,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [4]
 			{
@@ -5826,13 +6055,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 3,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [5]
 			{
@@ -5842,13 +6071,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 3,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [6]
 			{
@@ -5858,13 +6087,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 2,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 4,
 			}, -- [7]
 			{
@@ -5874,13 +6103,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 2,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 6,
 			}, -- [8]
 			{
@@ -5890,13 +6119,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 2,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 6,
 			}, -- [9]
 			{
@@ -5906,13 +6135,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 3,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [10]
 		},
@@ -5924,13 +6153,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 4,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [1]
 			{
@@ -5940,13 +6169,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 4,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [2]
 			{
@@ -5956,13 +6185,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 4,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [3]
 			{
@@ -5972,13 +6201,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 4,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [4]
 			{
@@ -5988,13 +6217,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 4,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [5]
 			{
@@ -6004,13 +6233,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 4,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [6]
 			{
@@ -6020,13 +6249,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 2,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 4,
 			}, -- [7]
 			{
@@ -6036,13 +6265,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 4,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [8]
 			{
@@ -6052,13 +6281,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 4,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [9]
 			{
@@ -6068,13 +6297,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 4,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [10]
 		},
@@ -6086,13 +6315,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 2,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 6,
 			}, -- [1]
 			{
@@ -6102,13 +6331,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 4,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [2]
 			{
@@ -6118,13 +6347,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 3,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [3]
 			{
@@ -6134,13 +6363,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 3,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [4]
 			{
@@ -6150,13 +6379,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 3,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [5]
 			{
@@ -6166,13 +6395,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 3,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [6]
 			{
@@ -6182,13 +6411,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 2,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 4,
 			}, -- [7]
 			{
@@ -6198,13 +6427,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 2,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 6,
 			}, -- [8]
 			{
@@ -6214,13 +6443,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 2,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 6,
 			}, -- [9]
 			{
@@ -6230,13 +6459,13 @@ Healbot_Config_Skins = {
 				["MAXDICONS"] = 3,
 				["POSITION"] = 2,
 				["SHOWDIR"] = true,
-				["DOUBLE"] = true,
+				["FADE"] = true,
 				["DSCALE"] = 1,
 				["ONBAR"] = 1,
 				["SHOWRC"] = true,
 				["SCALE"] = 1,
+				["DOUBLE"] = true,
 				["SHOWDIRMOUSE"] = false,
-				["FADE"] = true,
 				["MAXBICONS"] = 8,
 			}, -- [10]
 		},
@@ -6934,43 +7163,43 @@ Healbot_Config_Skins = {
 	["Healing"] = {
 		["Standard"] = {
 			["TONLYFRIEND"] = false,
-			["SELFPET"] = false,
+			["TARGETINCOMBAT"] = 2,
 			["FOCUSINCOMBAT"] = 2,
 			["GROUPPETS"] = true,
-			["TARGETINCOMBAT"] = 2,
+			["FEXRAID"] = false,
 			["TEXRAID"] = false,
 			["FONLYFRIEND"] = false,
-			["FEXRAID"] = false,
+			["SELFPET"] = false,
 		},
 		["Raid 40"] = {
 			["TONLYFRIEND"] = false,
-			["SELFPET"] = false,
+			["TARGETINCOMBAT"] = 2,
 			["FOCUSINCOMBAT"] = 2,
 			["GROUPPETS"] = true,
-			["TARGETINCOMBAT"] = 2,
+			["FEXRAID"] = false,
 			["TEXRAID"] = false,
 			["FONLYFRIEND"] = false,
-			["FEXRAID"] = false,
+			["SELFPET"] = false,
 		},
 		["Group"] = {
 			["TONLYFRIEND"] = false,
-			["SELFPET"] = false,
+			["TARGETINCOMBAT"] = 2,
 			["FOCUSINCOMBAT"] = 2,
 			["GROUPPETS"] = true,
-			["TARGETINCOMBAT"] = 2,
+			["FEXRAID"] = false,
 			["TEXRAID"] = false,
 			["FONLYFRIEND"] = false,
-			["FEXRAID"] = false,
+			["SELFPET"] = false,
 		},
 		["Raid 25"] = {
 			["TONLYFRIEND"] = false,
-			["SELFPET"] = false,
+			["TARGETINCOMBAT"] = 2,
 			["FOCUSINCOMBAT"] = 2,
 			["GROUPPETS"] = true,
-			["TARGETINCOMBAT"] = 2,
+			["FEXRAID"] = false,
 			["TEXRAID"] = false,
 			["FONLYFRIEND"] = false,
-			["FEXRAID"] = false,
+			["SELFPET"] = false,
 		},
 	},
 	["IconText"] = {
@@ -7426,11 +7655,11 @@ Healbot_Config_Skins = {
 	["Anchors"] = {
 		["Standard"] = {
 			{
-				["Y"] = 51.28,
+				["Y"] = 67.7,
 				["GROW"] = 2,
 				["BARS"] = 3,
 				["FRAME"] = 3,
-				["X"] = 17.19,
+				["X"] = 40.89,
 			}, -- [1]
 			{
 				["Y"] = 51,
@@ -7475,11 +7704,11 @@ Healbot_Config_Skins = {
 				["X"] = 56,
 			}, -- [7]
 			{
-				["Y"] = 57.33,
+				["Y"] = 67.03,
 				["GROW"] = 2,
 				["BARS"] = 3,
 				["FRAME"] = 2,
-				["X"] = 13.24,
+				["X"] = 33.83,
 			}, -- [8]
 			{
 				["Y"] = 58,
@@ -7717,25 +7946,25 @@ Healbot_Config_Skins = {
 		["Standard"] = {
 			{
 				["HLTHONBAR"] = true,
-				["TAGOOR"] = "[ OOR ] ",
+				["TAGOOR"] = "",
 				["MAXCHARS"] = 0,
-				["CLASSONBAR"] = false,
+				["CLASSONBAR"] = true,
 				["OFFSET"] = 0,
 				["FONT"] = "Friz Quadrata TT",
-				["NUMFORMAT2"] = 1,
-				["NUMFORMAT1"] = 11,
+				["NUMFORMAT2"] = 2,
+				["NUMFORMAT1"] = 1,
 				["NAMEONBAR"] = true,
 				["HEIGHT"] = 10,
-				["INCHEALS"] = 2,
+				["INCHEALS"] = 7,
 				["SHOWROLE"] = true,
-				["TAGRIP"] = "[ RIP ] ",
+				["TAGRIP"] = "",
 				["DOUBLE"] = true,
 				["ALIGN"] = 2,
-				["HLTHTYPE"] = 1,
+				["HLTHTYPE"] = 2,
 				["CLASSTYPE"] = 1,
-				["TAGDC"] = "[ DC ] ",
+				["TAGDC"] = "",
 				["CLASSCOL"] = true,
-				["TAGR"] = "[ R ] ",
+				["TAGR"] = "",
 				["OUTLINE"] = 1,
 			}, -- [1]
 			{
@@ -8651,13 +8880,13 @@ Healbot_Config_Skins = {
 				["BB"] = 0.7,
 				["DISA"] = 0.1,
 				["BR"] = 0.4,
-				["HB"] = 0.7,
+				["HB"] = 0.847,
 				["BOUT"] = 2,
 				["BG"] = 0.4,
 				["HA"] = 1,
-				["HG"] = 0.4,
+				["HG"] = 0.902,
 				["ORA"] = 0.4,
-				["HR"] = 0.4,
+				["HR"] = 0.216,
 				["HLTH"] = 1,
 			}, -- [1]
 			{
@@ -9264,13 +9493,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.2,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.1,
 				["BACKA"] = 0.05,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.2,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 5,
-				["BACKG"] = 0.1,
 			}, -- [1]
 			{
 				["BACKR"] = 0.1,
@@ -9281,13 +9510,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.2,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.1,
 				["BACKA"] = 0.05,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.2,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 5,
-				["BACKG"] = 0.1,
 			}, -- [2]
 			{
 				["BACKR"] = 0.1,
@@ -9298,13 +9527,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.2,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.1,
 				["BACKA"] = 0.05,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.2,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 5,
-				["BACKG"] = 0.1,
 			}, -- [3]
 			{
 				["BACKR"] = 0.1,
@@ -9315,13 +9544,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.2,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.1,
 				["BACKA"] = 0.05,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.2,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 5,
-				["BACKG"] = 0.1,
 			}, -- [4]
 			{
 				["BACKR"] = 0.1,
@@ -9332,13 +9561,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.2,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.1,
 				["BACKA"] = 0.05,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.2,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 5,
-				["BACKG"] = 0.1,
 			}, -- [5]
 			{
 				["BACKR"] = 0.1,
@@ -9349,13 +9578,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.2,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.1,
 				["BACKA"] = 0.05,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.2,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 5,
-				["BACKG"] = 0.1,
 			}, -- [6]
 			{
 				["BACKR"] = 0.1,
@@ -9366,13 +9595,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.2,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.1,
 				["BACKA"] = 0.05,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.2,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 5,
-				["BACKG"] = 0.1,
 			}, -- [7]
 			{
 				["BACKR"] = 0.1,
@@ -9383,13 +9612,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.2,
 				["SFOFFSETV"] = -8,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.1,
 				["BACKA"] = 0.05,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.2,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 4,
-				["BACKG"] = 0.1,
 			}, -- [8]
 			{
 				["BACKR"] = 0.1,
@@ -9400,13 +9629,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.2,
 				["SFOFFSETV"] = -8,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.1,
 				["BACKA"] = 0.05,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.2,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 4,
-				["BACKG"] = 0.1,
 			}, -- [9]
 			{
 				["BACKR"] = 0.1,
@@ -9417,13 +9646,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.2,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.1,
 				["BACKA"] = 0.05,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.2,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 5,
-				["BACKG"] = 0.1,
 			}, -- [10]
 		},
 		["Raid 40"] = {
@@ -9436,13 +9665,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.04,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.7,
 				["BACKA"] = 0.1,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 5,
-				["BACKG"] = 0.1,
 			}, -- [1]
 			{
 				["BACKR"] = 0.1,
@@ -9453,13 +9682,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.04,
 				["SFOFFSETV"] = -8,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.7,
 				["BACKA"] = 0.1,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 4,
-				["BACKG"] = 0.1,
 			}, -- [2]
 			{
 				["BACKR"] = 0.1,
@@ -9470,13 +9699,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.04,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.7,
 				["BACKA"] = 0.1,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 5,
-				["BACKG"] = 0.1,
 			}, -- [3]
 			{
 				["BACKR"] = 0.1,
@@ -9487,13 +9716,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.04,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.7,
 				["BACKA"] = 0.1,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 5,
-				["BACKG"] = 0.1,
 			}, -- [4]
 			{
 				["BACKR"] = 0.1,
@@ -9504,13 +9733,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.04,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.7,
 				["BACKA"] = 0.1,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 5,
-				["BACKG"] = 0.1,
 			}, -- [5]
 			{
 				["BACKR"] = 0.1,
@@ -9521,13 +9750,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.04,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.7,
 				["BACKA"] = 0.1,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 5,
-				["BACKG"] = 0.1,
 			}, -- [6]
 			{
 				["BACKR"] = 0.1,
@@ -9538,13 +9767,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.04,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.7,
 				["BACKA"] = 0.1,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 3,
-				["BACKG"] = 0.1,
 			}, -- [7]
 			{
 				["BACKR"] = 0.1,
@@ -9555,13 +9784,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.04,
 				["SFOFFSETV"] = 1,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.7,
 				["BACKA"] = 0.1,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 2,
-				["BACKG"] = 0.1,
 			}, -- [8]
 			{
 				["BACKR"] = 0.1,
@@ -9572,13 +9801,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.04,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.7,
 				["BACKA"] = 0.1,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 2,
-				["BACKG"] = 0.1,
 			}, -- [9]
 			{
 				["BACKR"] = 0.1,
@@ -9589,13 +9818,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.04,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.7,
 				["BACKA"] = 0.1,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 5,
-				["BACKG"] = 0.1,
 			}, -- [10]
 		},
 		["Group"] = {
@@ -9608,13 +9837,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.5,
 				["BACKA"] = 0.2,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 4,
-				["BACKG"] = 0.1,
 			}, -- [1]
 			{
 				["BACKR"] = 0.1,
@@ -9625,13 +9854,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.5,
 				["BACKA"] = 0.2,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 5,
-				["BACKG"] = 0.1,
 			}, -- [2]
 			{
 				["BACKR"] = 0.1,
@@ -9642,13 +9871,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.5,
 				["BACKA"] = 0.2,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 5,
-				["BACKG"] = 0.1,
 			}, -- [3]
 			{
 				["BACKR"] = 0.1,
@@ -9659,13 +9888,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.5,
 				["BACKA"] = 0.2,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 5,
-				["BACKG"] = 0.1,
 			}, -- [4]
 			{
 				["BACKR"] = 0.1,
@@ -9676,13 +9905,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.5,
 				["BACKA"] = 0.2,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 5,
-				["BACKG"] = 0.1,
 			}, -- [5]
 			{
 				["BACKR"] = 0.1,
@@ -9693,13 +9922,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.5,
 				["BACKA"] = 0.2,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 5,
-				["BACKG"] = 0.1,
 			}, -- [6]
 			{
 				["BACKR"] = 0.1,
@@ -9710,13 +9939,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.5,
 				["BACKA"] = 0.2,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 4,
-				["BACKG"] = 0.1,
 			}, -- [7]
 			{
 				["BACKR"] = 0.1,
@@ -9727,13 +9956,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.5,
 				["BACKA"] = 0.2,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 2,
-				["BACKG"] = 0.1,
 			}, -- [8]
 			{
 				["BACKR"] = 0.1,
@@ -9744,13 +9973,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0,
 				["SFOFFSETV"] = 9,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.5,
 				["BACKA"] = 0.2,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 2,
-				["BACKG"] = 0.1,
 			}, -- [9]
 			{
 				["BACKR"] = 0.1,
@@ -9761,13 +9990,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.5,
 				["BACKA"] = 0.2,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 5,
-				["BACKG"] = 0.1,
 			}, -- [10]
 		},
 		["Raid 25"] = {
@@ -9780,13 +10009,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.04,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.7,
 				["BACKA"] = 0.1,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 5,
-				["BACKG"] = 0.1,
 			}, -- [1]
 			{
 				["BACKR"] = 0.1,
@@ -9797,13 +10026,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.04,
 				["SFOFFSETV"] = -8,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.7,
 				["BACKA"] = 0.1,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 4,
-				["BACKG"] = 0.1,
 			}, -- [2]
 			{
 				["BACKR"] = 0.1,
@@ -9814,13 +10043,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.04,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.7,
 				["BACKA"] = 0.1,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 5,
-				["BACKG"] = 0.1,
 			}, -- [3]
 			{
 				["BACKR"] = 0.1,
@@ -9831,13 +10060,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.04,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.7,
 				["BACKA"] = 0.1,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 5,
-				["BACKG"] = 0.1,
 			}, -- [4]
 			{
 				["BACKR"] = 0.1,
@@ -9848,13 +10077,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.04,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.7,
 				["BACKA"] = 0.1,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 5,
-				["BACKG"] = 0.1,
 			}, -- [5]
 			{
 				["BACKR"] = 0.1,
@@ -9865,13 +10094,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.04,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.7,
 				["BACKA"] = 0.1,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 5,
-				["BACKG"] = 0.1,
 			}, -- [6]
 			{
 				["BACKR"] = 0.1,
@@ -9882,13 +10111,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.04,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.7,
 				["BACKA"] = 0.1,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 3,
-				["BACKG"] = 0.1,
 			}, -- [7]
 			{
 				["BACKR"] = 0.1,
@@ -9899,13 +10128,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.04,
 				["SFOFFSETV"] = 1,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.7,
 				["BACKA"] = 0.1,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 2,
-				["BACKG"] = 0.1,
 			}, -- [8]
 			{
 				["BACKR"] = 0.1,
@@ -9916,13 +10145,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.04,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.7,
 				["BACKA"] = 0.1,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 2,
-				["BACKG"] = 0.1,
 			}, -- [9]
 			{
 				["BACKR"] = 0.1,
@@ -9933,13 +10162,13 @@ Healbot_Config_Skins = {
 				["OPENSOUND"] = false,
 				["BORDERA"] = 0.04,
 				["SFOFFSETV"] = 0,
-				["AUTOCLOSE"] = false,
+				["BACKG"] = 0.1,
 				["BACKB"] = 0.7,
 				["BACKA"] = 0.1,
 				["SCALE"] = 1,
 				["BORDERB"] = 0.1,
+				["AUTOCLOSE"] = false,
 				["TIPLOC"] = 5,
-				["BACKG"] = 0.1,
 			}, -- [10]
 		},
 	},
@@ -9993,236 +10222,7 @@ Healbot_Config_Skins = {
 			["EXISTSHOWARENA"] = true,
 		},
 	},
-	["HealGroups"] = {
-		["Standard"] = {
-			{
-				["FRAME"] = 1,
-				["STATE"] = false,
-				["NAME"] = "Self",
-			}, -- [1]
-			{
-				["FRAME"] = 1,
-				["STATE"] = true,
-				["NAME"] = "Main tanks",
-			}, -- [2]
-			{
-				["FRAME"] = 1,
-				["STATE"] = true,
-				["NAME"] = "Healers",
-			}, -- [3]
-			{
-				["FRAME"] = 1,
-				["STATE"] = true,
-				["NAME"] = "Group",
-			}, -- [4]
-			{
-				["FRAME"] = 1,
-				["STATE"] = true,
-				["NAME"] = "Raid",
-			}, -- [5]
-			{
-				["FRAME"] = 1,
-				["STATE"] = false,
-				["NAME"] = "My Targets",
-			}, -- [6]
-			{
-				["FRAME"] = 6,
-				["STATE"] = false,
-				["NAME"] = "Vehicle",
-			}, -- [7]
-			{
-				["FRAME"] = 7,
-				["STATE"] = false,
-				["NAME"] = "Pets",
-			}, -- [8]
-			{
-				["FRAME"] = 8,
-				["STATE"] = true,
-				["NAME"] = "Target",
-			}, -- [9]
-			{
-				["FRAME"] = 9,
-				["STATE"] = true,
-				["NAME"] = "Focus",
-			}, -- [10]
-			{
-				["FRAME"] = 10,
-				["STATE"] = false,
-				["NAME"] = "Enemy",
-			}, -- [11]
-		},
-		["Raid 40"] = {
-			{
-				["FRAME"] = 2,
-				["STATE"] = true,
-				["NAME"] = "Main tanks",
-			}, -- [1]
-			{
-				["FRAME"] = 1,
-				["STATE"] = true,
-				["NAME"] = "Self",
-			}, -- [2]
-			{
-				["FRAME"] = 1,
-				["STATE"] = true,
-				["NAME"] = "Healers",
-			}, -- [3]
-			{
-				["FRAME"] = 1,
-				["STATE"] = true,
-				["NAME"] = "Group",
-			}, -- [4]
-			{
-				["FRAME"] = 1,
-				["STATE"] = true,
-				["NAME"] = "Raid",
-			}, -- [5]
-			{
-				["FRAME"] = 1,
-				["STATE"] = true,
-				["NAME"] = "My Targets",
-			}, -- [6]
-			{
-				["FRAME"] = 6,
-				["STATE"] = false,
-				["NAME"] = "Vehicle",
-			}, -- [7]
-			{
-				["FRAME"] = 7,
-				["STATE"] = true,
-				["NAME"] = "Pets",
-			}, -- [8]
-			{
-				["FRAME"] = 8,
-				["STATE"] = false,
-				["NAME"] = "Target",
-			}, -- [9]
-			{
-				["FRAME"] = 9,
-				["STATE"] = false,
-				["NAME"] = "Focus",
-			}, -- [10]
-			{
-				["FRAME"] = 10,
-				["STATE"] = false,
-				["NAME"] = "Enemy",
-			}, -- [11]
-		},
-		["Group"] = {
-			{
-				["FRAME"] = 1,
-				["STATE"] = false,
-				["NAME"] = "Self",
-			}, -- [1]
-			{
-				["FRAME"] = 1,
-				["STATE"] = true,
-				["NAME"] = "Main tanks",
-			}, -- [2]
-			{
-				["FRAME"] = 1,
-				["STATE"] = true,
-				["NAME"] = "Healers",
-			}, -- [3]
-			{
-				["FRAME"] = 1,
-				["STATE"] = true,
-				["NAME"] = "Group",
-			}, -- [4]
-			{
-				["FRAME"] = 1,
-				["STATE"] = false,
-				["NAME"] = "Raid",
-			}, -- [5]
-			{
-				["FRAME"] = 1,
-				["STATE"] = true,
-				["NAME"] = "My Targets",
-			}, -- [6]
-			{
-				["FRAME"] = 6,
-				["STATE"] = false,
-				["NAME"] = "Vehicle",
-			}, -- [7]
-			{
-				["FRAME"] = 7,
-				["STATE"] = true,
-				["NAME"] = "Pets",
-			}, -- [8]
-			{
-				["FRAME"] = 8,
-				["STATE"] = true,
-				["NAME"] = "Target",
-			}, -- [9]
-			{
-				["FRAME"] = 9,
-				["STATE"] = true,
-				["NAME"] = "Focus",
-			}, -- [10]
-			{
-				["FRAME"] = 10,
-				["STATE"] = false,
-				["NAME"] = "Enemy",
-			}, -- [11]
-		},
-		["Raid 25"] = {
-			{
-				["FRAME"] = 2,
-				["STATE"] = true,
-				["NAME"] = "Main tanks",
-			}, -- [1]
-			{
-				["FRAME"] = 1,
-				["STATE"] = true,
-				["NAME"] = "Self",
-			}, -- [2]
-			{
-				["FRAME"] = 1,
-				["STATE"] = true,
-				["NAME"] = "Healers",
-			}, -- [3]
-			{
-				["FRAME"] = 1,
-				["STATE"] = true,
-				["NAME"] = "Group",
-			}, -- [4]
-			{
-				["FRAME"] = 1,
-				["STATE"] = true,
-				["NAME"] = "Raid",
-			}, -- [5]
-			{
-				["FRAME"] = 1,
-				["STATE"] = true,
-				["NAME"] = "My Targets",
-			}, -- [6]
-			{
-				["FRAME"] = 6,
-				["STATE"] = false,
-				["NAME"] = "Vehicle",
-			}, -- [7]
-			{
-				["FRAME"] = 7,
-				["STATE"] = true,
-				["NAME"] = "Pets",
-			}, -- [8]
-			{
-				["FRAME"] = 8,
-				["STATE"] = true,
-				["NAME"] = "Target",
-			}, -- [9]
-			{
-				["FRAME"] = 9,
-				["STATE"] = true,
-				["NAME"] = "Focus",
-			}, -- [10]
-			{
-				["FRAME"] = 10,
-				["STATE"] = false,
-				["NAME"] = "Enemy",
-			}, -- [11]
-		},
-	},
+	["Skin_ID"] = 1,
 }
 HealBot_Globals = {
 	["Custom_Debuff_Categories"] = {
@@ -10326,23 +10326,23 @@ HealBot_Globals = {
 		[6788] = 4,
 	},
 	["PresetColoursAlias"] = {
-		"Preset 1", -- [1]
-		"Preset 2", -- [2]
-		"Preset 3", -- [3]
-		"Preset 4", -- [4]
-		"Preset 5", -- [5]
-		"Preset 6", -- [6]
-		"Preset 7", -- [7]
-		"Preset 8", -- [8]
-		"Preset 9", -- [9]
-		"Preset 10", -- [10]
+		"", -- [1]
+		"", -- [2]
+		"", -- [3]
+		"", -- [4]
+		"", -- [5]
+		"", -- [6]
+		"", -- [7]
+		"", -- [8]
+		"", -- [9]
+		"", -- [10]
 	},
 	["HealBot_Emotes"] = {
 		["AltUp"] = "Hello",
 		["NoneUp"] = "Hello",
 		["AltDown"] = "Hello",
 		["ShiftDown"] = "Hello",
-		["NoneDown"] = "Hello",
+		["NoneDown"] = "oom",
 		["CtrlDown"] = "Hello",
 		["CtrlUp"] = "Hello",
 		["ShiftUp"] = "Hello",
@@ -10373,9 +10373,8 @@ HealBot_Globals = {
 	},
 	["CatchAltDebuffIDs"] = {
 		[94794] = true,
-		["Weakened Soul"] = true,
-		[116888] = true,
 		["Forbearance"] = true,
+		[116888] = true,
 	},
 	["SmartCastRes"] = true,
 	["QueryTalents"] = true,
@@ -10385,185 +10384,57 @@ HealBot_Globals = {
 	},
 	["WatchHoT"] = {
 		["PRIE"] = {
-			[47585] = 2,
-			[200183] = 2,
-			[213610] = 2,
-			[10060] = 2,
-			[47788] = 2,
-			[197711] = 2,
-			[63733] = 2,
-			[77495] = 2,
-			[109964] = 2,
-			[162448] = 2,
-			[33076] = 2,
-			[33206] = 4,
-			[272780] = 2,
-			[64901] = 2,
 			[17] = 4,
-			[64844] = 2,
-			[121557] = 2,
-			[152118] = 2,
-			[198069] = 2,
-			[196644] = 2,
-			[77489] = 2,
-			[139] = 2,
-			[70772] = 2,
-			[15286] = 1,
-			[197031] = 2,
-			[114255] = 2,
-			[265258] = 2,
-			[47536] = 2,
-			[81782] = 4,
-			[211443] = 2,
-			[197268] = 2,
-			[234711] = 2,
-			[45242] = 2,
-			[208065] = 2,
-			[214121] = 2,
-			[194384] = 2,
-			[196490] = 2,
-			[212570] = 3,
 			[27827] = 2,
+			[10060] = 2,
+			[15286] = 1,
+			[139] = 2,
 		},
 		["HUNT"] = {
 			[136] = 2,
 			[19263] = 2,
 		},
 		["WARR"] = {
-			[114030] = 2,
 			[871] = 4,
-			[132404] = 4,
 			[12975] = 4,
 		},
 		["DRUI"] = {
-			[61336] = 2,
-			[157982] = 2,
 			[22842] = 4,
-			[22812] = 4,
 			[774] = 2,
-			[208253] = 2,
-			[236068] = 2,
-			[102352] = 2,
 			[8936] = 2,
-			[207386] = 2,
-			[33763] = 2,
-			[102342] = 4,
-			[192081] = 4,
-			[203554] = 2,
-			[279793] = 2,
-			[155777] = 2,
-			[200389] = 2,
-			[48438] = 2,
+			[22812] = 4,
 			[29166] = 4,
 		},
 		["ALL"] = {
-			[242623] = 2,
 			[20594] = 2,
-			[242622] = 2,
-			[221878] = 2,
-			[208215] = 2,
-			[208052] = 2,
-			[235966] = 2,
-			[242586] = 2,
-			[253287] = 2,
-			[215247] = 2,
-			[68992] = 2,
-			[59547] = 2,
-			[271843] = 2,
-			[225126] = 2,
-			[272276] = 2,
-			[284573] = 2,
 		},
 		["MAGE"] = {
-			[11426] = 4,
-			[45438] = 4,
-			[116267] = 2,
-			[235450] = 4,
 			[12051] = 2,
-			[12042] = 4,
-			[235313] = 4,
+			[11426] = 4,
 			[130] = 2,
+			[12042] = 4,
 		},
 		["DEAT"] = {
-			[42650] = 2,
-			[48707] = 4,
-			[55233] = 2,
-			[51052] = 4,
-			[48792] = 4,
-			[81256] = 2,
-			[116888] = 2,
 		},
 		["ROGU"] = {
-			[11327] = 4,
 			[1966] = 2,
 			[5277] = 2,
-			[31224] = 2,
+			[11327] = 4,
 		},
 		["PALA"] = {
-			[85499] = 2,
-			[243174] = 2,
-			[53651] = 2,
-			[54149] = 2,
-			[31850] = 2,
-			[53563] = 2,
-			[6940] = 2,
-			[156910] = 2,
-			[498] = 4,
-			[19750] = 2,
 			[642] = 4,
-			[223817] = 2,
-			[210256] = 2,
-			[200025] = 2,
-			[216327] = 2,
-			[223306] = 2,
-			[200654] = 2,
-			[287280] = 2,
+			[19750] = 2,
+			[6940] = 2,
+			[498] = 4,
 			[1044] = 2,
-			[204018] = 2,
 		},
 		["WARL"] = {
-			[104773] = 2,
-			[108366] = 2,
 		},
 		["SHAM"] = {
-			[260734] = 2,
-			[98008] = 2,
-			[193796] = 2,
-			[207778] = 2,
-			[108271] = 2,
-			[51564] = 2,
-			[196834] = 2,
-			[114049] = 2,
-			[73685] = 2,
-			[197995] = 2,
-			[157153] = 2,
-			[79206] = 2,
-			[61295] = 2,
-			[204288] = 4,
-			[108281] = 2,
-			[73920] = 2,
 		},
 		["MONK"] = {
-			[122278] = 4,
-			[116849] = 4,
-			[114030] = 2,
-			[124081] = 2,
-			[124682] = 2,
-			[115308] = 2,
-			[119611] = 2,
-			[198533] = 2,
-			[115176] = 2,
-			[125174] = 2,
-			[122783] = 2,
-			[185158] = 4,
-			[116680] = 2,
-			[191840] = 2,
-			[115203] = 4,
 		},
 		["DEMO"] = {
-			[212800] = 4,
-			[187827] = 4,
-			[203720] = 4,
 		},
 	},
 	["AcceptSkins"] = 1,
@@ -10591,163 +10462,7 @@ HealBot_Globals = {
 	["ShowTooltip"] = true,
 	["minHealthBloom"] = 40,
 	["ByPassLock"] = 0,
-	["Tooltip_Recommend"] = false,
-	["CatchAltBuffIDs"] = {
-		["Mend Pet"] = true,
-		[68992] = true,
-		[132404] = true,
-		[235966] = true,
-		[212570] = true,
-		[193796] = true,
-		[221878] = true,
-		[260734] = true,
-		[45438] = true,
-		[33206] = true,
-		[198069] = true,
-		[61336] = true,
-		[115308] = true,
-		["Stoneform"] = true,
-		[272780] = true,
-		[122783] = true,
-		[265258] = true,
-		[243174] = true,
-		[77489] = true,
-		[203554] = true,
-		[102352] = true,
-		[200654] = true,
-		[42650] = true,
-		[204288] = true,
-		[108281] = true,
-		[54149] = true,
-		[73920] = true,
-		[272276] = true,
-		[192081] = true,
-		[55233] = true,
-		[212800] = true,
-		[116888] = true,
-		[208052] = true,
-		[48707] = true,
-		[64844] = true,
-		[47536] = true,
-		[196834] = true,
-		[203720] = true,
-		[196644] = true,
-		[207386] = true,
-		[208215] = true,
-		[200183] = true,
-		[253287] = true,
-		[210256] = true,
-		[122278] = true,
-		["Power Word: Shield"] = true,
-		[157153] = true,
-		[200025] = true,
-		["Innervate"] = true,
-		[45242] = true,
-		["Renew"] = true,
-		["Evasion"] = true,
-		[194384] = true,
-		[47585] = true,
-		[152118] = true,
-		[81256] = true,
-		[81782] = true,
-		[115203] = true,
-		[197031] = true,
-		[48438] = true,
-		[108366] = true,
-		["Divine Protection"] = true,
-		[196490] = true,
-		[102342] = true,
-		[51052] = true,
-		["Last Stand"] = true,
-		[162448] = true,
-		[108271] = true,
-		[287280] = true,
-		[31224] = true,
-		[208253] = true,
-		["Shield Wall"] = true,
-		[59547] = true,
-		["Regrowth"] = true,
-		[98008] = true,
-		[234711] = true,
-		[198533] = true,
-		[213610] = true,
-		["Frenzied Regeneration"] = true,
-		[211443] = true,
-		[191840] = true,
-		[214121] = true,
-		["Barkskin"] = true,
-		[208065] = true,
-		[70772] = true,
-		[31850] = true,
-		[242586] = true,
-		[53651] = true,
-		[116680] = true,
-		[185158] = true,
-		[47788] = true,
-		["Vanish"] = true,
-		["Deterrence"] = true,
-		[61295] = true,
-		[119611] = true,
-		[85499] = true,
-		[124682] = true,
-		[33076] = true,
-		[124081] = true,
-		[207778] = true,
-		[125174] = true,
-		[73685] = true,
-		[197995] = true,
-		[187827] = true,
-		[114049] = true,
-		["Power Infusion"] = true,
-		["Rejuvenation"] = true,
-		[279793] = true,
-		[155777] = true,
-		["Blessing of Sacrifice"] = true,
-		[116849] = true,
-		[64901] = true,
-		[114255] = true,
-		[51564] = true,
-		[104773] = true,
-		[156910] = true,
-		[242622] = true,
-		[115176] = true,
-		["Flash of Light"] = true,
-		[204018] = true,
-		[223306] = true,
-		["Blessing of Freedom"] = true,
-		[157982] = true,
-		[77495] = true,
-		["Arcane Power"] = true,
-		[197711] = true,
-		[242623] = true,
-		[116267] = true,
-		[223817] = true,
-		[200389] = true,
-		[121557] = true,
-		["Divine Shield"] = true,
-		[79206] = true,
-		[216327] = true,
-		[235450] = true,
-		["Spirit of Redemption"] = true,
-		[63733] = true,
-		[271843] = true,
-		[109964] = true,
-		[215247] = true,
-		["Vampiric Embrace"] = true,
-		[114030] = true,
-		[284573] = true,
-		[236068] = true,
-		["Ice Barrier"] = true,
-		[225126] = true,
-		[235313] = true,
-		["Slow Fall"] = true,
-		["Evocation"] = true,
-		[48792] = true,
-		["Feint"] = true,
-		[33763] = true,
-		[197268] = true,
-		[53563] = true,
-	},
+	["Tooltip_Recommend"] = true,
 	["HealBot_Custom_Debuffs_ShowBarCol"] = {
 		[94794] = true,
 		[25771] = false,
@@ -10769,15 +10484,21 @@ HealBot_Globals = {
 	["ResLagDuration"] = 3,
 	["TopRole"] = "TANK",
 	["HealBot_MouseWheelIndex"] = {
+		["NoneUp"] = 3,
+		["ShiftDown"] = 1,
 		["AltUp"] = 2,
 		["AltDown"] = 3,
+		["NoneDown"] = 17,
+		["CtrlDown"] = 1,
+		["CtrlUp"] = 1,
+		["ShiftUp"] = 1,
 	},
 	["EnAutoCombat"] = false,
 	["Tooltip_ShowCD"] = false,
-	["LastSupporter"] = 3,
+	["LastSupporter"] = 14,
 	["EnLibQuickHealth"] = true,
 	["MacroSuppressSound"] = 1,
-	["ttalpha"] = 0.8,
+	["ttalpha"] = 0.799999952316284,
 	["HideOptions"] = false,
 	["Tooltip_ShowSpellDetail"] = false,
 	["HealBot_Enable_MouseWheel"] = true,
@@ -10809,8 +10530,10 @@ HealBot_Globals = {
 	["minManaBloom"] = 40,
 	["HealBot_ButtonPosition"] = 300,
 	["HealBot_MouseWheelTxt"] = {
-		["AltUp"] = "Blizzard menu",
+		["NoneDown"] = "Emote",
+		["NoneUp"] = "Follow",
 		["AltDown"] = "Healbot menu",
+		["AltUp"] = "Blizzard menu",
 	},
 	["EmergIncCustom"] = {
 		["Warrior"] = false,

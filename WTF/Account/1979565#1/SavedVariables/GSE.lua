@@ -39,12 +39,12 @@ GSEOptions = {
 	["hideUIErrors"] = false,
 	["STRING"] = "|cff888888",
 	["clearUIErrors"] = false,
-	["INDENT"] = "|cffccaa88",
+	["resetOOC"] = true,
 	["Update2411"] = true,
 	["TitleColour"] = "|cFFFF0000",
 	["PromptSample"] = true,
 	["initialised"] = true,
-	["Update2415"] = true,
+	["INDENT"] = "|cffccaa88",
 	["DebugModules"] = {
 		["Translator"] = false,
 		["GUI"] = false,
@@ -55,7 +55,7 @@ GSEOptions = {
 		["Viewer"] = false,
 		["Transmission"] = false,
 	},
-	["resetOOC"] = true,
+	["Update2415"] = true,
 	["MacroResetModifiers"] = {
 		["Alt"] = false,
 		["LeftControl"] = false,
@@ -74,10 +74,10 @@ GSEOptions = {
 		["RightButton"] = false,
 	},
 	["filterList"] = {
-		["Spec"] = true,
 		["Class"] = true,
-		["Global"] = true,
 		["All"] = false,
+		["Global"] = true,
+		["Spec"] = true,
 	},
 	["EmphasisColour"] = "|cFFFFFF00",
 	["UseVerboseExportFormat"] = false,
@@ -113,7 +113,12 @@ GSEOptions = {
 GSELibrary = {
 	{
 	}, -- [1]
-	[5] = {
+	nil, -- [2]
+	{
+	}, -- [3]
+	{
+	}, -- [4]
+	{
 		["NEW_SEQUENCE"] = {
 			["Talents"] = "CLASSIC",
 			["Default"] = 1,
@@ -159,8 +164,8 @@ GSELibrary = {
 			},
 			["ManualIntervention"] = false,
 		},
-	},
-	[4] = {
+	}, -- [5]
+	[7] = {
 	},
 	[0] = {
 	},

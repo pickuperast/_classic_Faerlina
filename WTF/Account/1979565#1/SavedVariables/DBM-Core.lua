@@ -186,14 +186,14 @@ DBM_AllSavedOptions = {
 			0, -- [2]
 			1, -- [3]
 		},
-		["WarningX"] = 0,
-		["WorldBossNearAlert"] = false,
 		["DontShowBossAnnounces"] = false,
+		["WorldBossNearAlert"] = false,
+		["InfoFrameLines"] = 0,
 		["WarningDuration2"] = 1.5,
 		["SpecialWarningFlashRepeatAmount"] = 2,
 		["AutoAcceptFriendInvite"] = false,
 		["WarningIconChat"] = true,
-		["InfoFrameLines"] = 0,
+		["WarningX"] = 0,
 		["SpecialWarningFlashRepeat2"] = false,
 		["SpecialWarningSound5"] = "Interface\\AddOns\\DBM-Core\\sounds\\ClassicSupport\\LOA_NAXX_AGGRO02.ogg",
 		["DontSendYells"] = false,

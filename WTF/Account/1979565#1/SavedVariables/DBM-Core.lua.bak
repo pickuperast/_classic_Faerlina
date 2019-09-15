@@ -182,14 +182,14 @@ DBM_AllSavedOptions = {
 		["SpecialWarningFontStyle"] = "THICKOUTLINE",
 		["SpecialWarningFont"] = "Fonts\\FRIZQT__.TTF",
 		["SpecialWarningFlashRepeat2"] = false,
-		["DontShowBossAnnounces"] = false,
-		["WorldBossNearAlert"] = false,
 		["InfoFrameLines"] = 0,
+		["WorldBossNearAlert"] = false,
+		["WarningX"] = 0,
 		["WarningDuration2"] = 1.5,
 		["SpecialWarningFlashRepeatAmount"] = 2,
 		["AutoAcceptFriendInvite"] = false,
 		["WarningIconChat"] = true,
-		["WarningX"] = 0,
+		["DontShowBossAnnounces"] = false,
 		["SpecialWarningFlashCol4"] = {
 			1, -- [1]
 			0, -- [2]

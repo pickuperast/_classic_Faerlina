@@ -4,8 +4,7 @@ VER 3 0000000000000006 "2" "INV_MISC_QUESTIONMARK"
 /startattack
 END
 VER 3 0000000000000003 "BOSS" "INV_MISC_QUESTIONMARK"
-/target Barak Kodobane
-/startattack
+/script if (UnitIsPlayer("target")) then TargetUnit("Player"); end;
 END
 VER 3 0000000000000004 "da" "INV_MISC_QUESTIONMARK"
 /targetenemy [nodead]
@@ -14,12 +13,22 @@ VER 3 0000000000000007 "dddd" "INV_MISC_QUESTIONMARK"
 #showtooltip
 /cast [mod:Alt] Find Herbs; Find Minerals
 END
+VER 3 0000000000000009 "hbCrashProt_0" "Spell_Holy_SealOfSacrifice"
+1:H:1:1:Group:
+END
+VER 3 0000000000000008 "hbCrashProt_1" "Spell_Holy_SealOfSacrifice"
+Zlo:p:ayer-4408-00AE8B2F:1:
+END
 VER 3 0000000000000001 "sad" "INV_MISC_QUESTIONMARK"
 /castsequence [@target,exist,nodead] reset=target Shadow Word: Pain, Power Word: Shield, Holy Fire, Mind Blast, Shoot
+END
+VER 3 000000000000000A "SHOOT" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/castsequence [exists] !shoot,!shoot
 END
 VER 3 0000000000000002 "sss" "INV_MISC_QUESTIONMARK"
 /castsequence reset=target Smite, Mind Blast, Shadow Word: Pain, Attack
 END
 VER 3 0000000000000005 "STRTATK" "132150"
-/4 Somebody Give me invite for the NEW LAYER please
+/4 LF2DD SM CATH
 END

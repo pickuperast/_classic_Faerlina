@@ -5,6 +5,318 @@ _detalhes_database = {
 	["mythic_dungeon_id"] = 0,
 	["tabela_historico"] = {
 		["tabelas"] = {
+			{
+				{
+					["tipo"] = 2,
+					["_ActorTable"] = {
+						{
+							["flag_original"] = 1297,
+							["totalabsorbed"] = 0.003121,
+							["damage_from"] = {
+								["Environment (Falling)"] = true,
+							},
+							["targets"] = {
+							},
+							["pets"] = {
+							},
+							["friendlyfire_total"] = 0,
+							["raid_targets"] = {
+							},
+							["total_without_pet"] = 0.003121,
+							["damage_taken"] = 29.003121,
+							["dps_started"] = false,
+							["total"] = 0.003121,
+							["classe"] = "WARRIOR",
+							["delay"] = 0,
+							["nome"] = "Zlobag",
+							["spells"] = {
+								["_ActorTable"] = {
+								},
+								["tipo"] = 2,
+							},
+							["grupo"] = true,
+							["last_dps"] = 0,
+							["last_event"] = 0,
+							["custom"] = 0,
+							["tipo"] = 1,
+							["friendlyfire"] = {
+							},
+							["start_time"] = 0,
+							["serial"] = "Player-4408-00B537E0",
+							["on_hold"] = false,
+						}, -- [1]
+					},
+				}, -- [1]
+				{
+					["tipo"] = 3,
+					["_ActorTable"] = {
+					},
+				}, -- [2]
+				{
+					["tipo"] = 7,
+					["_ActorTable"] = {
+					},
+				}, -- [3]
+				{
+					["tipo"] = 9,
+					["_ActorTable"] = {
+					},
+				}, -- [4]
+				{
+					["tipo"] = 2,
+					["_ActorTable"] = {
+					},
+				}, -- [5]
+				["raid_roster"] = {
+				},
+				["CombatStartedAt"] = 291.398,
+				["tempo_start"] = 105.116,
+				["last_events_tables"] = {
+				},
+				["alternate_power"] = {
+				},
+				["CombatEndedAt"] = 302.679,
+				["enemy"] = "Unknown",
+				["combat_counter"] = 4,
+				["playing_solo"] = true,
+				["totals"] = {
+					-1.27225499999875, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = -0.0069580000000542,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+					["voidzone_damage"] = 0,
+					["frags_total"] = 0,
+				},
+				["TotalElapsedCombatTime"] = 11.281,
+				["overall_added"] = true,
+				["frags_need_refresh"] = false,
+				["aura_timeline"] = {
+				},
+				["__call"] = {
+				},
+				["data_inicio"] = 0,
+				["end_time"] = 302.679,
+				["cleu_timeline"] = {
+				},
+				["instance_type"] = "none",
+				["cleu_events"] = {
+					["n"] = 1,
+				},
+				["totals_grupo"] = {
+					0, -- [1]
+					0, -- [2]
+					{
+						0, -- [1]
+						[0] = 0,
+						["alternatepower"] = 0,
+						[6] = 0,
+						[3] = 0,
+					}, -- [3]
+					{
+						["buff_uptime"] = 0,
+						["ress"] = 0,
+						["dead"] = 0,
+						["cc_break"] = 0,
+						["interrupt"] = 0,
+						["debuff_uptime"] = 0,
+						["dispell"] = 0,
+						["cooldowns_defensive"] = 0,
+					}, -- [4]
+				},
+				["hasSaved"] = true,
+				["frags"] = {
+				},
+				["data_fim"] = "15:40:06",
+				["PhaseData"] = {
+					{
+						1, -- [1]
+						1, -- [2]
+					}, -- [1]
+					["damage"] = {
+						{
+						}, -- [1]
+					},
+					["heal_section"] = {
+					},
+					["heal"] = {
+						{
+						}, -- [1]
+					},
+					["damage_section"] = {
+					},
+				},
+				["CombatSkillCache"] = {
+				},
+				["player_last_events"] = {
+					["Zlobag"] = {
+						{
+							true, -- [1]
+							"Falling", -- [2]
+							5, -- [3]
+							1568196361.513, -- [4]
+							70, -- [5]
+							"Environment (Falling)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [1]
+						{
+							true, -- [1]
+							"Falling", -- [2]
+							3, -- [3]
+							1568221115.569, -- [4]
+							70, -- [5]
+							"Environment (Falling)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [2]
+						{
+							true, -- [1]
+							"Falling", -- [2]
+							4, -- [3]
+							1568221606.334, -- [4]
+							70, -- [5]
+							"Environment (Falling)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [3]
+						{
+							true, -- [1]
+							"Falling", -- [2]
+							2, -- [3]
+							1568284755.077, -- [4]
+							70, -- [5]
+							"Environment (Falling)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [4]
+						{
+							true, -- [1]
+							"Falling", -- [2]
+							3, -- [3]
+							1568285544.237, -- [4]
+							70, -- [5]
+							"Environment (Falling)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [5]
+						{
+							true, -- [1]
+							"Falling", -- [2]
+							5, -- [3]
+							1568302053.476, -- [4]
+							70, -- [5]
+							"Environment (Falling)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [6]
+						{
+							true, -- [1]
+							"Falling", -- [2]
+							3, -- [3]
+							1568302541.7, -- [4]
+							70, -- [5]
+							"Environment (Falling)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [7]
+						{
+							true, -- [1]
+							"Falling", -- [2]
+							4, -- [3]
+							1568365144.471, -- [4]
+							70, -- [5]
+							"Environment (Falling)", -- [6]
+							nil, -- [7]
+							3, -- [8]
+							false, -- [9]
+							-1, -- [10]
+						}, -- [8]
+						{
+						}, -- [9]
+						{
+						}, -- [10]
+						{
+						}, -- [11]
+						{
+						}, -- [12]
+						{
+						}, -- [13]
+						{
+						}, -- [14]
+						{
+						}, -- [15]
+						{
+						}, -- [16]
+						{
+						}, -- [17]
+						{
+						}, -- [18]
+						{
+						}, -- [19]
+						{
+						}, -- [20]
+						{
+						}, -- [21]
+						{
+						}, -- [22]
+						{
+						}, -- [23]
+						{
+						}, -- [24]
+						{
+						}, -- [25]
+						{
+						}, -- [26]
+						{
+						}, -- [27]
+						{
+						}, -- [28]
+						{
+						}, -- [29]
+						{
+						}, -- [30]
+						{
+						}, -- [31]
+						{
+						}, -- [32]
+						["n"] = 9,
+					},
+				},
+				["start_time"] = 0,
+				["TimeData"] = {
+				},
+				["spells_cast_timeline"] = {
+				},
+			}, -- [1]
 		},
 	},
 	["last_version"] = "v1.13.2.7176",
@@ -42,6 +354,7 @@ _detalhes_database = {
 	["ignore_nicktag"] = false,
 	["plugin_database"] = {
 	},
+	["last_day"] = "13",
 	["cached_talents"] = {
 	},
 	["announce_prepots"] = {
@@ -49,7 +362,6 @@ _detalhes_database = {
 		["channel"] = "SELF",
 		["reverse"] = false,
 	},
-	["last_day"] = "05",
 	["benchmark_db"] = {
 		["frame"] = {
 		},
@@ -62,7 +374,7 @@ _detalhes_database = {
 		["enabled"] = true,
 		["channel"] = "SELF",
 	},
-	["combat_counter"] = 2,
+	["combat_counter"] = 13,
 	["announce_deaths"] = {
 		["enabled"] = false,
 		["last_hits"] = 1,
@@ -73,6 +385,42 @@ _detalhes_database = {
 		{
 			["tipo"] = 2,
 			["_ActorTable"] = {
+				{
+					["flag_original"] = 1297,
+					["totalabsorbed"] = 0.004647,
+					["damage_from"] = {
+					},
+					["targets"] = {
+					},
+					["pets"] = {
+					},
+					["on_hold"] = false,
+					["classe"] = "WARRIOR",
+					["raid_targets"] = {
+					},
+					["total_without_pet"] = 0.004647,
+					["friendlyfire"] = {
+					},
+					["dps_started"] = false,
+					["end_time"] = 1568221049,
+					["serial"] = "Player-4408-00B537E0",
+					["total"] = 0.004647,
+					["nome"] = "Zlobag",
+					["spells"] = {
+						["_ActorTable"] = {
+						},
+						["tipo"] = 2,
+					},
+					["grupo"] = true,
+					["last_event"] = 0,
+					["friendlyfire_total"] = 0,
+					["custom"] = 0,
+					["tipo"] = 1,
+					["damage_taken"] = 0.004647,
+					["start_time"] = 1568221046,
+					["delay"] = 0,
+					["last_dps"] = 0,
+				}, -- [1]
 			},
 		}, -- [1]
 		{
@@ -102,9 +450,11 @@ _detalhes_database = {
 		},
 		["alternate_power"] = {
 		},
+		["spells_cast_timeline"] = {
+		},
 		["combat_counter"] = 1,
 		["totals"] = {
-			0, -- [1]
+			156.043321, -- [1]
 			0, -- [2]
 			{
 				0, -- [1]
@@ -116,10 +466,10 @@ _detalhes_database = {
 			{
 				["buff_uptime"] = 0,
 				["ress"] = 0,
-				["debuff_uptime"] = 0,
 				["cooldowns_defensive"] = 0,
-				["interrupt"] = 0,
 				["dispell"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
 				["cc_break"] = 0,
 				["dead"] = 0,
 			}, -- [4]
@@ -134,8 +484,7 @@ _detalhes_database = {
 		["__call"] = {
 		},
 		["data_inicio"] = 0,
-		["spells_cast_timeline"] = {
-		},
+		["end_time"] = 302.679,
 		["totals_grupo"] = {
 			0, -- [1]
 			0, -- [2]
@@ -149,40 +498,51 @@ _detalhes_database = {
 			{
 				["buff_uptime"] = 0,
 				["ress"] = 0,
-				["debuff_uptime"] = 0,
 				["cooldowns_defensive"] = 0,
-				["interrupt"] = 0,
 				["dispell"] = 0,
+				["interrupt"] = 0,
+				["debuff_uptime"] = 0,
 				["cc_break"] = 0,
 				["dead"] = 0,
 			}, -- [4]
 		},
-		["frags"] = {
-		},
-		["data_fim"] = 0,
-		["cleu_events"] = {
-			["n"] = 1,
-		},
-		["CombatSkillCache"] = {
-		},
-		["cleu_timeline"] = {
-		},
-		["start_time"] = 0,
-		["TimeData"] = {
+		["segments_added"] = {
+			{
+				["elapsed"] = 302.679,
+				["type"] = 0,
+				["name"] = "Unknown",
+				["clock"] = 0,
+			}, -- [1]
 		},
 		["PhaseData"] = {
 			{
 				1, -- [1]
 				1, -- [2]
 			}, -- [1]
+			["damage_section"] = {
+			},
 			["heal_section"] = {
 			},
 			["heal"] = {
 			},
-			["damage_section"] = {
-			},
 			["damage"] = {
 			},
+		},
+		["cleu_timeline"] = {
+		},
+		["hasSaved"] = true,
+		["frags"] = {
+		},
+		["data_fim"] = "15:40:06",
+		["overall_enemy_name"] = "Unknown",
+		["CombatSkillCache"] = {
+		},
+		["overall_refreshed"] = true,
+		["start_time"] = 0,
+		["TimeData"] = {
+		},
+		["cleu_events"] = {
+			["n"] = 1,
 		},
 	},
 	["force_font_outline"] = "",
@@ -205,10 +565,10 @@ _detalhes_database = {
 			["attribute"] = 1,
 			["pos"] = {
 				["normal"] = {
-					["y"] = -6.1035156250e-05,
-					["x"] = 0,
-					["w"] = 309.999969482422,
-					["h"] = 158.000030517578,
+					["y"] = 390.560485839844,
+					["x"] = 682.00732421875,
+					["w"] = 309.999755859375,
+					["h"] = 158.000091552734,
 				},
 				["solo"] = {
 					["y"] = 2,
@@ -220,7 +580,7 @@ _detalhes_database = {
 		}, -- [1]
 	},
 	["character_data"] = {
-		["logons"] = 1,
+		["logons"] = 11,
 	},
 	["announce_cooldowns"] = {
 		["enabled"] = false,

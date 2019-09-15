@@ -3,24 +3,18 @@ AAPC1 = {
 	["Faerlina"] = {
 		["Zlo"] = {
 			["Elite"] = {
+				[5088] = 1,
+				[5151] = 1,
 			},
 			["Zones"] = {
-				["28-30TN-Hillsbrad"] = 14,
+				["28-30TN-Hillsbrad"] = 59,
+				["34-37"] = 3,
 				["20-TB-Prep"] = 4,
 				["12-15TheBarrens"] = 7,
 				["16-20TheBarrens"] = 2,
 				["26-28Ashenvale"] = 9,
 			},
 			["Completed"] = {
-			},
-		},
-		["Zlobag"] = {
-			["Elite"] = {
-			},
-			["Completed"] = {
-			},
-			["Zones"] = {
-				["1-5Undead"] = 1,
 			},
 		},
 		["Unlockl"] = {
@@ -32,6 +26,24 @@ AAPC1 = {
 				["1-5Undead"] = 1,
 			},
 		},
+		["Zlobag"] = {
+			["Elite"] = {
+			},
+			["Completed"] = {
+			},
+			["Zones"] = {
+				["1-5Undead"] = 1,
+			},
+		},
+		["Qqo"] = {
+			["Elite"] = {
+			},
+			["Completed"] = {
+			},
+			["Zones"] = {
+				["1-12OrcTroll-Shaman"] = 49,
+			},
+		},
 	},
 	["Thunderfury"] = {
 		["Zlo"] = {
@@ -40,6 +52,7 @@ AAPC1 = {
 			["Completed"] = {
 			},
 			["Zones"] = {
+				["1-12OrcTroll-Hunter"] = 4,
 				["1-12OrcTroll-Priest"] = 4,
 			},
 		},

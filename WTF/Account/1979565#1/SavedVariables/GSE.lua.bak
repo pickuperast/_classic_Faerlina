@@ -46,12 +46,12 @@ GSEOptions = {
 	["useTranslator"] = false,
 	["STRING"] = "|cff888888",
 	["requireTarget"] = false,
-	["resetOOC"] = true,
+	["Update2415"] = true,
 	["Update2411"] = true,
 	["TitleColour"] = "|cFFFF0000",
 	["hideUIErrors"] = false,
 	["initialised"] = true,
-	["INDENT"] = "|cffccaa88",
+	["resetOOC"] = true,
 	["DebugModules"] = {
 		["Translator"] = false,
 		["GUI"] = false,
@@ -62,7 +62,7 @@ GSEOptions = {
 		["Viewer"] = false,
 		["Transmission"] = false,
 	},
-	["Update2415"] = true,
+	["INDENT"] = "|cffccaa88",
 	["MacroResetModifiers"] = {
 		["Alt"] = false,
 		["LeftControl"] = false,
@@ -81,10 +81,10 @@ GSEOptions = {
 		["RightShift"] = false,
 	},
 	["filterList"] = {
-		["Class"] = true,
 		["All"] = false,
-		["Global"] = true,
 		["Spec"] = true,
+		["Global"] = true,
+		["Class"] = true,
 	},
 	["EmphasisColour"] = "|cFFFFFF00",
 	["UseVerboseExportFormat"] = false,
@@ -113,7 +113,12 @@ GSEOptions = {
 GSELibrary = {
 	{
 	}, -- [1]
-	[5] = {
+	nil, -- [2]
+	{
+	}, -- [3]
+	{
+	}, -- [4]
+	{
 		["NEW_SEQUENCE"] = {
 			["Talents"] = "CLASSIC",
 			["Default"] = 1,
@@ -135,11 +140,11 @@ GSELibrary = {
 					["PostMacro"] = {
 					},
 					["StepFunction"] = "Sequential",
-					["KeyRelease"] = {
+					["KeyPress"] = {
 					},
 					["PreMacro"] = {
 					},
-					["KeyPress"] = {
+					["KeyRelease"] = {
 					},
 				}, -- [1]
 				{
@@ -159,8 +164,8 @@ GSELibrary = {
 			},
 			["ManualIntervention"] = false,
 		},
-	},
-	[4] = {
+	}, -- [5]
+	[7] = {
 	},
 	[0] = {
 	},

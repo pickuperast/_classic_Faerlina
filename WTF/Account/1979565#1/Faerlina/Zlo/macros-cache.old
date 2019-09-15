@@ -1,0 +1,19 @@
+VER 3 0000000001000003 "2" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt] or [button:2] Devouring Plague; Shadow Word: Pain
+END
+VER 3 0000000001000004 "3" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt] or [button:2] Vampiric Embrace; Mind Flay
+END
+VER 3 0000000001000005 "4" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [mod:alt] or [button:2] Silence; Mind Blast
+END
+VER 3 0000000001000002 "clear" "INV_MISC_QUESTIONMARK"
+/cleartarget
+END
+VER 3 0000000001000001 "rangechecker" "136222"
+#showtooltip
+/cast Smite
+END

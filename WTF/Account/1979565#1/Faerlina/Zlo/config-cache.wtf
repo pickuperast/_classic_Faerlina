@@ -1,6 +1,6 @@
 SET autoLootDefault "1"
 SET autoQuestPopUps "v"
-SET trackedQuests "v#(B"
+SET trackedQuests "v"
 SET hardTrackedQuests "v"
 SET trackedWorldQuests "v"
 SET hardTrackedWorldQuests "v"

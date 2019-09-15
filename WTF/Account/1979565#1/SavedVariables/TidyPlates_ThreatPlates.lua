@@ -4,21 +4,25 @@ ThreatPlatesDB = {
 		["Zlo - Thunderfury"] = {
 			["welcome"] = true,
 		},
+		["Zlobag - Faerlina"] = {
+			["welcome"] = true,
+		},
+		["Qqo - Faerlina"] = {
+			["welcome"] = true,
+		},
 		["Zlo - Faerlina"] = {
 			["welcome"] = true,
 		},
 		["Unlockl - Faerlina"] = {
 			["welcome"] = true,
 		},
-		["Zlobag - Faerlina"] = {
-			["welcome"] = true,
-		},
 	},
 	["profileKeys"] = {
 		["Zlo - Thunderfury"] = "Default",
+		["Zlobag - Faerlina"] = "Default",
+		["Qqo - Faerlina"] = "Default",
 		["Zlo - Faerlina"] = "Default",
 		["Unlockl - Faerlina"] = "Default",
-		["Zlobag - Faerlina"] = "Default",
 	},
 	["global"] = {
 		["version"] = "1.2.0",

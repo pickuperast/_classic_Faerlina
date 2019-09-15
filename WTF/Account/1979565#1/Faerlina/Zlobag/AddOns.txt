@@ -35,3 +35,4 @@ DBM-AQ40: enabled
 DBM-ZG: enabled
 QuestieDev-master: enabled
 WeaponSwingTimer: disabled
+YaHT: disabled

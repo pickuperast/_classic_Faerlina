@@ -13,16 +13,16 @@ GuidelimeDataChar = {
 	["editorFrameY"] = 0,
 	["showCompletedSteps"] = false,
 	["mainFrameAlpha"] = 0.5,
-	["guideSize"] = {
-	},
-	["arrowX"] = 0,
-	["mainFrameFontSize"] = 14,
 	["editorFrameX"] = 0,
-	["editorFrameRelative"] = "CENTER",
+	["arrowX"] = 0,
+	["mainFrameY"] = 0,
+	["showArrow"] = true,
 	["version"] = "1.005",
+	["editorFrameRelative"] = "CENTER",
 	["arrowAlpha"] = 0.8,
 	["mainFrameShowing"] = true,
-	["showArrow"] = true,
+	["guideSize"] = {
+	},
 	["mainFrameRelative"] = "RIGHT",
-	["mainFrameY"] = 0,
+	["mainFrameFontSize"] = 14,
 }
