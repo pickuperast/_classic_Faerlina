@@ -165,8 +165,11 @@ GSELibrary = {
 			["ManualIntervention"] = false,
 		},
 	}, -- [5]
-	[7] = {
-	},
+	nil, -- [6]
+	{
+	}, -- [7]
+	{
+	}, -- [8]
 	[0] = {
 	},
 }

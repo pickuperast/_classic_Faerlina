@@ -7,13 +7,15 @@ ElvDB = {
 		["Qqo - Faerlina"] = "Qqo - Faerlina",
 		["Zlo - Faerlina"] = "KompUI",
 		["Unlockl - Faerlina"] = "Unlockl - Faerlina",
+		["Ooq - Faerlina"] = "Ooq - Faerlina",
 	},
 	["gold"] = {
 		["Faerlina"] = {
-			["Zlo"] = 169711,
-			["Unlockl"] = 0,
+			["Ooq"] = 235,
+			["Qqo"] = 791089,
+			["Zlo"] = 88667,
 			["Zlobag"] = 1077,
-			["Qqo"] = 790715,
+			["Unlockl"] = 0,
 		},
 		["Whitemane"] = {
 			["Zlo"] = 0,
@@ -24,10 +26,11 @@ ElvDB = {
 	},
 	["class"] = {
 		["Faerlina"] = {
-			["Zlo"] = "PRIEST",
-			["Unlockl"] = "ROGUE",
-			["Zlobag"] = "WARRIOR",
+			["Ooq"] = "MAGE",
 			["Qqo"] = "SHAMAN",
+			["Zlo"] = "PRIEST",
+			["Zlobag"] = "WARRIOR",
+			["Unlockl"] = "ROGUE",
 		},
 		["Whitemane"] = {
 			["Zlo"] = "HUNTER",
@@ -449,6 +452,19 @@ ElvDB = {
 				["panelBackdrop"] = "HIDEBOTH",
 			},
 		},
+		["Zlo - Whitemane"] = {
+			["v11NamePlateReset"] = true,
+			["movers"] = {
+				["ElvUF_Raid40Mover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,432",
+				["ShiftAB"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,1196",
+				["ElvUF_PartyMover"] = "BOTTOMLEFT,ElvUIParent,BOTTOMLEFT,4,195",
+				["ElvUF_RaidMover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,427",
+				["ElvUF_RaidpetMover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,735",
+			},
+			["chat"] = {
+				["panelColorConverted"] = true,
+			},
+		},
 		["KompUI"] = {
 			["currentTutorial"] = 6,
 			["movers"] = {
@@ -466,44 +482,23 @@ ElvDB = {
 			["hideTutorial"] = true,
 			["chat"] = {
 				["throttleInterval"] = 20,
-				["panelColorConverted"] = true,
 				["panelWidth"] = 443,
 				["panelHeight"] = 416,
+				["panelColorConverted"] = true,
+			},
+			["tooltip"] = {
+				["textFontSize"] = 14,
 			},
 			["unitframe"] = {
-				["colors"] = {
-					["tapped"] = {
-						["r"] = 0,
-						["g"] = 1,
-						["b"] = 0,
-					},
-					["health"] = {
-						["b"] = 0,
-						["g"] = 0,
-						["r"] = 1,
-					},
-					["healthclass"] = true,
-					["health_backdrop"] = {
-						["r"] = 1,
-						["g"] = 0,
-						["b"] = 0,
-					},
-					["colorhealthbyvalue"] = false,
-					["health_backdrop_dead"] = {
-						["r"] = 0,
-						["g"] = 0,
-						["b"] = 0,
-					},
-				},
 				["units"] = {
 					["target"] = {
 						["power"] = {
 							["powerPrediction"] = true,
 						},
+						["disableMouseoverGlow"] = true,
 						["buffs"] = {
 							["attachTo"] = "HEALTH",
 						},
-						["disableMouseoverGlow"] = true,
 						["pvpIcon"] = {
 							["anchorPoint"] = "RIGHT",
 							["scale"] = 2,
@@ -521,28 +516,49 @@ ElvDB = {
 						},
 					},
 				},
+				["colors"] = {
+					["healthclass"] = true,
+					["tapped"] = {
+						["r"] = 0,
+						["g"] = 1,
+						["b"] = 0,
+					},
+					["colorhealthbyvalue"] = false,
+					["health_backdrop_dead"] = {
+						["r"] = 0,
+						["g"] = 0,
+						["b"] = 0,
+					},
+					["health"] = {
+						["b"] = 0,
+						["g"] = 0,
+						["r"] = 1,
+					},
+					["health_backdrop"] = {
+						["r"] = 1,
+						["g"] = 0,
+						["b"] = 0,
+					},
+				},
 			},
 			["datatexts"] = {
 				["fontSize"] = 14,
 				["font"] = "Cabin",
 			},
 			["actionbar"] = {
-				["bar6"] = {
-					["enabled"] = true,
+				["barPet"] = {
+					["visibility"] = "[pet,nooverridebar,nopossessbar] show",
 				},
 				["bar2"] = {
+					["enabled"] = true,
+				},
+				["bar6"] = {
 					["enabled"] = true,
 				},
 				["macrotext"] = true,
 				["stanceBar"] = {
 					["enabled"] = false,
 				},
-				["barPet"] = {
-					["visibility"] = "[pet,nooverridebar,nopossessbar] show",
-				},
-			},
-			["tooltip"] = {
-				["textFontSize"] = 14,
 			},
 			["bags"] = {
 				["countFont"] = "2002",
@@ -864,8 +880,7 @@ ElvDB = {
 				["panelColorConverted"] = true,
 			},
 		},
-		["Zlo - Whitemane"] = {
-			["v11NamePlateReset"] = true,
+		["Ooq - Faerlina"] = {
 			["movers"] = {
 				["ElvUF_Raid40Mover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,432",
 				["ShiftAB"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,1196",
@@ -873,6 +888,8 @@ ElvDB = {
 				["ElvUF_RaidMover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,427",
 				["ElvUF_RaidpetMover"] = "TOPLEFT,ElvUIParent,BOTTOMLEFT,4,735",
 			},
+			["v11NamePlateReset"] = true,
+			["currentTutorial"] = 3,
 			["chat"] = {
 				["panelColorConverted"] = true,
 			},
@@ -887,6 +904,7 @@ ElvPrivateDB = {
 		["Qqo - Faerlina"] = "Qqo - Faerlina",
 		["Zlo - Faerlina"] = "Zlo - Faerlina",
 		["Unlockl - Faerlina"] = "Unlockl - Faerlina",
+		["Ooq - Faerlina"] = "Ooq - Faerlina",
 	},
 	["profiles"] = {
 		["Zlo - Thunderfury"] = {
@@ -907,6 +925,9 @@ ElvPrivateDB = {
 			["install_complete"] = "1.03",
 		},
 		["Unlockl - Faerlina"] = {
+			["install_complete"] = "1.03",
+		},
+		["Ooq - Faerlina"] = {
 			["install_complete"] = "1.03",
 		},
 	},

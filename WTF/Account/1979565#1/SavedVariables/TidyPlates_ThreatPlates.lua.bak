@@ -19,6 +19,9 @@ ThreatPlatesDB = {
 		["Unlockl - Faerlina"] = {
 			["welcome"] = true,
 		},
+		["Ooq - Faerlina"] = {
+			["welcome"] = true,
+		},
 	},
 	["profileKeys"] = {
 		["Zlo - Thunderfury"] = "Default",
@@ -27,6 +30,7 @@ ThreatPlatesDB = {
 		["Qqo - Faerlina"] = "Default",
 		["Zlo - Faerlina"] = "Default",
 		["Unlockl - Faerlina"] = "Default",
+		["Ooq - Faerlina"] = "Default",
 	},
 	["global"] = {
 		["version"] = "1.2.0",

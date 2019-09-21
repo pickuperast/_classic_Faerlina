@@ -1,754 +1,28 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/cw Toostrongx-Faerlina coming", -- [1]
-		"/p yeas", -- [2]
-		"/p oops", -- [3]
-		"/p )", -- [4]
-		"/p need to go to mail", -- [5]
-		"/p and need to send money", -- [6]
-		"/p i relog", -- [7]
-		"/p are u enchanter?", -- [8]
-		"/p i have mats for another 2, but dont have money for rune thread", -- [9]
-		"/p may i pay to u with 2x|cff1eff00|Hitem:11174::::::::10:::::::|h[Lesser Nether Essence]|h|r", -- [10]
-		"/p it cost 55s each in AH", -- [11]
-		"/p money delivering is long", -- [12]
-		"/p cant acquire enough from my main", -- [13]
-		"/p |cff0070dd|Hitem:11177::::::::10:::::::|h[Small Radiant Shard]|h|r?", -- [14]
-		"/p ty", -- [15]
-		"/p oh i got money from AH)", -- [16]
-		"/p need another 2", -- [17]
-		"/p thank you", -- [18]
-		"/p cool", -- [19]
-		"/reloadui", -- [20]
+		"/p yeas", -- [1]
+		"/p oops", -- [2]
+		"/p )", -- [3]
+		"/p need to go to mail", -- [4]
+		"/p and need to send money", -- [5]
+		"/p i relog", -- [6]
+		"/p are u enchanter?", -- [7]
+		"/p i have mats for another 2, but dont have money for rune thread", -- [8]
+		"/p may i pay to u with 2x|cff1eff00|Hitem:11174::::::::10:::::::|h[Lesser Nether Essence]|h|r", -- [9]
+		"/p it cost 55s each in AH", -- [10]
+		"/p money delivering is long", -- [11]
+		"/p cant acquire enough from my main", -- [12]
+		"/p |cff0070dd|Hitem:11177::::::::10:::::::|h[Small Radiant Shard]|h|r?", -- [13]
+		"/p ty", -- [14]
+		"/p oh i got money from AH)", -- [15]
+		"/p need another 2", -- [16]
+		"/p thank you", -- [17]
+		"/p cool", -- [18]
+		"/reloadui", -- [19]
+		"/tsm scan", -- [20]
 	},
 	["ChatHistoryLog"] = {
-		{
-			"WTS |cffa335ee|Hitem:1204::::::::5:::::::|h[The Green Tower]|h|r+|cffa335ee|Hitem:870::::::::5:::::::|h[Fiery War Axe]|h|r PST!", -- [1]
-			"Tekuila-Faerlina", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Tekuila", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5854, -- [11]
-			"Player-4408-00736AAE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaTekuila|r",
-			[51] = 1568670714,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [1]
-		{
-			"wts |cffffffff|Hitem:8491::::::::36:::::::|h[Cat Carrier (Black Tabby)]|h|r|cff0070dd|Hitem:13097::::::::36:::::::|h[Thunderbrow Ring]|h|r", -- [1]
-			"Stopwatch-Faerlina", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Stopwatch", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5860, -- [11]
-			"Player-4408-00294329", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Stopwatch|r",
-			[51] = 1568670734,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [2]
-		{
-			"WTS |cffa335ee|Hitem:1204::::::::5:::::::|h[The Green Tower]|h|r+|cffa335ee|Hitem:870::::::::5:::::::|h[Fiery War Axe]|h|r PST!", -- [1]
-			"Tekuila-Faerlina", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Tekuila", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5869, -- [11]
-			"Player-4408-00736AAE", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaTekuila|r",
-			[51] = 1568670763,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [3]
-		{
-			"WTS |cffa335ee|Hitem:871::::::::55:::1::::|h[風暴戰斧]|h|r, PST", -- [1]
-			"Fallenlibra-Faerlina", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Fallenlibra", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5870, -- [11]
-			"Player-4408-00782B02", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Fallenlibra|r",
-			[51] = 1568670765,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [4]
-		{
-			"wts |cff0070dd|Hitem:15062::::::::60:::::::|h[Devilsaur Leggings]|h|r 235g", -- [1]
-			"Cree-Faerlina", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Cree", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5871, -- [11]
-			"Player-4408-0060B6B5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Cree|r",
-			[51] = 1568670769,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [5]
-		{
-			"WTS |cffa335ee|Hitem:871::::::::55:::1::::|h[風暴戰斧]|h|r, PST", -- [1]
-			"Fallenlibra-Faerlina", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Fallenlibra", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5873, -- [11]
-			"Player-4408-00782B02", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Fallenlibra|r",
-			[51] = 1568670774,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [6]
-		{
-			"WTS |cffa335ee|Hitem:871::::::::55:::1::::|h[風暴戰斧]|h|r, PST", -- [1]
-			"Fallenlibra-Faerlina", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Fallenlibra", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5880, -- [11]
-			"Player-4408-00782B02", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffaad372Fallenlibra|r",
-			[51] = 1568670796,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [7]
-		{
-			"WTS |cffffffff|Hitem:14342::::::::53:::::::|h[Mooncloth]|h|r 40g", -- [1]
-			"Crackofdon-Faerlina", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Crackofdon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5885, -- [11]
-			"Player-4408-00CD68A4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCrackofdon|r",
-			[51] = 1568670814,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [8]
-		{
-			"Enchanting (Artisan, 300) LFW, have |cffffffff|Henchant:20034|h[Enchant Weapon - Crusader]|h|r |cffffffff|Henchant:22749|h[Enchant  Weapon - Spell Power]|h|r, PST for Prices", -- [1]
-			"Pills-Faerlina", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Pills", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5893, -- [11]
-			"Player-4408-001A1BA0", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070dbPills|r",
-			[51] = 1568670827,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [9]
-		{
-			"wts |cff0070dd|Hitem:15062::::::::60:::::::|h[Devilsaur Leggings]|h|r 235g", -- [1]
-			"Cree-Faerlina", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Cree", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5913, -- [11]
-			"Player-4408-0060B6B5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Cree|r",
-			[51] = 1568670895,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [10]
-		{
-			"wts |cff0070dd|Hitem:15062::::::::60:::::::|h[Devilsaur Leggings]|h|r 235g", -- [1]
-			"Cree-Faerlina", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Cree", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5920, -- [11]
-			"Player-4408-0060B6B5", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Cree|r",
-			[51] = 1568670939,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [11]
-		{
-			"WTS |cffffffff|Hitem:14342::::::::53:::::::|h[Mooncloth]|h|r40g", -- [1]
-			"Crackofdon-Faerlina", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Crackofdon", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5929, -- [11]
-			"Player-4408-00CD68A4", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffffffffCrackofdon|r",
-			[51] = 1568670962,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [12]
-		{
-			"WTS |cff0070dd|Hitem:16736::::::::58:::1::::|h[Belt of Valor]|h|r|cff0070dd|Hitem:15770::::::::58:::1::::|h[Pattern: Black Dragonscale Shoulders]|h|r|cffa335ee|Hitem:14513::::::::58:::1::::|h[Pattern: Robe of the Archmage]|h|r pst", -- [1]
-			"Nolarz-Faerlina", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Nolarz", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			5932, -- [11]
-			"Player-4408-006F7DA6", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaNolarz|r",
-			[51] = 1568670980,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [13]
-		{
-			"WTS |cffa335ee|Hitem:14513::::::::60:::1::::|h[Pattern: Robe of the Archmage]|h|r 95g pst", -- [1]
-			"Revery-Faerlina", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Revery", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			16649, -- [11]
-			"Player-4408-007800AD", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cffff7c0aRevery|r",
-			[51] = 1568713965,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [14]
-		{
-			"Making |cffffffff|Hitem:14046::::::::60::::1:3524:::|h[Runecloth Bag]|h|r in Org free your mats (15 Runecloth / 2 Rugged Leather / 1 Rune Thread) ", -- [1]
-			"Toostrongx-Faerlina", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Toostrongx", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			16678, -- [11]
-			"Player-4408-00AF3359", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568714107,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [15]
-		{
-			"WTS |cff1eff00|Hitem:14155::::::::43:::::::|h[Mooncloth Bag]|h|r 28g", -- [1]
-			"Strangypoo-Faerlina", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Strangypoo", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			16684, -- [11]
-			"Player-4408-00B06277", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaStrangypoo|r",
-			[51] = 1568714147,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [16]
-		{
-			"WTS |cff1eff00|Hitem:14155::::::::43:::::::|h[Mooncloth Bag]|h|r 28g", -- [1]
-			"Strangypoo-Faerlina", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Strangypoo", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			16693, -- [11]
-			"Player-4408-00B06277", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaStrangypoo|r",
-			[51] = 1568714235,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [17]
-		{
-			"coming", -- [1]
-			"Toostrongx-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toostrongx", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			16694, -- [11]
-			"Player-4408-00AF3359", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568714235,
-			[50] = "CHAT_MSG_WHISPER_INFORM",
-		}, -- [18]
-		{
-			"kk", -- [1]
-			"Toostrongx-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toostrongx", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			16700, -- [11]
-			"Player-4408-00AF3359", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568714251,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [19]
-		{
-			"in front of bank", -- [1]
-			"Toostrongx-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toostrongx", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			16701, -- [11]
-			"Player-4408-00AF3359", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568714265,
-			[50] = "CHAT_MSG_WHISPER",
-		}, -- [20]
-		{
-			"what's the cd on layer hopping now?", -- [1]
-			"Chazz-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chazz", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			16708, -- [11]
-			"Player-4408-007229A1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Chazz|r",
-			[51] = 1568714405,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [21]
-		{
-			"i heard a rumor of 10min cd", -- [1]
-			"Toostrongx-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toostrongx", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			16714, -- [11]
-			"Player-4408-00AF3359", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568714418,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [22]
-		{
-			"not sure how true that is, it was in guild chat ", -- [1]
-			"Toostrongx-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toostrongx", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			16715, -- [11]
-			"Player-4408-00AF3359", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568714426,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [23]
-		{
-			"how long out are ya Q?", -- [1]
-			"Toostrongx-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toostrongx", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			16717, -- [11]
-			"Player-4408-00AF3359", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568714439,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [24]
-		{
-			"chazz are you up to run scholo or strat sometime soon?", -- [1]
-			"Toostrongx-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toostrongx", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			16722, -- [11]
-			"Player-4408-00AF3359", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568714469,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [25]
-		{
-			"I need strat really bad", -- [1]
-			"Chazz-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chazz", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			16726, -- [11]
-			"Player-4408-007229A1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Chazz|r",
-			[51] = 1568714483,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [26]
-		{
-			"i wanna test out my new toy on some dweebs", -- [1]
-			"Toostrongx-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toostrongx", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			16727, -- [11]
-			"Player-4408-00AF3359", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568714488,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [27]
-		{
-			"I can use something out of scholo too I think", -- [1]
-			"Chazz-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chazz", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			16728, -- [11]
-			"Player-4408-007229A1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Chazz|r",
-			[51] = 1568714489,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [28]
-		{
-			"cool lets do it up soon", -- [1]
-			"Toostrongx-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toostrongx", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			16732, -- [11]
-			"Player-4408-00AF3359", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568714503,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [29]
-		{
-			"yeah warriors keep stealing my |cff0070dd|Hitem:13404::::::::60:::::::|h[Mask of the Unforgiven]|h|r", -- [1]
-			"Chazz-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chazz", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			16742, -- [11]
-			"Player-4408-007229A1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Chazz|r",
-			[51] = 1568714531,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [30]
-		{
-			"it's tough pugging that stuff with some of these nubs", -- [1]
-			"Toostrongx-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toostrongx", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			16743, -- [11]
-			"Player-4408-00AF3359", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568714533,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [31]
-		{
-			"lost the roll like 5 times", -- [1]
-			"Chazz-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chazz", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			16745, -- [11]
-			"Player-4408-007229A1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Chazz|r",
-			[51] = 1568714536,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [32]
-		{
-			"WTS |cff1eff00|Hitem:14155::::::::43:::::::|h[Mooncloth Bag]|h|r 28g", -- [1]
-			"Strangypoo-Faerlina", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Strangypoo", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			16746, -- [11]
-			"Player-4408-00B06277", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaStrangypoo|r",
-			[51] = 1568714543,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [33]
 		{
 			"yeah i feel it", -- [1]
 			"Toostrongx-Faerlina", -- [2]
@@ -770,7 +44,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaToostrongx|r",
 			[51] = 1568714551,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [34]
+		}, -- [1]
 		{
 			"feelsbad", -- [1]
 			"Chazz-Faerlina", -- [2]
@@ -792,7 +66,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Chazz|r",
 			[51] = 1568714557,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [35]
+		}, -- [2]
 		{
 			"most of my groups im rolling against half the group / raid", -- [1]
 			"Toostrongx-Faerlina", -- [2]
@@ -814,7 +88,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaToostrongx|r",
 			[51] = 1568714560,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [36]
+		}, -- [3]
 		{
 			"25% drop so it's easily obtained but groups are so hard to form", -- [1]
 			"Chazz-Faerlina", -- [2]
@@ -836,7 +110,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Chazz|r",
 			[51] = 1568714573,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [37]
+		}, -- [4]
 		{
 			"we should grab a guild tank/dps and hit it up with ppl who dont need our stuff", -- [1]
 			"Toostrongx-Faerlina", -- [2]
@@ -858,7 +132,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaToostrongx|r",
 			[51] = 1568714608,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [38]
+		}, -- [5]
 		{
 			"yeeeeeee", -- [1]
 			"Chazz-Faerlina", -- [2]
@@ -880,7 +154,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Chazz|r",
 			[51] = 1568714622,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [39]
+		}, -- [6]
 		{
 			"between you and me everyone needs our $%^& though haha", -- [1]
 			"Chazz-Faerlina", -- [2]
@@ -902,7 +176,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Chazz|r",
 			[51] = 1568714632,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [40]
+		}, -- [7]
 		{
 			"cloth/leather", -- [1]
 			"Chazz-Faerlina", -- [2]
@@ -924,7 +198,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Chazz|r",
 			[51] = 1568714637,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [41]
+		}, -- [8]
 		{
 			"pre plan our success", -- [1]
 			"Toostrongx-Faerlina", -- [2]
@@ -946,7 +220,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaToostrongx|r",
 			[51] = 1568714639,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [42]
+		}, -- [9]
 		{
 			"prob true", -- [1]
 			"Toostrongx-Faerlina", -- [2]
@@ -968,7 +242,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaToostrongx|r",
 			[51] = 1568714644,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [43]
+		}, -- [10]
 		{
 			"WTS |cffa335ee|Hitem:14513::::::::60:::1::::|h[Pattern: Robe of the Archmage]|h|r 95g pst", -- [1]
 			"Revery-Faerlina", -- [2]
@@ -990,7 +264,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aRevery|r",
 			[51] = 1568714645,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [44]
+		}, -- [11]
 		{
 			"but i mean they should want to gear us since we're gonna carry their asses in raid", -- [1]
 			"Toostrongx-Faerlina", -- [2]
@@ -1012,7 +286,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaToostrongx|r",
 			[51] = 1568714665,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [45]
+		}, -- [12]
 		{
 			":P", -- [1]
 			"Toostrongx-Faerlina", -- [2]
@@ -1034,7 +308,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaToostrongx|r",
 			[51] = 1568714667,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [46]
+		}, -- [13]
 		{
 			"you", -- [1]
 			"Chazz-Faerlina", -- [2]
@@ -1056,7 +330,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Chazz|r",
 			[51] = 1568714672,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [47]
+		}, -- [14]
 		{
 			"you'd thinkk that", -- [1]
 			"Chazz-Faerlina", -- [2]
@@ -1078,7 +352,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Chazz|r",
 			[51] = 1568714675,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [48]
+		}, -- [15]
 		{
 			"but i've been trying to get in guild strat runs and they don", -- [1]
 			"Chazz-Faerlina", -- [2]
@@ -1100,7 +374,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Chazz|r",
 			[51] = 1568714684,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [49]
+		}, -- [16]
 		{
 			"dont wanna take me cause im roling against them", -- [1]
 			"Chazz-Faerlina", -- [2]
@@ -1122,7 +396,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Chazz|r",
 			[51] = 1568714689,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [50]
+		}, -- [17]
 		{
 			"doesn't make any sense", -- [1]
 			"Toostrongx-Faerlina", -- [2]
@@ -1144,7 +418,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaToostrongx|r",
 			[51] = 1568714694,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [51]
+		}, -- [18]
 		{
 			"like it", -- [1]
 			"Chazz-Faerlina", -- [2]
@@ -1166,7 +440,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Chazz|r",
 			[51] = 1568714701,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [52]
+		}, -- [19]
 		{
 			"its a benefit to everyone", -- [1]
 			"Chazz-Faerlina", -- [2]
@@ -1188,7 +462,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Chazz|r",
 			[51] = 1568714705,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [53]
+		}, -- [20]
 		{
 			"Q u grabbin rune thread?", -- [1]
 			"Toostrongx-Faerlina", -- [2]
@@ -1210,7 +484,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaToostrongx|r",
 			[51] = 1568714721,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [54]
+		}, -- [21]
 		{
 			"yeas", -- [1]
 			"Qqo-Faerlina", -- [2]
@@ -1232,7 +506,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070dbQqo|r",
 			[51] = 1568714732,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [55]
+		}, -- [22]
 		{
 			"if so i can meet u at the tailoring vend", -- [1]
 			"Toostrongx-Faerlina", -- [2]
@@ -1254,7 +528,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaToostrongx|r",
 			[51] = 1568714736,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [56]
+		}, -- [23]
 		{
 			"kk brt", -- [1]
 			"Toostrongx-Faerlina", -- [2]
@@ -1276,7 +550,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaToostrongx|r",
 			[51] = 1568714740,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [57]
+		}, -- [24]
 		{
 			"oops", -- [1]
 			"Qqo-Faerlina", -- [2]
@@ -1298,7 +572,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070dbQqo|r",
 			[51] = 1568714789,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [58]
+		}, -- [25]
 		{
 			")", -- [1]
 			"Qqo-Faerlina", -- [2]
@@ -1320,7 +594,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070dbQqo|r",
 			[51] = 1568714791,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [59]
+		}, -- [26]
 		{
 			"need to go to mail", -- [1]
 			"Qqo-Faerlina", -- [2]
@@ -1342,7 +616,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070dbQqo|r",
 			[51] = 1568714796,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [60]
+		}, -- [27]
 		{
 			"np", -- [1]
 			"Toostrongx-Faerlina", -- [2]
@@ -1364,7 +638,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaToostrongx|r",
 			[51] = 1568714801,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [61]
+		}, -- [28]
 		{
 			"WTS |cff1eff00|Hitem:14155::::::::43:::::::|h[Mooncloth Bag]|h|r 28g", -- [1]
 			"Strangypoo-Faerlina", -- [2]
@@ -1386,7 +660,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaStrangypoo|r",
 			[51] = 1568714828,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [62]
+		}, -- [29]
 		{
 			"and need to send money", -- [1]
 			"Qqo-Faerlina", -- [2]
@@ -1408,7 +682,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070dbQqo|r",
 			[51] = 1568714843,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [63]
+		}, -- [30]
 		{
 			"i relog", -- [1]
 			"Qqo-Faerlina", -- [2]
@@ -1430,7 +704,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070dbQqo|r",
 			[51] = 1568714900,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [64]
+		}, -- [31]
 		{
 			"are u enchanter?", -- [1]
 			"Qqo-Faerlina", -- [2]
@@ -1452,7 +726,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070dbQqo|r",
 			[51] = 1568714981,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [65]
+		}, -- [32]
 		{
 			"its gonna be a good 3 mins of crafting time for this, brb", -- [1]
 			"Toostrongx-Faerlina", -- [2]
@@ -1474,7 +748,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaToostrongx|r",
 			[51] = 1568715044,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [66]
+		}, -- [33]
 		{
 			"i have mats for another 2, but dont have money for rune thread", -- [1]
 			"Qqo-Faerlina", -- [2]
@@ -1496,7 +770,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070dbQqo|r",
 			[51] = 1568715102,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [67]
+		}, -- [34]
 		{
 			"may i pay to u with 2x|cff1eff00|Hitem:11174::::::::10:::::::|h[Lesser Nether Essence]|h|r", -- [1]
 			"Qqo-Faerlina", -- [2]
@@ -1518,7 +792,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070dbQqo|r",
 			[51] = 1568715112,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [68]
+		}, -- [35]
 		{
 			"it cost 55s each in AH", -- [1]
 			"Qqo-Faerlina", -- [2]
@@ -1540,7 +814,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070dbQqo|r",
 			[51] = 1568715122,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [69]
+		}, -- [36]
 		{
 			"uh ", -- [1]
 			"Toostrongx-Faerlina", -- [2]
@@ -1562,7 +836,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaToostrongx|r",
 			[51] = 1568715130,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [70]
+		}, -- [37]
 		{
 			"sure", -- [1]
 			"Toostrongx-Faerlina", -- [2]
@@ -1584,7 +858,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaToostrongx|r",
 			[51] = 1568715132,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [71]
+		}, -- [38]
 		{
 			"cool", -- [1]
 			"Qqo-Faerlina", -- [2]
@@ -1606,7 +880,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070dbQqo|r",
 			[51] = 1568715135,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [72]
+		}, -- [39]
 		{
 			"money delivering is long", -- [1]
 			"Qqo-Faerlina", -- [2]
@@ -1628,7 +902,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070dbQqo|r",
 			[51] = 1568715144,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [73]
+		}, -- [40]
 		{
 			"cant acquire enough from my main", -- [1]
 			"Qqo-Faerlina", -- [2]
@@ -1650,7 +924,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070dbQqo|r",
 			[51] = 1568715155,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [74]
+		}, -- [41]
 		{
 			"could trade it to me", -- [1]
 			"Toostrongx-Faerlina", -- [2]
@@ -1672,7 +946,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaToostrongx|r",
 			[51] = 1568715155,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [75]
+		}, -- [42]
 		{
 			"lets actually just stick to the 6 here, i have no use for those enchanting mats", -- [1]
 			"Toostrongx-Faerlina", -- [2]
@@ -1694,7 +968,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaToostrongx|r",
 			[51] = 1568715202,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [76]
+		}, -- [43]
 		{
 			"|cff0070dd|Hitem:11177::::::::10:::::::|h[Small Radiant Shard]|h|r?", -- [1]
 			"Qqo-Faerlina", -- [2]
@@ -1716,7 +990,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070dbQqo|r",
 			[51] = 1568715245,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [77]
+		}, -- [44]
 		{
 			"ty", -- [1]
 			"Qqo-Faerlina", -- [2]
@@ -1738,7 +1012,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070dbQqo|r",
 			[51] = 1568715273,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [78]
+		}, -- [45]
 		{
 			"oh i got money from AH)", -- [1]
 			"Qqo-Faerlina", -- [2]
@@ -1760,7 +1034,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070dbQqo|r",
 			[51] = 1568715313,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [79]
+		}, -- [46]
 		{
 			"need another 2", -- [1]
 			"Qqo-Faerlina", -- [2]
@@ -1782,7 +1056,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070dbQqo|r",
 			[51] = 1568715318,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [80]
+		}, -- [47]
 		{
 			"thank you", -- [1]
 			"Qqo-Faerlina", -- [2]
@@ -1804,7 +1078,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070dbQqo|r",
 			[51] = 1568715526,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [81]
+		}, -- [48]
 		{
 			"sure", -- [1]
 			"Toostrongx-Faerlina", -- [2]
@@ -1826,7 +1100,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaToostrongx|r",
 			[51] = 1568715528,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [82]
+		}, -- [49]
 		{
 			"ty, you gained me 5 levels of tailoring :P", -- [1]
 			"Toostrongx-Faerlina", -- [2]
@@ -1848,7 +1122,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaToostrongx|r",
 			[51] = 1568715546,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [83]
+		}, -- [50]
 		{
 			"cool", -- [1]
 			"Qqo-Faerlina", -- [2]
@@ -1870,7 +1144,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070dbQqo|r",
 			[51] = 1568715577,
 			[50] = "CHAT_MSG_PARTY",
-		}, -- [84]
+		}, -- [51]
 		{
 			"take it easy", -- [1]
 			"Toostrongx-Faerlina", -- [2]
@@ -1892,7 +1166,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaToostrongx|r",
 			[51] = 1568715583,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [85]
+		}, -- [52]
 		{
 			"WTS |cff0070dd|Hitem:10504::::::1974:987605120:52:::::::|h[Green Lens of Frozen Wrath]|h|r", -- [1]
 			"Tyyerr-Faerlina", -- [2]
@@ -1914,7 +1188,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070dbTyyerr|r",
 			[51] = 1568715608,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [86]
+		}, -- [53]
 		{
 			"logging, cyas", -- [1]
 			"Toostrongx-Faerlina", -- [2]
@@ -1936,7 +1210,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaToostrongx|r",
 			[51] = 1568715657,
 			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [87]
+		}, -- [54]
 		{
 			"Enchanting (Artisan, 300) LFW, have |cffffffff|Henchant:20034|h[Enchant Weapon - Crusader]|h|r |cffffffff|Henchant:22749|h[Enchant  Weapon - Spell Power]|h|r, PST for Prices", -- [1]
 			"Pills-Faerlina", -- [2]
@@ -1958,7 +1232,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070dbPills|r",
 			[51] = 1568747123,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [88]
+		}, -- [55]
 		{
 			"Enchanting (Artisan, 300) LFW, have |cffffffff|Henchant:20034|h[Enchant Weapon - Crusader]|h|r |cffffffff|Henchant:22749|h[Enchant  Weapon - Spell Power]|h|r, PST for Prices", -- [1]
 			"Pills-Faerlina", -- [2]
@@ -1980,7 +1254,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070dbPills|r",
 			[51] = 1568747141,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [89]
+		}, -- [56]
 		{
 			"WTS |cffffffff|Hitem:4306::::::::39:::::::|h[Silk Cloth]|h|r 70s PER stack (Infinite amount) If you buy more than 5 stacks I'll do discount", -- [1]
 			"Xehikem-Faerlina", -- [2]
@@ -2002,7 +1276,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dXehikem|r",
 			[51] = 1568747191,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [90]
+		}, -- [57]
 		{
 			"WTS |cffffffff|Hitem:4306::::::::39:::::::|h[Silk Cloth]|h|r 70s PER stack (Infinite amount) If you buy more than 5 stacks I'll do discount", -- [1]
 			"Xehikem-Faerlina", -- [2]
@@ -2024,7 +1298,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dXehikem|r",
 			[51] = 1568747220,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [91]
+		}, -- [58]
 		{
 			"WTS |cffffffff|Hitem:4306::::::::39:::::::|h[Silk Cloth]|h|r 70s PER stack (Infinite amount) If you buy more than 5 stacks I'll do discount", -- [1]
 			"Xehikem-Faerlina", -- [2]
@@ -2046,7 +1320,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dXehikem|r",
 			[51] = 1568747222,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [92]
+		}, -- [59]
 		{
 			"Enchanting (Artisan, 300) LFW, have |cffffffff|Henchant:20034|h[Enchant Weapon - Crusader]|h|r |cffffffff|Henchant:22749|h[Enchant  Weapon - Spell Power]|h|r, PST for Prices", -- [1]
 			"Pills-Faerlina", -- [2]
@@ -2068,7 +1342,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070dbPills|r",
 			[51] = 1568747305,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [93]
+		}, -- [60]
 		{
 			"Enchanting (Artisan, 300) LFW, have |cffffffff|Henchant:20034|h[Enchant Weapon - Crusader]|h|r |cffffffff|Henchant:22749|h[Enchant  Weapon - Spell Power]|h|r, PST for Prices", -- [1]
 			"Pills-Faerlina", -- [2]
@@ -2090,7 +1364,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070dbPills|r",
 			[51] = 1568747357,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [94]
+		}, -- [61]
 		{
 			"WTS |cffffffff|Henchant:20026|h[Enchant Chest - Major Health]|h|r pst", -- [1]
 			"Adopted-Faerlina", -- [2]
@@ -2112,7 +1386,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaAdopted|r",
 			[51] = 1568747435,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [95]
+		}, -- [62]
 		{
 			"Enchanting (Artisan, 300) LFW, have |cffffffff|Henchant:20034|h[Enchant Weapon - Crusader]|h|r |cffffffff|Henchant:22749|h[Enchant  Weapon - Spell Power]|h|r, PST for Prices", -- [1]
 			"Pills-Faerlina", -- [2]
@@ -2134,7 +1408,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070dbPills|r",
 			[51] = 1568747467,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [96]
+		}, -- [63]
 		{
 			"WTS |cffffffff|Henchant:20026|h[Enchant Chest - Major Health]|h|r pst", -- [1]
 			"Adopted-Faerlina", -- [2]
@@ -2156,7 +1430,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaAdopted|r",
 			[51] = 1568747504,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [97]
+		}, -- [64]
 		{
 			"WTS |cffffffff|Henchant:20026|h[Enchant Chest - Major Health]|h|r pst", -- [1]
 			"Adopted-Faerlina", -- [2]
@@ -2178,7 +1452,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaAdopted|r",
 			[51] = 1568747545,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [98]
+		}, -- [65]
 		{
 			"Enchanting (Artisan, 300) LFW, have |cffffffff|Henchant:20034|h[Enchant Weapon - Crusader]|h|r |cffffffff|Henchant:22749|h[Enchant  Weapon - Spell Power]|h|r, PST for Prices", -- [1]
 			"Pills-Faerlina", -- [2]
@@ -2200,7 +1474,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070dbPills|r",
 			[51] = 1568747621,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [99]
+		}, -- [66]
 		{
 			"Enchanting (Artisan, 300) LFW, have |cffffffff|Henchant:20034|h[Enchant Weapon - Crusader]|h|r |cffffffff|Henchant:22749|h[Enchant  Weapon - Spell Power]|h|r, PST for Prices", -- [1]
 			"Pills-Faerlina", -- [2]
@@ -2222,7 +1496,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070dbPills|r",
 			[51] = 1568747654,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [100]
+		}, -- [67]
 		{
 			"WTS 10 |cffffffff|Hitem:7068::::::::40:::::::|h[Elemental Fire]|h|r PST", -- [1]
 			"Zephyrot-Faerlina", -- [2]
@@ -2244,7 +1518,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Zephyrot|r",
 			[51] = 1569043019,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [101]
+		}, -- [68]
 		{
 			"WTS|cffffffff|Hitem:2091::::::::48:::::::|h[Magic Dust]|h|rPST!!!", -- [1]
 			"Crumz-Faerlina", -- [2]
@@ -2266,7 +1540,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaCrumz|r",
 			[51] = 1569043102,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [102]
+		}, -- [69]
 		{
 			"WTS|cffffffff|Hitem:2091::::::::48:::::::|h[Magic Dust]|h|rPST!!!", -- [1]
 			"Crumz-Faerlina", -- [2]
@@ -2288,7 +1562,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaCrumz|r",
 			[51] = 1569043103,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [103]
+		}, -- [70]
 		{
 			"WTS 10 |cffffffff|Hitem:7068::::::::40:::::::|h[Elemental Fire]|h|r PST", -- [1]
 			"Zephyrot-Faerlina", -- [2]
@@ -2310,7 +1584,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Zephyrot|r",
 			[51] = 1569043108,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [104]
+		}, -- [71]
 		{
 			"WTS |cffffffff|Hitem:5634::::::::60:::::::|h[Free Action Potion]|h|r (1g75s/stack)", -- [1]
 			"Sot-Faerlina", -- [2]
@@ -2332,7 +1606,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aSot|r",
 			[51] = 1569043144,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [105]
+		}, -- [72]
 		{
 			"WTS 10 |cffffffff|Hitem:7068::::::::40:::::::|h[Elemental Fire]|h|r PST", -- [1]
 			"Zephyrot-Faerlina", -- [2]
@@ -2354,7 +1628,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Zephyrot|r",
 			[51] = 1569043163,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [106]
+		}, -- [73]
 		{
 			"LF TAILOR |cff0070dd|Hitem:14136::::::::60:::::::|h[Robe of Winter Night]|h|r", -- [1]
 			"Blowpump-Faerlina", -- [2]
@@ -2376,7 +1650,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaBlowpump|r",
 			[51] = 1569043176,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [107]
+		}, -- [74]
 		{
 			"WTS |cff0070dd|Hitem:1486::::::::31:::1::::|h[Tree Bark Jacket]|h|r PST", -- [1]
 			"Supertom-Faerlina", -- [2]
@@ -2398,7 +1672,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aSupertom|r",
 			[51] = 1569043210,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [108]
+		}, -- [75]
 		{
 			"WTS |cff0070dd|Hitem:1992::::::::42:::1::::|h[Swampchill Fetish]|h|r 4g", -- [1]
 			"Wowlett-Faerlina", -- [2]
@@ -2420,7 +1694,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaWowlett|r",
 			[51] = 1569043236,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [109]
+		}, -- [76]
 		{
 			"LF TAILOR |cff0070dd|Hitem:14136::::::::60:::::::|h[Robe of Winter Night]|h|r", -- [1]
 			"Blowpump-Faerlina", -- [2]
@@ -2442,7 +1716,7 @@ ElvCharacterDB = {
 			[52] = "|cff3fc6eaBlowpump|r",
 			[51] = 1569043248,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [110]
+		}, -- [77]
 		{
 			"SELLING |cff0070dd|Hitem:15063::::::::60:::::::|h[Devilsaur Gauntlets]|h|r COME GET YOUR BEST IN SLOT", -- [1]
 			"Dankquan-Faerlina", -- [2]
@@ -2464,7 +1738,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aDankquan|r",
 			[51] = 1569043256,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [111]
+		}, -- [78]
 		{
 			"WTS |cff0070dd|Hitem:1486::::::::31:::1::::|h[Tree Bark Jacket]|h|r PST", -- [1]
 			"Supertom-Faerlina", -- [2]
@@ -2486,7 +1760,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aSupertom|r",
 			[51] = 1569043258,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [112]
+		}, -- [79]
 		{
 			"WTS |cff1eff00|Hitem:2775::::::::39:::::::|h[Silver Ore]|h|r stacks", -- [1]
 			"Nutwater-Faerlina", -- [2]
@@ -2508,7 +1782,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Nutwater|r",
 			[51] = 1569043283,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [113]
+		}, -- [80]
 		{
 			"SELLING |cff0070dd|Hitem:15063::::::::60:::::::|h[Devilsaur Gauntlets]|h|r COME GET YOUR BEST IN SLOT", -- [1]
 			"Dankquan-Faerlina", -- [2]
@@ -2530,7 +1804,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aDankquan|r",
 			[51] = 1569043291,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [114]
+		}, -- [81]
 		{
 			"WTS |cff0070dd|Hitem:15063:856:::::::60:::::::|h[Devilsaur Gauntlets]|h|r|cff0070dd|Hitem:15062::::::::60:::::::|h[Devilsaur Leggings]|h|r   ", -- [1]
 			"Mokgra-Faerlina", -- [2]
@@ -2552,7 +1826,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dMokgra|r",
 			[51] = 1569043324,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [115]
+		}, -- [82]
 		{
 			"WTS |cff0070dd|Hitem:15063:856:::::::60:::::::|h[Devilsaur Gauntlets]|h|r|cff0070dd|Hitem:15062::::::::60:::::::|h[Devilsaur Leggings]|h|r   ", -- [1]
 			"Mokgra-Faerlina", -- [2]
@@ -2574,7 +1848,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dMokgra|r",
 			[51] = 1569043324,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [116]
+		}, -- [83]
 		{
 			"WTS |cff0070dd|Hitem:8348::::::::49:::::::|h[Helm of Fire]|h|r 14g /// |cff0070dd|Hitem:15061::::::::49:::::::|h[Living Shoulders]|h|r 30g /// |cff0070dd|Hitem:15060::::::::49::::1:3524:::|h[Living Leggings]|h|r 65g PST --Also crafting |cffa335ee|Hitem:16983::::::::49:::::::|h[Molten Helm]|h|r", -- [1]
 			"Loligaps-Faerlina", -- [2]
@@ -2596,7 +1870,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aLoligaps|r",
 			[51] = 1569080867,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [117]
+		}, -- [84]
 		{
 			"LFW 300 BSMITH CAN MAKE |cff1eff00|Hitem:7969::::::::60:::::::|h[Mithril Spurs]|h|r|cff0070dd|Hitem:12784::::::::60:::::::|h[Arcanite Reaper]|h|r|cffffffff|Hitem:16206::::::::60:::::::|h[Arcanite Rod]|h|r I WILL APPLY MY OWN SPURS TO YOUR BOOTS 2G", -- [1]
 			"Bipbob-Faerlina", -- [2]
@@ -2618,7 +1892,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dBipbob|r",
 			[51] = 1569080924,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [118]
+		}, -- [85]
 		{
 			"WTS |cff0070dd|Hitem:8348::::::::49:::::::|h[Helm of Fire]|h|r 14g /// |cff0070dd|Hitem:15061::::::::49:::::::|h[Living Shoulders]|h|r 30g /// |cff0070dd|Hitem:15060::::::::49::::1:3524:::|h[Living Leggings]|h|r 65g PST --Also crafting |cffa335ee|Hitem:16983::::::::49:::::::|h[Molten Helm]|h|r", -- [1]
 			"Loligaps-Faerlina", -- [2]
@@ -2640,7 +1914,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aLoligaps|r",
 			[51] = 1569080938,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [119]
+		}, -- [86]
 		{
 			"WTS |cff0070dd|Hitem:8348::::::::49:::::::|h[Helm of Fire]|h|r 14g /// |cff0070dd|Hitem:15061::::::::49:::::::|h[Living Shoulders]|h|r 30g /// |cff0070dd|Hitem:15060::::::::49::::1:3524:::|h[Living Leggings]|h|r 65g PST --Also crafting |cffa335ee|Hitem:16983::::::::49:::::::|h[Molten Helm]|h|r", -- [1]
 			"Loligaps-Faerlina", -- [2]
@@ -2662,7 +1936,7 @@ ElvCharacterDB = {
 			[52] = "|cffff7c0aLoligaps|r",
 			[51] = 1569081024,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [120]
+		}, -- [87]
 		{
 			"LFW 300 BSMITH CAN MAKE |cff1eff00|Hitem:7969::::::::60:::::::|h[Mithril Spurs]|h|r|cff0070dd|Hitem:12784::::::::60:::::::|h[Arcanite Reaper]|h|r|cffffffff|Hitem:16206::::::::60:::::::|h[Arcanite Rod]|h|r I WILL APPLY MY OWN SPURS TO YOUR BOOTS 2G", -- [1]
 			"Bipbob-Faerlina", -- [2]
@@ -2684,7 +1958,7 @@ ElvCharacterDB = {
 			[52] = "|cffc69b6dBipbob|r",
 			[51] = 1569082133,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [121]
+		}, -- [88]
 		{
 			"WTS |cff1eff00|Hitem:4410::::::::28:::::::|h[Schematic: Shadow Goggles]|h|r", -- [1]
 			"Wormhat-Faerlina", -- [2]
@@ -2706,7 +1980,7 @@ ElvCharacterDB = {
 			[52] = "|cff0070dbWormhat|r",
 			[51] = 1569082523,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [122]
+		}, -- [89]
 		{
 			"WTS |cff0070dd|Hitem:15063::::::::50::::1:3524:::|h[Devilsaur Gauntlets]|h|r PST CHEAPER THAN AH", -- [1]
 			"Daniel-Faerlina", -- [2]
@@ -2728,7 +2002,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Daniel|r",
 			[51] = 1569082761,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [123]
+		}, -- [90]
 		{
 			"WTS |cff0070dd|Hitem:15063::::::::50::::1:3524:::|h[Devilsaur Gauntlets]|h|r PST CHEAPER THAN AH", -- [1]
 			"Daniel-Faerlina", -- [2]
@@ -2750,7 +2024,7 @@ ElvCharacterDB = {
 			[52] = "|cfffff468Daniel|r",
 			[51] = 1569082762,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [124]
+		}, -- [91]
 		{
 			"WTS |cffa335ee|Hitem:2825::::::::30:::::::|h[Bow of Searing Arrows]|h|r pst offer", -- [1]
 			"Bullwick-Faerlina", -- [2]
@@ -2772,7 +2046,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Bullwick|r",
 			[51] = 1569083123,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [125]
+		}, -- [92]
 		{
 			"WTS |cffa335ee|Hitem:2825::::::::30:::::::|h[Bow of Searing Arrows]|h|r pst offer", -- [1]
 			"Bullwick-Faerlina", -- [2]
@@ -2794,7 +2068,7 @@ ElvCharacterDB = {
 			[52] = "|cffaad372Bullwick|r",
 			[51] = 1569083226,
 			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [126]
+		}, -- [93]
 		{
 			"WTS |cff0070dd|Hitem:13053::::::::60:::1::::|h[Doombringer]|h|r 20g |cffa335ee|Hitem:14555::::::::60:::1::::|h[Alcor's Sunrazor]|h|r 400g", -- [1]
 			"Misspell-Faerlina", -- [2]
@@ -2815,6 +2089,732 @@ ElvCharacterDB = {
 			false, -- [17]
 			[52] = "|cff3fc6eaMisspell|r",
 			[51] = 1569083251,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [94]
+		{
+			"Tailor making |cffffffff|Hitem:14046::::::::60::::1:3524:::|h[Runecloth Bag]|h|r with YOUR mats, needs 25 |cffffffff|Hitem:14047::::::::60:::::::|h[Runecloth]|h|r 2 |cffffffff|Hitem:8170::::::::60:::::::|h[Rugged Leather]|h|r and 1 |cffffffff|Hitem:14341::::::::60:::::::|h[Rune Thread]|h|r At Org tailoring shop, tips appreciated.", -- [1]
+			"Verlorius-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Verlorius", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			46, -- [11]
+			"Player-4408-007AE3DD", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffVerlorius|r",
+			[51] = 1569083557,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [95]
+		{
+			"WTS |cffa335ee|Hitem:14555::::::::60:::1::::|h[Alcor's Sunrazor]|h|r pst", -- [1]
+			"Misspell-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Misspell", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			188, -- [11]
+			"Player-4408-00B0AA6D", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff3fc6eaMisspell|r",
+			[51] = 1569083966,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [96]
+		{
+			"WTS |cff0070dd|Hitem:15060::::::::49:::::::|h[Living Leggings]|h|r 65g /// |cff0070dd|Hitem:15061::::::::49:::::::|h[Living Shoulders]|h|r 28g /// |cff0070dd|Hitem:8348::::::::49:::::::|h[Helm of Fire]|h|r 15g  ---PST", -- [1]
+			"Loligaps-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Loligaps", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			325, -- [11]
+			"Player-4408-00AC0344", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aLoligaps|r",
+			[51] = 1569084536,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [97]
+		{
+			"WTS |cff0070dd|Hitem:15060::::::::49:::::::|h[Living Leggings]|h|r 65g /// |cff0070dd|Hitem:15061::::::::49:::::::|h[Living Shoulders]|h|r 28g /// |cff0070dd|Hitem:8348::::::::49:::::::|h[Helm of Fire]|h|r 15g  ---PST", -- [1]
+			"Loligaps-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Loligaps", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			377, -- [11]
+			"Player-4408-00AC0344", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aLoligaps|r",
+			[51] = 1569084614,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [98]
+		{
+			"WTS |cff0070dd|Hitem:15060::::::::49:::::::|h[Living Leggings]|h|r 65g /// |cff0070dd|Hitem:15061::::::::49:::::::|h[Living Shoulders]|h|r 28g /// |cff0070dd|Hitem:8348::::::::49:::::::|h[Helm of Fire]|h|r 15g  ---PST", -- [1]
+			"Loligaps-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Loligaps", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			447, -- [11]
+			"Player-4408-00AC0344", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aLoligaps|r",
+			[51] = 1569084739,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [99]
+		{
+			"WTB |cffffffff|Hitem:4304::::::::49:::::::|h[Thick Leather]|h|r 1g/stack CoD or Trade.", -- [1]
+			"Loligaps-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Loligaps", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			453, -- [11]
+			"Player-4408-00AC0344", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aLoligaps|r",
+			[51] = 1569084742,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [100]
+		{
+			"WTS |cff0070dd|Hitem:10332::::::::45:::1::::|h[Scarlet Boots]|h|r SUPER CHEAP", -- [1]
+			"Trølltøll-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Trølltøll", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			510, -- [11]
+			"Player-4408-00CF8C02", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffTrølltøll|r",
+			[51] = 1569084789,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [101]
+		{
+			"WTB |cffffffff|Hitem:4304::::::::49:::::::|h[Thick Leather]|h|r 1g/stack CoD or Trade.", -- [1]
+			"Loligaps-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Loligaps", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			525, -- [11]
+			"Player-4408-00AC0344", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aLoligaps|r",
+			[51] = 1569084804,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [102]
+		{
+			"WTS |cff0070dd|Hitem:10332::::::::45:::1::::|h[Scarlet Boots]|h|r SUPER CHEAP", -- [1]
+			"Trølltøll-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Trølltøll", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			526, -- [11]
+			"Player-4408-00CF8C02", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffTrølltøll|r",
+			[51] = 1569084806,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [103]
+		{
+			"WTS |cff0070dd|Hitem:15060::::::::49:::::::|h[Living Leggings]|h|r 65g /// |cff0070dd|Hitem:15061::::::::49:::::::|h[Living Shoulders]|h|r 28g /// |cff0070dd|Hitem:8348::::::::49:::::::|h[Helm of Fire]|h|r 15g  ---PST", -- [1]
+			"Loligaps-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Loligaps", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			536, -- [11]
+			"Player-4408-00AC0344", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aLoligaps|r",
+			[51] = 1569084817,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [104]
+		{
+			"WTS |cff0070dd|Hitem:15060::::::::49:::::::|h[Living Leggings]|h|r 65g /// |cff0070dd|Hitem:15061::::::::49:::::::|h[Living Shoulders]|h|r 28g /// |cff0070dd|Hitem:8348::::::::49:::::::|h[Helm of Fire]|h|r 15g  ---PST", -- [1]
+			"Loligaps-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Loligaps", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			562, -- [11]
+			"Player-4408-00AC0344", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aLoligaps|r",
+			[51] = 1569084861,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [105]
+		{
+			"WTB |cffffffff|Hitem:4304::::::::49:::::::|h[Thick Leather]|h|r 1g/stack CoD or Trade.", -- [1]
+			"Loligaps-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Loligaps", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			568, -- [11]
+			"Player-4408-00AC0344", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aLoligaps|r",
+			[51] = 1569084867,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [106]
+		{
+			"WTS |cff0070dd|Hitem:15060::::::::49:::::::|h[Living Leggings]|h|r 65g /// |cff0070dd|Hitem:15061::::::::49:::::::|h[Living Shoulders]|h|r 28g /// |cff0070dd|Hitem:8348::::::::49:::::::|h[Helm of Fire]|h|r 15g  ---PST", -- [1]
+			"Loligaps-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Loligaps", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			582, -- [11]
+			"Player-4408-00AC0344", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aLoligaps|r",
+			[51] = 1569084895,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [107]
+		{
+			"WTB |cffffffff|Hitem:4304::::::::49:::::::|h[Thick Leather]|h|r 1g/stack CoD or Trade.", -- [1]
+			"Loligaps-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Loligaps", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			600, -- [11]
+			"Player-4408-00AC0344", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aLoligaps|r",
+			[51] = 1569084949,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [108]
+		{
+			"WTS |cff0070dd|Hitem:15060::::::::49:::::::|h[Living Leggings]|h|r 65g /// |cff0070dd|Hitem:15061::::::::49:::::::|h[Living Shoulders]|h|r 28g /// |cff0070dd|Hitem:8348::::::::49:::::::|h[Helm of Fire]|h|r 15g  ---PST", -- [1]
+			"Loligaps-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Loligaps", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			601, -- [11]
+			"Player-4408-00AC0344", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aLoligaps|r",
+			[51] = 1569084953,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [109]
+		{
+			"WTS |cff0070dd|Hitem:15060::::::::49:::::::|h[Living Leggings]|h|r 65g /// |cff0070dd|Hitem:15061::::::::49:::::::|h[Living Shoulders]|h|r 28g /// |cff0070dd|Hitem:8348::::::::49:::::::|h[Helm of Fire]|h|r 15g  ---PST", -- [1]
+			"Loligaps-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Loligaps", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			613, -- [11]
+			"Player-4408-00AC0344", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aLoligaps|r",
+			[51] = 1569084986,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [110]
+		{
+			"wts |cffa335ee|Hitem:14513::::::::60:::1::::|h[Pattern: Robe of the Archmage]|h|r pm", -- [1]
+			"Nami-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Nami", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			628, -- [11]
+			"Player-4408-0000273A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edNami|r",
+			[51] = 1569085035,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [111]
+		{
+			"WTB |cffffffff|Hitem:4338::::::::5:::::::|h[Mageweave Cloth]|h|r 70s / Stack - PST", -- [1]
+			"Hornet-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Hornet", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			636, -- [11]
+			"Player-4408-0086B1FB", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffaad372Hornet|r",
+			[51] = 1569085044,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [112]
+		{
+			"WTS |cff0070dd|Hitem:15060::::::::49:::::::|h[Living Leggings]|h|r 65g /// |cff0070dd|Hitem:15061::::::::49:::::::|h[Living Shoulders]|h|r 28g /// |cff0070dd|Hitem:8348::::::::49:::::::|h[Helm of Fire]|h|r 15g  ---PST", -- [1]
+			"Loligaps-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Loligaps", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			646, -- [11]
+			"Player-4408-00AC0344", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aLoligaps|r",
+			[51] = 1569085063,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [113]
+		{
+			"wts |cffa335ee|Hitem:14513::::::::60:::1::::|h[Pattern: Robe of the Archmage]|h|r pm", -- [1]
+			"Nami-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Nami", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			668, -- [11]
+			"Player-4408-0000273A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edNami|r",
+			[51] = 1569085127,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [114]
+		{
+			"WTB |cffffffff|Hitem:4304::::::::49:::::::|h[Thick Leather]|h|r 1g/stack CoD or Trade.", -- [1]
+			"Loligaps-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Loligaps", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			678, -- [11]
+			"Player-4408-00AC0344", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aLoligaps|r",
+			[51] = 1569085150,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [115]
+		{
+			"WTS |cff0070dd|Hitem:15060::::::::49:::::::|h[Living Leggings]|h|r 65g /// |cff0070dd|Hitem:15061::::::::49:::::::|h[Living Shoulders]|h|r 28g /// |cff0070dd|Hitem:8348::::::::49:::::::|h[Helm of Fire]|h|r 15g  ---PST", -- [1]
+			"Loligaps-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Loligaps", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			680, -- [11]
+			"Player-4408-00AC0344", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffff7c0aLoligaps|r",
+			[51] = 1569085153,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [116]
+		{
+			"WTB |cff1eff00|Hitem:12360::::::::60:::::::|h[Arcanite Bar]|h|r xmute cooldown 6g", -- [1]
+			"Mokilok-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Mokilok", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			681, -- [11]
+			"Player-4408-002FCA78", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dMokilok|r",
+			[51] = 1569085159,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [117]
+		{
+			"wts |cffa335ee|Hitem:14513::::::::60:::1::::|h[Pattern: Robe of the Archmage]|h|r pm", -- [1]
+			"Nami-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Nami", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			699, -- [11]
+			"Player-4408-0000273A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edNami|r",
+			[51] = 1569085201,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [118]
+		{
+			"WTB |cffffffff|Hitem:7068::::::::60:::::::|h[Elemental Fire]|h|r|cffffffff|Hitem:7068::::::::60:::::::|h[Elemental Fire]|h|r|cffffffff|Hitem:7068::::::::60:::::::|h[Elemental Fire]|h|r|cffffffff|Hitem:7068::::::::60:::::::|h[Elemental Fire]|h|r|cffffffff|Hitem:7068::::::::60:::::::|h[Elemental Fire]|h|r", -- [1]
+			"Släsh-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Släsh", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			725, -- [11]
+			"Player-4408-005CBCC5", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffSläsh|r",
+			[51] = 1569085270,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [119]
+		{
+			"Few |cffffffff|Henchant:13815|h[Enchant Gloves - Agility]|h|r available in Undercity, tips appreciated PST if you want", -- [1]
+			"Nostalgrithm-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Nostalgrithm", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			730, -- [11]
+			"Player-4408-00489A53", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffffffffNostalgrithm|r",
+			[51] = 1569085276,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [120]
+		{
+			"WTS |cff1eff00|Hitem:6661::::::::27:::::::|h[Recipe: Savory Deviate Delight]|h|r pst", -- [1]
+			"Evan-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Evan", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			741, -- [11]
+			"Player-4408-01280786", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Evan|r",
+			[51] = 1569085293,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [121]
+		{
+			"wts |cffa335ee|Hitem:14513::::::::60:::1::::|h[Pattern: Robe of the Archmage]|h|r better than AH", -- [1]
+			"Nami-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Nami", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			750, -- [11]
+			"Player-4408-0000273A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edNami|r",
+			[51] = 1569085310,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [122]
+		{
+			"WTS |cff1eff00|Hitem:6661::::::::27:::::::|h[Recipe: Savory Deviate Delight]|h|r pst", -- [1]
+			"Evan-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Evan", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			783, -- [11]
+			"Player-4408-01280786", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Evan|r",
+			[51] = 1569085357,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [123]
+		{
+			"WTS |cffa335ee|Hitem:14513::::::::60:::1::::|h[Pattern: Robe of the Archmage]|h|r|cff0070dd|Hitem:12838::::::::60:::1::::|h[Plans: Arcanite Reaper]|h|r", -- [1]
+			"Kangaxx-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kangaxx", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1439, -- [11]
+			"Player-4408-0008D2C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edKangaxx|r",
+			[51] = 1569088290,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [124]
+		{
+			"WTS |cff0070dd|Hitem:15062::::::::60:::1::::|h[Devilsaur Leggings]|h|r|cff0070dd|Hitem:15063::::::::60:::::::|h[Devilsaur Gauntlets]|h|r cheaper then AH", -- [1]
+			"Mokgra-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Mokgra", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1462, -- [11]
+			"Player-4408-006420C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dMokgra|r",
+			[51] = 1569088323,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [125]
+		{
+			"wts |cffa335ee|Hitem:14513::::::::60:::1::::|h[Pattern: Robe of the Archmage]|h|r|cff0070dd|Hitem:12838::::::::60:::1::::|h[Plans: Arcanite Reaper]|h|r", -- [1]
+			"Kangaxx-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Kangaxx", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1533, -- [11]
+			"Player-4408-0008D2C0", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff8787edKangaxx|r",
+			[51] = 1569088445,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [126]
+		{
+			"Selling Princess runs! |cff0070dd|Hitem:17713::::::::1:::::::|h[Blackstone Ring]|h|r BIS for hunters and all melee. Cheap. PST", -- [1]
+			"Ringruns-Faerlina", -- [2]
+			"", -- [3]
+			"2. Trade - City", -- [4]
+			"Ringruns", -- [5]
+			"", -- [6]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
+			0, -- [10]
+			1540, -- [11]
+			"Player-4408-01298D9A", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dRingruns|r",
+			[51] = 1569088456,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [127]
 	},

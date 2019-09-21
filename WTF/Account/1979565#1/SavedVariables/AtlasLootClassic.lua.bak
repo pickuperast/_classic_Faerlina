@@ -10,6 +10,7 @@ AtlasLootClassicDB = {
 		["Qqo - Faerlina"] = "Qqo - Faerlina",
 		["Zlo - Faerlina"] = "Zlo - Faerlina",
 		["Unlockl - Faerlina"] = "Unlockl - Faerlina",
+		["Ooq - Faerlina"] = "Ooq - Faerlina",
 	},
 	["profiles"] = {
 		["Zlo - Thunderfury"] = {
@@ -36,22 +37,25 @@ AtlasLootClassicDB = {
 			},
 			["GUI"] = {
 				["point"] = {
-					"LEFT", -- [1]
+					"RIGHT", -- [1]
 					nil, -- [2]
-					"LEFT", -- [3]
-					165.368713378906, -- [4]
-					47.1975555419922, -- [5]
+					"RIGHT", -- [3]
+					-315.589111328125, -- [4]
+					89.4778671264649, -- [5]
 				},
 				["selected"] = {
 					"AtlasLootClassic_Crafting", -- [1]
-					"Leatherworking", -- [2]
-					8, -- [3]
+					"Enchanting", -- [2]
+					2, -- [3]
 					1, -- [4]
 					0, -- [5]
 				},
 			},
 		},
 		["Zlo - Faerlina"] = {
+			["minimap"] = {
+				["minimapPos"] = 186.057875100587,
+			},
 			["GUI"] = {
 				["point"] = {
 					"TOP", -- [1]
@@ -62,19 +66,27 @@ AtlasLootClassicDB = {
 				},
 				["selected"] = {
 					"AtlasLootClassic_Crafting", -- [1]
-					"Alchemy", -- [2]
-					7, -- [3]
+					"Cooking", -- [2]
+					6, -- [3]
 					1, -- [4]
 					0, -- [5]
 				},
-			},
-			["minimap"] = {
-				["minimapPos"] = 186.057875100587,
 			},
 		},
 		["Unlockl - Faerlina"] = {
 			["minimap"] = {
 				["minimapPos"] = 176.475401521547,
+			},
+		},
+		["Ooq - Faerlina"] = {
+			["GUI"] = {
+				["selected"] = {
+					"AtlasLootClassic_Crafting", -- [1]
+					"Tailoring", -- [2]
+					11, -- [3]
+					1, -- [4]
+					0, -- [5]
+				},
 			},
 		},
 	},

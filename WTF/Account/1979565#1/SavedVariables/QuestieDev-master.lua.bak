@@ -3580,6 +3580,210 @@ QuestieConfig = {
 				[5762] = true,
 			},
 		},
+		["Ooq - Faerlina"] = {
+			["journey"] = {
+				{
+					["Party"] = {
+					},
+					["SubType"] = "Accept",
+					["Event"] = "Quest",
+					["Timestamp"] = 1569084153,
+					["Quest"] = 363,
+					["Level"] = 1,
+				}, -- [1]
+				{
+					["Timestamp"] = 1569084319,
+					["Party"] = {
+					},
+					["Event"] = "Level",
+					["NewLevel"] = 2,
+				}, -- [2]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Accept",
+					["Level"] = 2,
+					["Quest"] = 376,
+					["Timestamp"] = 1569085386,
+				}, -- [3]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Complete",
+					["Level"] = 2,
+					["Quest"] = 363,
+					["Timestamp"] = 1569085396,
+				}, -- [4]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Accept",
+					["Level"] = 2,
+					["Quest"] = 364,
+					["Timestamp"] = 1569085397,
+				}, -- [5]
+				{
+					["Timestamp"] = 1569085786,
+					["Party"] = {
+					},
+					["Event"] = "Level",
+					["NewLevel"] = 3,
+				}, -- [6]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Complete",
+					["Level"] = 3,
+					["Quest"] = 376,
+					["Timestamp"] = 1569086219,
+				}, -- [7]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Accept",
+					["Level"] = 3,
+					["Quest"] = 6395,
+					["Timestamp"] = 1569086221,
+				}, -- [8]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Complete",
+					["Level"] = 3,
+					["Quest"] = 364,
+					["Timestamp"] = 1569086226,
+				}, -- [9]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Accept",
+					["Level"] = 3,
+					["Quest"] = 3098,
+					["Timestamp"] = 1569086227,
+				}, -- [10]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Accept",
+					["Level"] = 3,
+					["Quest"] = 3901,
+					["Timestamp"] = 1569086231,
+				}, -- [11]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Complete",
+					["Level"] = 3,
+					["Quest"] = 3098,
+					["Timestamp"] = 1569086234,
+				}, -- [12]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Accept",
+					["Level"] = 3,
+					["Quest"] = 380,
+					["Timestamp"] = 1569086249,
+				}, -- [13]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Accept",
+					["Level"] = 3,
+					["Quest"] = 3902,
+					["Timestamp"] = 1569086261,
+				}, -- [14]
+				{
+					["Timestamp"] = 1569086765,
+					["Party"] = {
+					},
+					["Event"] = "Level",
+					["NewLevel"] = 4,
+				}, -- [15]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Complete",
+					["Level"] = 4,
+					["Quest"] = 3902,
+					["Timestamp"] = 1569087105,
+				}, -- [16]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Complete",
+					["Level"] = 4,
+					["Quest"] = 6395,
+					["Timestamp"] = 1569087159,
+				}, -- [17]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Complete",
+					["Level"] = 4,
+					["Quest"] = 380,
+					["Timestamp"] = 1569087470,
+				}, -- [18]
+				{
+					["Timestamp"] = 1569087470,
+					["Party"] = {
+					},
+					["Event"] = "Level",
+					["NewLevel"] = 5,
+				}, -- [19]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Accept",
+					["Level"] = 5,
+					["Quest"] = 381,
+					["Timestamp"] = 1569087471,
+				}, -- [20]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Accept",
+					["Level"] = 5,
+					["Quest"] = 8,
+					["Timestamp"] = 1569087560,
+				}, -- [21]
+				{
+					["Party"] = {
+					},
+					["Event"] = "Quest",
+					["SubType"] = "Complete",
+					["Level"] = 5,
+					["Quest"] = 8,
+					["Timestamp"] = 1569087763,
+				}, -- [22]
+			},
+			["complete"] = {
+				[3098] = true,
+				[6395] = true,
+				[376] = true,
+				[363] = true,
+				[364] = true,
+				[3902] = true,
+				[380] = true,
+				[8] = true,
+			},
+		},
 		["Qqo - Faerlina"] = {
 			["journey"] = {
 				{
@@ -4237,6 +4441,7 @@ QuestieConfig = {
 		["Qqo - Faerlina"] = "Default",
 		["Zlo - Faerlina"] = "Default",
 		["Unlockl - Faerlina"] = "Default",
+		["Ooq - Faerlina"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

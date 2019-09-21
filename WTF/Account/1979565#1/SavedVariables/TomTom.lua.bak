@@ -7,6 +7,7 @@ TomTomDB = {
 		["Qqo - Faerlina"] = "Default",
 		["Zlo - Faerlina"] = "Default",
 		["Unlockl - Faerlina"] = "Default",
+		["Ooq - Faerlina"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {
@@ -40,6 +41,7 @@ TomTomWaypointsM = {
 		["Qqo - Faerlina"] = "Qqo - Faerlina",
 		["Zlo - Faerlina"] = "Zlo - Faerlina",
 		["Unlockl - Faerlina"] = "Unlockl - Faerlina",
+		["Ooq - Faerlina"] = "Ooq - Faerlina",
 	},
 	["profiles"] = {
 		["Zlo - Thunderfury"] = {
@@ -53,6 +55,8 @@ TomTomWaypointsM = {
 		["Zlo - Faerlina"] = {
 		},
 		["Unlockl - Faerlina"] = {
+		},
+		["Ooq - Faerlina"] = {
 		},
 	},
 }
