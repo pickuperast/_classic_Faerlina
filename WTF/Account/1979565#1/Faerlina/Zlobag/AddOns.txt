@@ -12,7 +12,7 @@ AtlasLootClassic_PvP: enabled
 AtlasLootClassic: enabled
 AAP-Classic: enabled
 ChatLinkIcons: enabled
-ClassicAutoQuest: enabled
+ClassicAutoQuest: disabled
 Details: enabled
 FasterLooting: enabled
 Guidelime: enabled

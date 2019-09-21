@@ -3,6 +3,7 @@ TomTomDB = {
 	["profileKeys"] = {
 		["Zlo - Thunderfury"] = "Default",
 		["Zlobag - Faerlina"] = "Default",
+		["Zlo - Whitemane"] = "Default",
 		["Qqo - Faerlina"] = "Default",
 		["Zlo - Faerlina"] = "Default",
 		["Unlockl - Faerlina"] = "Default",
@@ -14,8 +15,8 @@ TomTomDB = {
 					"CENTER", -- [1]
 					nil, -- [2]
 					"CENTER", -- [3]
-					149.852416992188, -- [4]
-					58.9970016479492, -- [5]
+					217.109786987305, -- [4]
+					73.1566314697266, -- [5]
 				},
 			},
 			["block"] = {
@@ -35,6 +36,7 @@ TomTomWaypointsM = {
 	["profileKeys"] = {
 		["Zlo - Thunderfury"] = "Zlo - Thunderfury",
 		["Zlobag - Faerlina"] = "Zlobag - Faerlina",
+		["Zlo - Whitemane"] = "Zlo - Whitemane",
 		["Qqo - Faerlina"] = "Qqo - Faerlina",
 		["Zlo - Faerlina"] = "Zlo - Faerlina",
 		["Unlockl - Faerlina"] = "Unlockl - Faerlina",
@@ -43,6 +45,8 @@ TomTomWaypointsM = {
 		["Zlo - Thunderfury"] = {
 		},
 		["Zlobag - Faerlina"] = {
+		},
+		["Zlo - Whitemane"] = {
 		},
 		["Qqo - Faerlina"] = {
 		},

@@ -1,19 +1,23 @@
 
 AtlasLootClassicDB = {
-	["global"] = {
-		["__addonrevision"] = 99999999,
-	},
 	["profileKeys"] = {
 		["Zlo - Thunderfury"] = "Zlo - Thunderfury",
 		["Zlobag - Faerlina"] = "Zlobag - Faerlina",
+		["Zlo - Whitemane"] = "Zlo - Whitemane",
 		["Qqo - Faerlina"] = "Qqo - Faerlina",
 		["Zlo - Faerlina"] = "Zlo - Faerlina",
 		["Unlockl - Faerlina"] = "Unlockl - Faerlina",
+	},
+	["global"] = {
+		["__addonrevision"] = 99999999,
 	},
 	["profiles"] = {
 		["Zlo - Thunderfury"] = {
 		},
 		["Zlobag - Faerlina"] = {
+			["minimap"] = {
+				["minimapPos"] = 180.170134960534,
+			},
 			["GUI"] = {
 				["selected"] = {
 					"AtlasLootClassic_Crafting", -- [1]
@@ -23,9 +27,8 @@ AtlasLootClassicDB = {
 					0, -- [5]
 				},
 			},
-			["minimap"] = {
-				["minimapPos"] = 180.170134960534,
-			},
+		},
+		["Zlo - Whitemane"] = {
 		},
 		["Qqo - Faerlina"] = {
 			["minimap"] = {
@@ -42,13 +45,16 @@ AtlasLootClassicDB = {
 				["selected"] = {
 					"AtlasLootClassic_Crafting", -- [1]
 					"Leatherworking", -- [2]
-					11, -- [3]
+					8, -- [3]
 					1, -- [4]
 					0, -- [5]
 				},
 			},
 		},
 		["Zlo - Faerlina"] = {
+			["minimap"] = {
+				["minimapPos"] = 186.057875100587,
+			},
 			["GUI"] = {
 				["point"] = {
 					"TOP", -- [1]
@@ -58,15 +64,12 @@ AtlasLootClassicDB = {
 					-111.000045776367, -- [5]
 				},
 				["selected"] = {
-					nil, -- [1]
-					"RazorfenDowns", -- [2]
-					3, -- [3]
+					"AtlasLootClassic_Crafting", -- [1]
+					"Alchemy", -- [2]
+					7, -- [3]
 					1, -- [4]
 					0, -- [5]
 				},
-			},
-			["minimap"] = {
-				["minimapPos"] = 186.057875100587,
 			},
 		},
 		["Unlockl - Faerlina"] = {

@@ -30,9 +30,9 @@ GuidelimeData = {
 	["fontColorACCEPT"] = "|cFF59C4F1",
 	["showMapMarkersGOTO"] = true,
 	["displayDemoGuides"] = true,
-	["version"] = "1.005",
-	["showTooltips"] = true,
-	["showMinimapMarkersGOTO"] = true,
-	["fontColorTURNIN"] = "|cFF59C4F1",
 	["maxNumOfMarkersGOTO"] = 10,
+	["fontColorTURNIN"] = "|cFF59C4F1",
+	["showMinimapMarkersGOTO"] = true,
+	["showTooltips"] = true,
+	["version"] = "1.005",
 }

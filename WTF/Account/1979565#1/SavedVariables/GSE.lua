@@ -1,48 +1,54 @@
 
 GSEOptions = {
 	["HideLoginMessage"] = false,
-	["DefaultImportAction"] = "MERGE",
-	["UseWLMExportFormat"] = true,
-	["COMMENT"] = "|cff55cc55",
+	["use1"] = false,
+	["KEYWORD"] = "|cff88bbdd",
+	["Updated801"] = true,
 	["use2"] = false,
 	["STANDARDFUNCS"] = "|cff55ddcc",
 	["showGSEUsers"] = false,
 	["UnfoundSpellIDs"] = {
 	},
-	["showGSEoocqueue"] = true,
-	["Updated801"] = true,
+	["saveAllMacrosLocal"] = true,
+	["COMMENT"] = "|cff55cc55",
 	["use14"] = false,
-	["CreateGlobalButtons"] = false,
-	["autoCreateMacroStubsClass"] = true,
-	["EQUALS"] = "|cffccddee",
+	["NUMBER"] = "|cffffaa00",
 	["use11"] = false,
+	["EQUALS"] = "|cffccddee",
+	["CreateGlobalButtons"] = false,
 	["sendDebugOutputToChatWindow"] = false,
-	["debug"] = false,
-	["DefaultDisabledMacroIcon"] = "Interface\\Icons\\INV_MISC_BOOK_08",
 	["Update2305"] = true,
-	["ActiveSequenceVersions"] = {
-	},
+	["use12"] = false,
+	["debug"] = false,
+	["CONCAT"] = "|cffcc7777",
 	["use6"] = false,
 	["CommandColour"] = "|cFF00FF00",
+	["UNKNOWN"] = "|cffff6666",
 	["DisabledSequences"] = {
 	},
-	["UNKNOWN"] = "|cffff6666",
-	["DebugPrintModConditionsOnKeyPress"] = false,
-	["overflowPersonalMacros"] = false,
+	["AddInPacks"] = {
+		["Samples"] = {
+			["Version"] = "2.4.16",
+			["Name"] = "Samples",
+			["SequenceNames"] = {
+				"Assorted Sample Macros", -- [1]
+			},
+		},
+	},
+	["AuthorColour"] = "|cFF00D1FF",
 	["autoCreateMacroStubsGlobal"] = false,
-	["Update2410"] = true,
-	["requireTarget"] = false,
+	["useTranslator"] = false,
+	["clearUIErrors"] = false,
 	["sendDebugOutputToDebugOutput"] = false,
 	["hideSoundErrors"] = false,
-	["ErroneousSpellID"] = {
-	},
-	["hideUIErrors"] = false,
+	["Update2410"] = true,
+	["PromptSample"] = true,
 	["STRING"] = "|cff888888",
-	["clearUIErrors"] = false,
+	["requireTarget"] = false,
 	["resetOOC"] = true,
 	["Update2411"] = true,
 	["TitleColour"] = "|cFFFF0000",
-	["PromptSample"] = true,
+	["hideUIErrors"] = false,
 	["initialised"] = true,
 	["INDENT"] = "|cffccaa88",
 	["DebugModules"] = {
@@ -50,8 +56,8 @@ GSEOptions = {
 		["GUI"] = false,
 		["Storage"] = false,
 		["Editor"] = false,
-		["Versions"] = false,
 		["API"] = false,
+		["Versions"] = false,
 		["Viewer"] = false,
 		["Transmission"] = false,
 	},
@@ -61,17 +67,17 @@ GSEOptions = {
 		["LeftControl"] = false,
 		["LeftButton"] = false,
 		["LeftAlt"] = false,
-		["RightShift"] = false,
-		["RightAlt"] = false,
-		["AnyMod"] = false,
-		["Button5"] = false,
-		["LeftShift"] = false,
-		["Shift"] = false,
-		["Control"] = false,
-		["RightControl"] = false,
-		["MiddleButton"] = false,
-		["Button4"] = false,
 		["RightButton"] = false,
+		["RightAlt"] = false,
+		["Button4"] = false,
+		["Button5"] = false,
+		["MiddleButton"] = false,
+		["RightControl"] = false,
+		["Control"] = false,
+		["Shift"] = false,
+		["LeftShift"] = false,
+		["AnyMod"] = false,
+		["RightShift"] = false,
 	},
 	["filterList"] = {
 		["Class"] = true,
@@ -84,31 +90,25 @@ GSEOptions = {
 	["WOWSHORTCUTS"] = "|cffddaaff",
 	["RealtimeParse"] = false,
 	["deleteOrphansOnLogout"] = false,
-	["useTranslator"] = false,
+	["ErroneousSpellID"] = {
+	},
 	["UnfoundSpells"] = {
 	},
-	["AuthorColour"] = "|cFF00D1FF",
-	["AddInPacks"] = {
-		["Samples"] = {
-			["Name"] = "Samples",
-			["Version"] = "2.4.16",
-			["SequenceNames"] = {
-				"Assorted Sample Macros", -- [1]
-			},
-		},
-	},
+	["overflowPersonalMacros"] = false,
+	["DebugPrintModConditionsOnKeyPress"] = false,
 	["showMiniMap"] = {
 		["hide"] = true,
 	},
-	["CONCAT"] = "|cffcc7777",
-	["use12"] = false,
+	["ActiveSequenceVersions"] = {
+	},
+	["DefaultDisabledMacroIcon"] = "Interface\\Icons\\INV_MISC_BOOK_08",
 	["use13"] = false,
 	["NormalColour"] = "|cFFFFFFFF",
-	["NUMBER"] = "|cffffaa00",
-	["saveAllMacrosLocal"] = true,
+	["autoCreateMacroStubsClass"] = true,
+	["UseWLMExportFormat"] = true,
 	["setDefaultIconQuestionMark"] = true,
-	["KEYWORD"] = "|cff88bbdd",
-	["use1"] = false,
+	["showGSEoocqueue"] = true,
+	["DefaultImportAction"] = "MERGE",
 }
 GSELibrary = {
 	{
@@ -122,8 +122,8 @@ GSELibrary = {
 		["NEW_SEQUENCE"] = {
 			["Talents"] = "CLASSIC",
 			["Default"] = 1,
-			["SpecID"] = 5,
 			["Author"] = "Zlo@Faerlina",
+			["SpecID"] = 5,
 			["MacroVersions"] = {
 				{
 					"/cast 15263", -- [1]
@@ -140,11 +140,11 @@ GSELibrary = {
 					["PostMacro"] = {
 					},
 					["StepFunction"] = "Sequential",
-					["KeyRelease"] = {
+					["KeyPress"] = {
 					},
 					["PreMacro"] = {
 					},
-					["KeyPress"] = {
+					["KeyRelease"] = {
 					},
 				}, -- [1]
 				{
