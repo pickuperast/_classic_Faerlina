@@ -1,4 +1,11 @@
 Version: 1
+Frame: CensusButtonFrame
+FrameLevel: 1
+Anchor: TOPRIGHT
+X: 0
+Y: -93
+W: 32
+H: 32
 Frame: ColorPickerFrame
 FrameLevel: 1
 Anchor: CENTER
@@ -6,3 +13,10 @@ X: 0
 Y: 0
 W: 365
 H: 240
+Frame: OneBagFrame
+FrameLevel: 1
+Anchor: BOTTOMRIGHT
+X: 0
+Y: 194
+W: 403
+H: 143

@@ -1,1130 +1,1142 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/p yeas", -- [1]
-		"/p oops", -- [2]
-		"/p )", -- [3]
-		"/p need to go to mail", -- [4]
-		"/p and need to send money", -- [5]
-		"/p i relog", -- [6]
-		"/p are u enchanter?", -- [7]
-		"/p i have mats for another 2, but dont have money for rune thread", -- [8]
-		"/p may i pay to u with 2x|cff1eff00|Hitem:11174::::::::10:::::::|h[Lesser Nether Essence]|h|r", -- [9]
-		"/p it cost 55s each in AH", -- [10]
-		"/p money delivering is long", -- [11]
-		"/p cant acquire enough from my main", -- [12]
-		"/p |cff0070dd|Hitem:11177::::::::10:::::::|h[Small Radiant Shard]|h|r?", -- [13]
-		"/p ty", -- [14]
-		"/p oh i got money from AH)", -- [15]
-		"/p need another 2", -- [16]
-		"/p thank you", -- [17]
-		"/p cool", -- [18]
-		"/reloadui", -- [19]
-		"/tsm scan", -- [20]
+		"/p we are in", -- [1]
+		"/cw Ihateorcs-Faerlina ok", -- [2]
+		"granatki pomofaut?)", -- [3]
+		"ewe", -- [4]
+		"kvesty", -- [5]
+		"my ewe v nachale propustili vetku", -- [6]
+		"/cw Ihateorcs-Faerlina podojdi nikgo ne ubivai)", -- [7]
+		"/cw Ihateorcs-Faerlina ya imer", -- [8]
+		"/cw Ihateorcs-Faerlina prygnul", -- [9]
+		"/cw Ihateorcs-Faerlina nikogo ne ubivaui", -- [10]
+		"/cw Ihateorcs-Faerlina mne nado vzyat kvest", -- [11]
+		"/cw Ihateorcs-Faerlina pered kem", -- [12]
+		"/cw Ihateorcs-Faerlina 1 shaman", -- [13]
+		"/cw Ihateorcs-Faerlina nmado ubit", -- [14]
+		"/cw Ihateorcs-Faerlina vse", -- [15]
+		"/p dont have res", -- [16]
+		"/cw Ihateorcs-Faerlina sps", -- [17]
+		"/cw Ihateorcs-Faerlina я думал твой пукан разорвется", -- [18]
+		"/cw Kevestlaide-Faerlina ok", -- [19]
+		"/cw Kevestlaide-Faerlina bye", -- [20]
 	},
 	["ChatHistoryLog"] = {
 		{
-			"yeah i feel it", -- [1]
-			"Toostrongx-Faerlina", -- [2]
+			"ok", -- [1]
+			"Oleoo-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Toostrongx", -- [5]
+			"Oleoo", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			16747, -- [11]
-			"Player-4408-00AF3359", -- [12]
+			4846, -- [11]
+			"Player-4408-013ED77F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568714551,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3fc6eaOleoo|r",
+			[51] = 1569420104,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [1]
 		{
-			"feelsbad", -- [1]
-			"Chazz-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chazz", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			16748, -- [11]
-			"Player-4408-007229A1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Chazz|r",
-			[51] = 1568714557,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [2]
-		{
-			"most of my groups im rolling against half the group / raid", -- [1]
-			"Toostrongx-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toostrongx", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			16750, -- [11]
-			"Player-4408-00AF3359", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568714560,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [3]
-		{
-			"25% drop so it's easily obtained but groups are so hard to form", -- [1]
-			"Chazz-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chazz", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			16751, -- [11]
-			"Player-4408-007229A1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Chazz|r",
-			[51] = 1568714573,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [4]
-		{
-			"we should grab a guild tank/dps and hit it up with ppl who dont need our stuff", -- [1]
-			"Toostrongx-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toostrongx", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			16753, -- [11]
-			"Player-4408-00AF3359", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568714608,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [5]
-		{
-			"yeeeeeee", -- [1]
-			"Chazz-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chazz", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			16756, -- [11]
-			"Player-4408-007229A1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Chazz|r",
-			[51] = 1568714622,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [6]
-		{
-			"between you and me everyone needs our $%^& though haha", -- [1]
-			"Chazz-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chazz", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			16757, -- [11]
-			"Player-4408-007229A1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Chazz|r",
-			[51] = 1568714632,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [7]
-		{
-			"cloth/leather", -- [1]
-			"Chazz-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Chazz", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			16758, -- [11]
-			"Player-4408-007229A1", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cfffff468Chazz|r",
-			[51] = 1568714637,
-			[50] = "CHAT_MSG_PARTY",
-		}, -- [8]
-		{
-			"pre plan our success", -- [1]
-			"Toostrongx-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toostrongx", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			16759, -- [11]
-			"Player-4408-00AF3359", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568714639,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [9]
-		{
-			"prob true", -- [1]
-			"Toostrongx-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toostrongx", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			16760, -- [11]
-			"Player-4408-00AF3359", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568714644,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [10]
-		{
-			"WTS |cffa335ee|Hitem:14513::::::::60:::1::::|h[Pattern: Robe of the Archmage]|h|r 95g pst", -- [1]
-			"Revery-Faerlina", -- [2]
+			"wts |cff1eff00|Hitem:12360::::::::60:::::::|h[Arcanite Bar]|h|rx5 ", -- [1]
+			"Protos-Faerlina", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Revery", -- [5]
+			"Protos", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			16761, -- [11]
-			"Player-4408-007800AD", -- [12]
+			4851, -- [11]
+			"Player-4408-0000B33E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aRevery|r",
-			[51] = 1568714645,
+			[52] = "|cff8787edProtos|r",
+			[51] = 1569420114,
 			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [2]
+		{
+			"will pay 1g for clearing RC", -- [1]
+			"Qqo-Faerlina", -- [2]
+			"", -- [3]
+			"1. General - Orgrimmar", -- [4]
+			"Qqo", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Orgrimmar", -- [9]
+			0, -- [10]
+			4853, -- [11]
+			"Player-4408-011F9A27", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070dbQqo|r",
+			[51] = 1569420122,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [3]
+		{
+			"help pls", -- [1]
+			"Qqo-Faerlina", -- [2]
+			"", -- [3]
+			"1. General - Orgrimmar", -- [4]
+			"Qqo", -- [5]
+			"", -- [6]
+			1, -- [7]
+			1, -- [8]
+			"General - Orgrimmar", -- [9]
+			0, -- [10]
+			4855, -- [11]
+			"Player-4408-011F9A27", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070dbQqo|r",
+			[51] = 1569420131,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [4]
+		{
+			"Erlan", -- [1]
+			"|Km4|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4868, -- [11]
+			false, -- [12]
+			5, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420160,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Hexus",
+		}, -- [5]
+		{
+			"pomogi proiti RC", -- [1]
+			"|Km4|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4870, -- [11]
+			false, -- [12]
+			5, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420165,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Hexus",
+		}, -- [6]
+		{
+			"LF1M RC", -- [1]
+			"Qqo-Faerlina", -- [2]
+			"", -- [3]
+			"4. LookingForGroup", -- [4]
+			"Qqo", -- [5]
+			"", -- [6]
+			24, -- [7]
+			4, -- [8]
+			"LookingForGroup", -- [9]
+			0, -- [10]
+			4875, -- [11]
+			"Player-4408-011F9A27", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cff0070dbQqo|r",
+			[51] = 1569420169,
+			[50] = "CHAT_MSG_CHANNEL",
+		}, -- [7]
+		{
+			"rc?", -- [1]
+			"|Km4|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4882, -- [11]
+			false, -- [12]
+			5, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420176,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Hexus",
+		}, -- [8]
+		{
+			"v ogrimare", -- [1]
+			"|Km4|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4889, -- [11]
+			false, -- [12]
+			5, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420181,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Hexus",
+		}, -- [9]
+		{
+			"есть heavy leather?", -- [1]
+			"|Km4|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4902, -- [11]
+			false, -- [12]
+			5, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420194,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Hexus",
+		}, -- [10]
+		{
+			"da", -- [1]
+			"|Km4|k", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			4930, -- [11]
+			false, -- [12]
+			5, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420218,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Hexus",
 		}, -- [11]
 		{
-			"but i mean they should want to gear us since we're gonna carry their asses in raid", -- [1]
-			"Toostrongx-Faerlina", -- [2]
+			"wts |cff1eff00|Hitem:12360::::::::60:::::::|h[Arcanite Bar]|h|rx5 ", -- [1]
+			"Protos-Faerlina", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Toostrongx", -- [5]
+			"2. Trade - City", -- [4]
+			"Protos", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			16767, -- [11]
-			"Player-4408-00AF3359", -- [12]
+			4933, -- [11]
+			"Player-4408-0000B33E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568714665,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff8787edProtos|r",
+			[51] = 1569420220,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [12]
 		{
-			":P", -- [1]
-			"Toostrongx-Faerlina", -- [2]
+			"skolko nado", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Toostrongx", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			16768, -- [11]
-			"Player-4408-00AF3359", -- [12]
-			0, -- [13]
+			4934, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568714667,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420222,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Hexus",
 		}, -- [13]
 		{
-			"you", -- [1]
-			"Chazz-Faerlina", -- [2]
+			"дофига", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Chazz", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			16772, -- [11]
-			"Player-4408-007229A1", -- [12]
-			0, -- [13]
+			4938, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Chazz|r",
-			[51] = 1568714672,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420226,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Hexus",
 		}, -- [14]
 		{
-			"you'd thinkk that", -- [1]
-			"Chazz-Faerlina", -- [2]
+			"гайд говорит купить ее на ауке", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Chazz", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			16773, -- [11]
-			"Player-4408-007229A1", -- [12]
-			0, -- [13]
+			4944, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Chazz|r",
-			[51] = 1568714675,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420236,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Hexus",
 		}, -- [15]
 		{
-			"but i've been trying to get in guild strat runs and they don", -- [1]
-			"Chazz-Faerlina", -- [2]
+			"u menya ih mnogo", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Chazz", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			16779, -- [11]
-			"Player-4408-007229A1", -- [12]
-			0, -- [13]
+			4945, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Chazz|r",
-			[51] = 1568714684,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420236,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Hexus",
 		}, -- [16]
 		{
-			"dont wanna take me cause im roling against them", -- [1]
-			"Chazz-Faerlina", -- [2]
+			"ya tebe skinu", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Chazz", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			16784, -- [11]
-			"Player-4408-007229A1", -- [12]
-			0, -- [13]
+			4955, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Chazz|r",
-			[51] = 1568714689,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420243,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Hexus",
 		}, -- [17]
 		{
-			"doesn't make any sense", -- [1]
-			"Toostrongx-Faerlina", -- [2]
+			"v ogrimare", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Toostrongx", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			16787, -- [11]
-			"Player-4408-00AF3359", -- [12]
-			0, -- [13]
+			4960, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568714694,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420250,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Hexus",
 		}, -- [18]
 		{
-			"like it", -- [1]
-			"Chazz-Faerlina", -- [2]
+			"я в оргри", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Chazz", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			16790, -- [11]
-			"Player-4408-007229A1", -- [12]
-			0, -- [13]
+			4966, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Chazz|r",
-			[51] = 1568714701,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420257,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Hexus",
 		}, -- [19]
 		{
-			"its a benefit to everyone", -- [1]
-			"Chazz-Faerlina", -- [2]
+			"lets go", -- [1]
+			"Qqo-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Chazz", -- [5]
+			"Qqo", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			16791, -- [11]
-			"Player-4408-007229A1", -- [12]
+			4975, -- [11]
+			"Player-4408-011F9A27", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Chazz|r",
-			[51] = 1568714705,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff0070dbQqo|r",
+			[51] = 1569420264,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [20]
 		{
-			"Q u grabbin rune thread?", -- [1]
-			"Toostrongx-Faerlina", -- [2]
+			"wts |cff1eff00|Hitem:12360::::::::60:::::::|h[Arcanite Bar]|h|rx5 ", -- [1]
+			"Protos-Faerlina", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Toostrongx", -- [5]
+			"2. Trade - City", -- [4]
+			"Protos", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			16793, -- [11]
-			"Player-4408-00AF3359", -- [12]
+			4984, -- [11]
+			"Player-4408-0000B33E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568714721,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff8787edProtos|r",
+			[51] = 1569420274,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [21]
 		{
-			"yeas", -- [1]
-			"Qqo-Faerlina", -- [2]
+			"skolko nado", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Qqo", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			16802, -- [11]
-			"Player-4408-011F9A27", -- [12]
-			0, -- [13]
+			4986, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbQqo|r",
-			[51] = 1568714732,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420278,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Hexus",
 		}, -- [22]
 		{
-			"if so i can meet u at the tailoring vend", -- [1]
-			"Toostrongx-Faerlina", -- [2]
+			"give me leader", -- [1]
+			"Bällantines-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Toostrongx", -- [5]
+			"Bällantines", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			16806, -- [11]
-			"Player-4408-00AF3359", -- [12]
+			4990, -- [11]
+			"Player-4408-012D202F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568714736,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cfffff468Bällantines|r",
+			[51] = 1569420284,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [23]
 		{
-			"kk brt", -- [1]
-			"Toostrongx-Faerlina", -- [2]
+			"gjrf", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Toostrongx", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			16810, -- [11]
-			"Player-4408-00AF3359", -- [12]
-			0, -- [13]
+			4999, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568714740,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420293,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Hexus",
 		}, -- [24]
 		{
-			"oops", -- [1]
-			"Qqo-Faerlina", -- [2]
+			"50", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Qqo", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			16847, -- [11]
-			"Player-4408-011F9A27", -- [12]
-			0, -- [13]
+			5001, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbQqo|r",
-			[51] = 1568714789,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420294,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Hexus",
 		}, -- [25]
 		{
-			")", -- [1]
-			"Qqo-Faerlina", -- [2]
+			"i am comming bro ", -- [1]
+			"Oleoo-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Qqo", -- [5]
+			"Oleoo", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			16850, -- [11]
-			"Player-4408-011F9A27", -- [12]
+			5008, -- [11]
+			"Player-4408-013ED77F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbQqo|r",
-			[51] = 1568714791,
+			[52] = "|cff3fc6eaOleoo|r",
+			[51] = 1569420308,
 			[50] = "CHAT_MSG_PARTY",
 		}, -- [26]
 		{
-			"need to go to mail", -- [1]
-			"Qqo-Faerlina", -- [2]
+			"WTS |cffa335ee|Hitem:944::::::::60:::::::|h[Elemental Mage Staff]|h|r , Pst !", -- [1]
+			"Meatnbones-Faerlina", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Qqo", -- [5]
+			"2. Trade - City", -- [4]
+			"Meatnbones", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			16854, -- [11]
-			"Player-4408-011F9A27", -- [12]
+			5013, -- [11]
+			"Player-4408-005B4769", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbQqo|r",
-			[51] = 1568714796,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dMeatnbones|r",
+			[51] = 1569420321,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [27]
 		{
-			"np", -- [1]
-			"Toostrongx-Faerlina", -- [2]
+			"WTS |cff1eff00|Hitem:12811::::::::60:::::::|h[Righteous Orb]|h|r 20g / Ea , Pst !", -- [1]
+			"Meatnbones-Faerlina", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Toostrongx", -- [5]
+			"2. Trade - City", -- [4]
+			"Meatnbones", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			16859, -- [11]
-			"Player-4408-00AF3359", -- [12]
+			5015, -- [11]
+			"Player-4408-005B4769", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568714801,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dMeatnbones|r",
+			[51] = 1569420323,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [28]
 		{
-			"WTS |cff1eff00|Hitem:14155::::::::43:::::::|h[Mooncloth Bag]|h|r 28g", -- [1]
-			"Strangypoo-Faerlina", -- [2]
+			"poshli", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Strangypoo", -- [5]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			16878, -- [11]
-			"Player-4408-00B06277", -- [12]
-			0, -- [13]
+			5026, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaStrangypoo|r",
-			[51] = 1568714828,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420345,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Hexus",
 		}, -- [29]
 		{
-			"and need to send money", -- [1]
-			"Qqo-Faerlina", -- [2]
+			"v inst", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Qqo", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			16883, -- [11]
-			"Player-4408-011F9A27", -- [12]
-			0, -- [13]
+			5032, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbQqo|r",
-			[51] = 1568714843,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420350,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Hexus",
 		}, -- [30]
 		{
-			"i relog", -- [1]
-			"Qqo-Faerlina", -- [2]
+			"слотов ноль", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Qqo", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			16908, -- [11]
-			"Player-4408-011F9A27", -- [12]
-			0, -- [13]
+			5035, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbQqo|r",
-			[51] = 1568714900,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420353,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Hexus",
 		}, -- [31]
 		{
-			"are u enchanter?", -- [1]
-			"Qqo-Faerlina", -- [2]
+			"забито всякой фигней", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Qqo", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			16940, -- [11]
-			"Player-4408-011F9A27", -- [12]
-			0, -- [13]
+			5040, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbQqo|r",
-			[51] = 1568714981,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420361,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Hexus",
 		}, -- [32]
 		{
-			"its gonna be a good 3 mins of crafting time for this, brb", -- [1]
-			"Toostrongx-Faerlina", -- [2]
+			"лол", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Toostrongx", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			16963, -- [11]
-			"Player-4408-00AF3359", -- [12]
-			0, -- [13]
+			5042, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568715044,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420362,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Hexus",
 		}, -- [33]
 		{
-			"i have mats for another 2, but dont have money for rune thread", -- [1]
-			"Qqo-Faerlina", -- [2]
+			"инженерка супер требовательно к пространству", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Qqo", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			16980, -- [11]
-			"Player-4408-011F9A27", -- [12]
-			0, -- [13]
+			5047, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbQqo|r",
-			[51] = 1568715102,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420376,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Hexus",
 		}, -- [34]
 		{
-			"may i pay to u with 2x|cff1eff00|Hitem:11174::::::::10:::::::|h[Lesser Nether Essence]|h|r", -- [1]
-			"Qqo-Faerlina", -- [2]
+			"neploho odet", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Qqo", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			16982, -- [11]
-			"Player-4408-011F9A27", -- [12]
-			0, -- [13]
+			5054, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbQqo|r",
-			[51] = 1568715112,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420393,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Hexus",
 		}, -- [35]
 		{
-			"it cost 55s each in AH", -- [1]
-			"Qqo-Faerlina", -- [2]
+			"кинжал", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Qqo", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			16986, -- [11]
-			"Player-4408-011F9A27", -- [12]
-			0, -- [13]
+			5072, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbQqo|r",
-			[51] = 1568715122,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420409,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Hexus",
 		}, -- [36]
 		{
-			"uh ", -- [1]
-			"Toostrongx-Faerlina", -- [2]
+			"go ballan", -- [1]
+			"Oleoo-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Toostrongx", -- [5]
+			"Oleoo", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			16988, -- [11]
-			"Player-4408-00AF3359", -- [12]
+			5074, -- [11]
+			"Player-4408-013ED77F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568715130,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cff3fc6eaOleoo|r",
+			[51] = 1569420410,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [37]
 		{
-			"sure", -- [1]
-			"Toostrongx-Faerlina", -- [2]
+			"супер жесткий", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Toostrongx", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			16990, -- [11]
-			"Player-4408-00AF3359", -- [12]
-			0, -- [13]
+			5077, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568715132,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420412,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Hexus",
 		}, -- [38]
 		{
-			"cool", -- [1]
-			"Qqo-Faerlina", -- [2]
+			"|cff0070dd|Hitem:14136::::::::60:::::::|h[Robe of Winter Night]|h|r YOUR MATS SAVE YOURSELF A FORTUNE", -- [1]
+			"Toelickerr-Faerlina", -- [2]
 			"", -- [3]
-			"", -- [4]
-			"Qqo", -- [5]
+			"2. Trade - City", -- [4]
+			"Toelickerr", -- [5]
 			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
+			2, -- [7]
+			2, -- [8]
+			"Trade - City", -- [9]
 			0, -- [10]
-			16992, -- [11]
-			"Player-4408-011F9A27", -- [12]
+			5080, -- [11]
+			"Player-4408-00AED866", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbQqo|r",
-			[51] = 1568715135,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cff8787edToelickerr|r",
+			[51] = 1569420416,
+			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [39]
 		{
-			"money delivering is long", -- [1]
-			"Qqo-Faerlina", -- [2]
+			"da", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Qqo", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			16997, -- [11]
-			"Player-4408-011F9A27", -- [12]
-			0, -- [13]
+			5081, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbQqo|r",
-			[51] = 1568715144,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420417,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Hexus",
 		}, -- [40]
 		{
-			"cant acquire enough from my main", -- [1]
-			"Qqo-Faerlina", -- [2]
+			"по меркам моего уровня", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Qqo", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			17003, -- [11]
-			"Player-4408-011F9A27", -- [12]
-			0, -- [13]
+			5082, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbQqo|r",
-			[51] = 1568715155,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420418,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Hexus",
 		}, -- [41]
 		{
-			"could trade it to me", -- [1]
-			"Toostrongx-Faerlina", -- [2]
+			"но все равно", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Toostrongx", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			17005, -- [11]
-			"Player-4408-00AF3359", -- [12]
-			0, -- [13]
+			5085, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568715155,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420420,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Hexus",
 		}, -- [42]
 		{
-			"lets actually just stick to the 6 here, i have no use for those enchanting mats", -- [1]
-			"Toostrongx-Faerlina", -- [2]
+			"swifty govoril", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Toostrongx", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			17026, -- [11]
-			"Player-4408-00AF3359", -- [12]
-			0, -- [13]
+			5086, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568715202,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420422,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Hexus",
 		}, -- [43]
 		{
-			"|cff0070dd|Hitem:11177::::::::10:::::::|h[Small Radiant Shard]|h|r?", -- [1]
-			"Qqo-Faerlina", -- [2]
+			"going", -- [1]
+			"Bällantines-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Qqo", -- [5]
+			"Bällantines", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			17045, -- [11]
-			"Player-4408-011F9A27", -- [12]
+			5087, -- [11]
+			"Player-4408-012D202F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbQqo|r",
-			[51] = 1568715245,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cfffff468Bällantines|r",
+			[51] = 1569420422,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [44]
 		{
-			"ty", -- [1]
-			"Qqo-Faerlina", -- [2]
+			"мобов ковыряю", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Qqo", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			17074, -- [11]
-			"Player-4408-011F9A27", -- [12]
-			0, -- [13]
+			5088, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbQqo|r",
-			[51] = 1568715273,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420423,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Hexus",
 		}, -- [45]
 		{
-			"oh i got money from AH)", -- [1]
-			"Qqo-Faerlina", -- [2]
+			"минуту", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Qqo", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			17093, -- [11]
-			"Player-4408-011F9A27", -- [12]
-			0, -- [13]
+			5090, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbQqo|r",
-			[51] = 1568715313,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420424,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Hexus",
 		}, -- [46]
 		{
-			"need another 2", -- [1]
-			"Qqo-Faerlina", -- [2]
+			"chto luche skorost ataki", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Qqo", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			17099, -- [11]
-			"Player-4408-011F9A27", -- [12]
-			0, -- [13]
+			5092, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbQqo|r",
-			[51] = 1568715318,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420430,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Hexus",
 		}, -- [47]
 		{
-			"thank you", -- [1]
-			"Qqo-Faerlina", -- [2]
+			"rage", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Qqo", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			17184, -- [11]
-			"Player-4408-011F9A27", -- [12]
-			0, -- [13]
+			5095, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbQqo|r",
-			[51] = 1568715526,
-			[50] = "CHAT_MSG_PARTY",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420433,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Hexus",
 		}, -- [48]
 		{
-			"sure", -- [1]
-			"Toostrongx-Faerlina", -- [2]
+			"daet", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Toostrongx", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			17188, -- [11]
-			"Player-4408-00AF3359", -- [12]
-			0, -- [13]
+			5096, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568715528,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420434,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Hexus",
 		}, -- [49]
 		{
-			"ty, you gained me 5 levels of tailoring :P", -- [1]
-			"Toostrongx-Faerlina", -- [2]
-			"", -- [3]
-			"", -- [4]
-			"Toostrongx", -- [5]
-			"", -- [6]
-			0, -- [7]
-			0, -- [8]
-			"", -- [9]
-			0, -- [10]
-			17189, -- [11]
-			"Player-4408-00AF3359", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568715546,
-			[50] = "CHAT_MSG_PARTY_LEADER",
-		}, -- [50]
-		{
-			"cool", -- [1]
+			"we are in", -- [1]
 			"Qqo-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
@@ -1134,7 +1146,7 @@ ElvCharacterDB = {
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			17199, -- [11]
+			5104, -- [11]
 			"Player-4408-011F9A27", -- [12]
 			0, -- [13]
 			false, -- [14]
@@ -1142,1680 +1154,1708 @@ ElvCharacterDB = {
 			false, -- [16]
 			false, -- [17]
 			[52] = "|cff0070dbQqo|r",
-			[51] = 1568715577,
+			[51] = 1569420446,
 			[50] = "CHAT_MSG_PARTY",
+		}, -- [50]
+		{
+			"comming", -- [1]
+			"Bällantines-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Bällantines", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5110, -- [11]
+			"Player-4408-012D202F", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cfffff468Bällantines|r",
+			[51] = 1569420473,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [51]
 		{
-			"take it easy", -- [1]
-			"Toostrongx-Faerlina", -- [2]
+			"щя", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Toostrongx", -- [5]
+			"", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			17200, -- [11]
-			"Player-4408-00AF3359", -- [12]
-			0, -- [13]
+			5150, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568715583,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420524,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Hexus",
 		}, -- [52]
 		{
-			"WTS |cff0070dd|Hitem:10504::::::1974:987605120:52:::::::|h[Green Lens of Frozen Wrath]|h|r", -- [1]
-			"Tyyerr-Faerlina", -- [2]
-			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Tyyerr", -- [5]
-			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
-			0, -- [10]
-			17211, -- [11]
-			"Player-4408-0077812D", -- [12]
-			0, -- [13]
-			false, -- [14]
-			false, -- [15]
-			false, -- [16]
-			false, -- [17]
-			[52] = "|cff0070dbTyyerr|r",
-			[51] = 1568715608,
-			[50] = "CHAT_MSG_CHANNEL",
-		}, -- [53]
-		{
-			"logging, cyas", -- [1]
-			"Toostrongx-Faerlina", -- [2]
+			"dont heal me", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
 			"", -- [4]
-			"Toostrongx", -- [5]
+			"Ihateorcs", -- [5]
 			"", -- [6]
 			0, -- [7]
 			0, -- [8]
 			"", -- [9]
 			0, -- [10]
-			17245, -- [11]
-			"Player-4408-00AF3359", -- [12]
+			5209, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaToostrongx|r",
-			[51] = 1568715657,
-			[50] = "CHAT_MSG_PARTY_LEADER",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569420645,
+			[50] = "CHAT_MSG_PARTY",
+		}, -- [53]
+		{
+			"just do dmg", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
+			"", -- [3]
+			"", -- [4]
+			"Ihateorcs", -- [5]
+			"", -- [6]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
+			0, -- [10]
+			5212, -- [11]
+			"Player-4408-00D56257", -- [12]
+			0, -- [13]
+			false, -- [14]
+			false, -- [15]
+			false, -- [16]
+			false, -- [17]
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569420649,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [54]
 		{
-			"Enchanting (Artisan, 300) LFW, have |cffffffff|Henchant:20034|h[Enchant Weapon - Crusader]|h|r |cffffffff|Henchant:22749|h[Enchant  Weapon - Spell Power]|h|r, PST for Prices", -- [1]
-			"Pills-Faerlina", -- [2]
+			"k", -- [1]
+			"Gynsen-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Pills", -- [5]
+			"", -- [4]
+			"Gynsen", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			12837, -- [11]
-			"Player-4408-001A1BA0", -- [12]
+			5221, -- [11]
+			"Player-4408-0126AA34", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbPills|r",
-			[51] = 1568747123,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff0070dbGynsen|r",
+			[51] = 1569420653,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [55]
 		{
-			"Enchanting (Artisan, 300) LFW, have |cffffffff|Henchant:20034|h[Enchant Weapon - Crusader]|h|r |cffffffff|Henchant:22749|h[Enchant  Weapon - Spell Power]|h|r, PST for Prices", -- [1]
-			"Pills-Faerlina", -- [2]
+			"cf", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Pills", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			12845, -- [11]
-			"Player-4408-001A1BA0", -- [12]
+			5290, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbPills|r",
-			[51] = 1568747141,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569420753,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [56]
 		{
-			"WTS |cffffffff|Hitem:4306::::::::39:::::::|h[Silk Cloth]|h|r 70s PER stack (Infinite amount) If you buy more than 5 stacks I'll do discount", -- [1]
-			"Xehikem-Faerlina", -- [2]
+			"санат", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Xehikem", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			12858, -- [11]
-			"Player-4408-00C22174", -- [12]
+			5295, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dXehikem|r",
-			[51] = 1568747191,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569420755,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [57]
 		{
-			"WTS |cffffffff|Hitem:4306::::::::39:::::::|h[Silk Cloth]|h|r 70s PER stack (Infinite amount) If you buy more than 5 stacks I'll do discount", -- [1]
-			"Xehikem-Faerlina", -- [2]
+			"не хиль меня", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Xehikem", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			12871, -- [11]
-			"Player-4408-00C22174", -- [12]
+			5296, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dXehikem|r",
-			[51] = 1568747220,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569420757,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [58]
 		{
-			"WTS |cffffffff|Hitem:4306::::::::39:::::::|h[Silk Cloth]|h|r 70s PER stack (Infinite amount) If you buy more than 5 stacks I'll do discount", -- [1]
-			"Xehikem-Faerlina", -- [2]
+			"ты хилишь супер мало", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Xehikem", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			12872, -- [11]
-			"Player-4408-00C22174", -- [12]
+			5299, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dXehikem|r",
-			[51] = 1568747222,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569420760,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [59]
 		{
-			"Enchanting (Artisan, 300) LFW, have |cffffffff|Henchant:20034|h[Enchant Weapon - Crusader]|h|r |cffffffff|Henchant:22749|h[Enchant  Weapon - Spell Power]|h|r, PST for Prices", -- [1]
-			"Pills-Faerlina", -- [2]
+			"ok", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Pills", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			12901, -- [11]
-			"Player-4408-001A1BA0", -- [12]
+			5311, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbPills|r",
-			[51] = 1568747305,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569420772,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [60]
 		{
-			"Enchanting (Artisan, 300) LFW, have |cffffffff|Henchant:20034|h[Enchant Weapon - Crusader]|h|r |cffffffff|Henchant:22749|h[Enchant  Weapon - Spell Power]|h|r, PST for Prices", -- [1]
-			"Pills-Faerlina", -- [2]
+			"granatki pomofaut?)", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Pills", -- [5]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			12929, -- [11]
-			"Player-4408-001A1BA0", -- [12]
-			0, -- [13]
+			5378, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbPills|r",
-			[51] = 1568747357,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569420897,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Hexus",
 		}, -- [61]
 		{
-			"WTS |cffffffff|Henchant:20026|h[Enchant Chest - Major Health]|h|r pst", -- [1]
-			"Adopted-Faerlina", -- [2]
+			"чутьчуть", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Adopted", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			12946, -- [11]
-			"Player-4408-000658B8", -- [12]
+			5386, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaAdopted|r",
-			[51] = 1568747435,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569420909,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [62]
 		{
-			"Enchanting (Artisan, 300) LFW, have |cffffffff|Henchant:20034|h[Enchant Weapon - Crusader]|h|r |cffffffff|Henchant:22749|h[Enchant  Weapon - Spell Power]|h|r, PST for Prices", -- [1]
-			"Pills-Faerlina", -- [2]
+			"dont you need it?", -- [1]
+			"Gynsen-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Pills", -- [5]
+			"", -- [4]
+			"Gynsen", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			12954, -- [11]
-			"Player-4408-001A1BA0", -- [12]
+			5480, -- [11]
+			"Player-4408-0126AA34", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbPills|r",
-			[51] = 1568747467,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff0070dbGynsen|r",
+			[51] = 1569421009,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [63]
 		{
-			"WTS |cffffffff|Henchant:20026|h[Enchant Chest - Major Health]|h|r pst", -- [1]
-			"Adopted-Faerlina", -- [2]
+			"ty guys upgrad", -- [1]
+			"Oleoo-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Adopted", -- [5]
+			"", -- [4]
+			"Oleoo", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			12967, -- [11]
-			"Player-4408-000658B8", -- [12]
+			5502, -- [11]
+			"Player-4408-013ED77F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaAdopted|r",
-			[51] = 1568747504,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff3fc6eaOleoo|r",
+			[51] = 1569421022,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [64]
 		{
-			"WTS |cffffffff|Henchant:20026|h[Enchant Chest - Major Health]|h|r pst", -- [1]
-			"Adopted-Faerlina", -- [2]
+			"ewe", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Adopted", -- [5]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			12990, -- [11]
-			"Player-4408-000658B8", -- [12]
-			0, -- [13]
+			5695, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaAdopted|r",
-			[51] = 1568747545,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569421346,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Hexus",
 		}, -- [65]
 		{
-			"Enchanting (Artisan, 300) LFW, have |cffffffff|Henchant:20034|h[Enchant Weapon - Crusader]|h|r |cffffffff|Henchant:22749|h[Enchant  Weapon - Spell Power]|h|r, PST for Prices", -- [1]
-			"Pills-Faerlina", -- [2]
+			"kvesty", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Pills", -- [5]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			13027, -- [11]
-			"Player-4408-001A1BA0", -- [12]
-			0, -- [13]
+			5697, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbPills|r",
-			[51] = 1568747621,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569421348,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Hexus",
 		}, -- [66]
 		{
-			"Enchanting (Artisan, 300) LFW, have |cffffffff|Henchant:20034|h[Enchant Weapon - Crusader]|h|r |cffffffff|Henchant:22749|h[Enchant  Weapon - Spell Power]|h|r, PST for Prices", -- [1]
-			"Pills-Faerlina", -- [2]
+			"это еще не конец", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Pills", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			13045, -- [11]
-			"Player-4408-001A1BA0", -- [12]
+			5700, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbPills|r",
-			[51] = 1568747654,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569421358,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [67]
 		{
-			"WTS 10 |cffffffff|Hitem:7068::::::::40:::::::|h[Elemental Fire]|h|r PST", -- [1]
-			"Zephyrot-Faerlina", -- [2]
+			"есть ласт босс", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Zephyrot", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			185, -- [11]
-			"Player-4408-0094285A", -- [12]
+			5701, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Zephyrot|r",
-			[51] = 1569043019,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569421361,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [68]
 		{
-			"WTS|cffffffff|Hitem:2091::::::::48:::::::|h[Magic Dust]|h|rPST!!!", -- [1]
-			"Crumz-Faerlina", -- [2]
+			"my ewe v nachale propustili vetku", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Crumz", -- [5]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			254, -- [11]
-			"Player-4408-0105A6AC", -- [12]
-			0, -- [13]
+			5711, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaCrumz|r",
-			[51] = 1569043102,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569421394,
+			[50] = "CHAT_MSG_BN_WHISPER_INFORM",
+			[53] = "Hexus",
 		}, -- [69]
 		{
-			"WTS|cffffffff|Hitem:2091::::::::48:::::::|h[Magic Dust]|h|rPST!!!", -- [1]
-			"Crumz-Faerlina", -- [2]
+			"я ее никогда не делал", -- [1]
+			"|Km4|k", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Crumz", -- [5]
+			"", -- [4]
+			"", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			256, -- [11]
-			"Player-4408-0105A6AC", -- [12]
-			0, -- [13]
+			5719, -- [11]
+			false, -- [12]
+			5, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaCrumz|r",
-			[51] = 1569043103,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dHexus|r",
+			[51] = 1569421409,
+			[50] = "CHAT_MSG_BN_WHISPER",
+			[53] = "Hexus",
 		}, -- [70]
 		{
-			"WTS 10 |cffffffff|Hitem:7068::::::::40:::::::|h[Elemental Fire]|h|r PST", -- [1]
-			"Zephyrot-Faerlina", -- [2]
+			"not here", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Zephyrot", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			260, -- [11]
-			"Player-4408-0094285A", -- [12]
+			5834, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Zephyrot|r",
-			[51] = 1569043108,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569421664,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [71]
 		{
-			"WTS |cffffffff|Hitem:5634::::::::60:::::::|h[Free Action Potion]|h|r (1g75s/stack)", -- [1]
-			"Sot-Faerlina", -- [2]
+			"sry", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Sot", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			301, -- [11]
-			"Player-4408-00A60086", -- [12]
+			5835, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aSot|r",
-			[51] = 1569043144,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569421665,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [72]
 		{
-			"WTS 10 |cffffffff|Hitem:7068::::::::40:::::::|h[Elemental Fire]|h|r PST", -- [1]
-			"Zephyrot-Faerlina", -- [2]
+			"sabe o caminho n cris ?", -- [1]
+			"Bällantines-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Zephyrot", -- [5]
+			"", -- [4]
+			"Bällantines", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			320, -- [11]
-			"Player-4408-0094285A", -- [12]
+			5836, -- [11]
+			"Player-4408-012D202F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Zephyrot|r",
-			[51] = 1569043163,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Bällantines|r",
+			[51] = 1569421685,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [73]
 		{
-			"LF TAILOR |cff0070dd|Hitem:14136::::::::60:::::::|h[Robe of Winter Night]|h|r", -- [1]
-			"Blowpump-Faerlina", -- [2]
+			"podojdi nikgo ne ubivai)", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Blowpump", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			330, -- [11]
-			"Player-4408-00445205", -- [12]
+			5842, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaBlowpump|r",
-			[51] = 1569043176,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569421745,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [74]
 		{
-			"WTS |cff0070dd|Hitem:1486::::::::31:::1::::|h[Tree Bark Jacket]|h|r PST", -- [1]
-			"Supertom-Faerlina", -- [2]
+			"ya imer", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Supertom", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			372, -- [11]
-			"Player-4408-00F7BAA0", -- [12]
+			5843, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aSupertom|r",
-			[51] = 1569043210,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569421747,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [75]
 		{
-			"WTS |cff0070dd|Hitem:1992::::::::42:::1::::|h[Swampchill Fetish]|h|r 4g", -- [1]
-			"Wowlett-Faerlina", -- [2]
+			"ye", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Wowlett", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			384, -- [11]
-			"Player-4408-00370BCC", -- [12]
+			5847, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaWowlett|r",
-			[51] = 1569043236,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569421760,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [76]
 		{
-			"LF TAILOR |cff0070dd|Hitem:14136::::::::60:::::::|h[Robe of Winter Night]|h|r", -- [1]
-			"Blowpump-Faerlina", -- [2]
+			"ну ты к нам не сможкешь ", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Blowpump", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			398, -- [11]
-			"Player-4408-00445205", -- [12]
+			5849, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaBlowpump|r",
-			[51] = 1569043248,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569421764,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [77]
 		{
-			"SELLING |cff0070dd|Hitem:15063::::::::60:::::::|h[Devilsaur Gauntlets]|h|r COME GET YOUR BEST IN SLOT", -- [1]
-			"Dankquan-Faerlina", -- [2]
+			"дойти", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Dankquan", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			410, -- [11]
-			"Player-4408-0065588A", -- [12]
+			5851, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aDankquan|r",
-			[51] = 1569043256,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569421765,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [78]
 		{
-			"WTS |cff0070dd|Hitem:1486::::::::31:::1::::|h[Tree Bark Jacket]|h|r PST", -- [1]
-			"Supertom-Faerlina", -- [2]
+			"как ты умер?", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Supertom", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			413, -- [11]
-			"Player-4408-00F7BAA0", -- [12]
+			5853, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aSupertom|r",
-			[51] = 1569043258,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569421776,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [79]
 		{
-			"WTS |cff1eff00|Hitem:2775::::::::39:::::::|h[Silver Ore]|h|r stacks", -- [1]
-			"Nutwater-Faerlina", -- [2]
+			"prygnul", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Nutwater", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			430, -- [11]
-			"Player-4408-008275E5", -- [12]
+			5857, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Nutwater|r",
-			[51] = 1569043283,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569421790,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [80]
 		{
-			"SELLING |cff0070dd|Hitem:15063::::::::60:::::::|h[Devilsaur Gauntlets]|h|r COME GET YOUR BEST IN SLOT", -- [1]
-			"Dankquan-Faerlina", -- [2]
+			"nikogo ne ubivaui", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Dankquan", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			432, -- [11]
-			"Player-4408-0065588A", -- [12]
+			5875, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aDankquan|r",
-			[51] = 1569043291,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569421858,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [81]
 		{
-			"WTS |cff0070dd|Hitem:15063:856:::::::60:::::::|h[Devilsaur Gauntlets]|h|r|cff0070dd|Hitem:15062::::::::60:::::::|h[Devilsaur Leggings]|h|r   ", -- [1]
-			"Mokgra-Faerlina", -- [2]
+			"mne nado vzyat kvest", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Mokgra", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			449, -- [11]
-			"Player-4408-006420C0", -- [12]
+			5876, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dMokgra|r",
-			[51] = 1569043324,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569421873,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [82]
 		{
-			"WTS |cff0070dd|Hitem:15063:856:::::::60:::::::|h[Devilsaur Gauntlets]|h|r|cff0070dd|Hitem:15062::::::::60:::::::|h[Devilsaur Leggings]|h|r   ", -- [1]
-			"Mokgra-Faerlina", -- [2]
+			"цфше", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Mokgra", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			450, -- [11]
-			"Player-4408-006420C0", -- [12]
+			5877, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dMokgra|r",
-			[51] = 1569043324,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569421882,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [83]
 		{
-			"WTS |cff0070dd|Hitem:8348::::::::49:::::::|h[Helm of Fire]|h|r 14g /// |cff0070dd|Hitem:15061::::::::49:::::::|h[Living Shoulders]|h|r 30g /// |cff0070dd|Hitem:15060::::::::49::::1:3524:::|h[Living Leggings]|h|r 65g PST --Also crafting |cffa335ee|Hitem:16983::::::::49:::::::|h[Molten Helm]|h|r", -- [1]
-			"Loligaps-Faerlina", -- [2]
+			"wait shammy", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Loligaps", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			51, -- [11]
-			"Player-4408-00AC0344", -- [12]
+			5878, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aLoligaps|r",
-			[51] = 1569080867,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569421885,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [84]
 		{
-			"LFW 300 BSMITH CAN MAKE |cff1eff00|Hitem:7969::::::::60:::::::|h[Mithril Spurs]|h|r|cff0070dd|Hitem:12784::::::::60:::::::|h[Arcanite Reaper]|h|r|cffffffff|Hitem:16206::::::::60:::::::|h[Arcanite Rod]|h|r I WILL APPLY MY OWN SPURS TO YOUR BOOTS 2G", -- [1]
-			"Bipbob-Faerlina", -- [2]
+			"done ?", -- [1]
+			"Oleoo-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Bipbob", -- [5]
+			"", -- [4]
+			"Oleoo", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			64, -- [11]
-			"Player-4408-0091C0A8", -- [12]
+			5879, -- [11]
+			"Player-4408-013ED77F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dBipbob|r",
-			[51] = 1569080924,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff3fc6eaOleoo|r",
+			[51] = 1569421889,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [85]
 		{
-			"WTS |cff0070dd|Hitem:8348::::::::49:::::::|h[Helm of Fire]|h|r 14g /// |cff0070dd|Hitem:15061::::::::49:::::::|h[Living Shoulders]|h|r 30g /// |cff0070dd|Hitem:15060::::::::49::::1:3524:::|h[Living Leggings]|h|r 65g PST --Also crafting |cffa335ee|Hitem:16983::::::::49:::::::|h[Molten Helm]|h|r", -- [1]
-			"Loligaps-Faerlina", -- [2]
+			"блин", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Loligaps", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			70, -- [11]
-			"Player-4408-00AC0344", -- [12]
+			5880, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aLoligaps|r",
-			[51] = 1569080938,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569421890,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [86]
 		{
-			"WTS |cff0070dd|Hitem:8348::::::::49:::::::|h[Helm of Fire]|h|r 14g /// |cff0070dd|Hitem:15061::::::::49:::::::|h[Living Shoulders]|h|r 30g /// |cff0070dd|Hitem:15060::::::::49::::1:3524:::|h[Living Leggings]|h|r 65g PST --Also crafting |cffa335ee|Hitem:16983::::::::49:::::::|h[Molten Helm]|h|r", -- [1]
-			"Loligaps-Faerlina", -- [2]
+			"я спалился", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Loligaps", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			97, -- [11]
-			"Player-4408-00AC0344", -- [12]
+			5881, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aLoligaps|r",
-			[51] = 1569081024,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569421891,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [87]
 		{
-			"LFW 300 BSMITH CAN MAKE |cff1eff00|Hitem:7969::::::::60:::::::|h[Mithril Spurs]|h|r|cff0070dd|Hitem:12784::::::::60:::::::|h[Arcanite Reaper]|h|r|cffffffff|Hitem:16206::::::::60:::::::|h[Arcanite Rod]|h|r I WILL APPLY MY OWN SPURS TO YOUR BOOTS 2G", -- [1]
-			"Bipbob-Faerlina", -- [2]
+			"XD", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Bipbob", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1539, -- [11]
-			"Player-4408-0091C0A8", -- [12]
+			5882, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dBipbob|r",
-			[51] = 1569082133,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569421894,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [88]
 		{
-			"WTS |cff1eff00|Hitem:4410::::::::28:::::::|h[Schematic: Shadow Goggles]|h|r", -- [1]
-			"Wormhat-Faerlina", -- [2]
+			"done dg ?", -- [1]
+			"Oleoo-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Wormhat", -- [5]
+			"", -- [4]
+			"Oleoo", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1669, -- [11]
-			"Player-4408-011BFC2F", -- [12]
+			5885, -- [11]
+			"Player-4408-013ED77F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff0070dbWormhat|r",
-			[51] = 1569082523,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff3fc6eaOleoo|r",
+			[51] = 1569421903,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [89]
 		{
-			"WTS |cff0070dd|Hitem:15063::::::::50::::1:3524:::|h[Devilsaur Gauntlets]|h|r PST CHEAPER THAN AH", -- [1]
-			"Daniel-Faerlina", -- [2]
+			"pered kem", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Daniel", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1803, -- [11]
-			"Player-4408-00961EF5", -- [12]
+			5886, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Daniel|r",
-			[51] = 1569082761,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569421908,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [90]
 		{
-			"WTS |cff0070dd|Hitem:15063::::::::50::::1:3524:::|h[Devilsaur Gauntlets]|h|r PST CHEAPER THAN AH", -- [1]
-			"Daniel-Faerlina", -- [2]
+			"yeo", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Daniel", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1804, -- [11]
-			"Player-4408-00961EF5", -- [12]
+			5887, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Daniel|r",
-			[51] = 1569082762,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569421913,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [91]
 		{
-			"WTS |cffa335ee|Hitem:2825::::::::30:::::::|h[Bow of Searing Arrows]|h|r pst offer", -- [1]
-			"Bullwick-Faerlina", -- [2]
+			"я на русском", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Bullwick", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1934, -- [11]
-			"Player-4408-0112DFB4", -- [12]
+			5888, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Bullwick|r",
-			[51] = 1569083123,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569421927,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [92]
 		{
-			"WTS |cffa335ee|Hitem:2825::::::::30:::::::|h[Bow of Searing Arrows]|h|r pst offer", -- [1]
-			"Bullwick-Faerlina", -- [2]
+			"в чате написал", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Bullwick", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1996, -- [11]
-			"Player-4408-0112DFB4", -- [12]
+			5889, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Bullwick|r",
-			[51] = 1569083226,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569421930,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [93]
 		{
-			"WTS |cff0070dd|Hitem:13053::::::::60:::1::::|h[Doombringer]|h|r 20g |cffa335ee|Hitem:14555::::::::60:::1::::|h[Alcor's Sunrazor]|h|r 400g", -- [1]
-			"Misspell-Faerlina", -- [2]
+			"acabou isso ?", -- [1]
+			"Oleoo-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Misspell", -- [5]
+			"", -- [4]
+			"Oleoo", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			2018, -- [11]
-			"Player-4408-00B0AA6D", -- [12]
+			5890, -- [11]
+			"Player-4408-013ED77F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaMisspell|r",
-			[51] = 1569083251,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff3fc6eaOleoo|r",
+			[51] = 1569421938,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [94]
 		{
-			"Tailor making |cffffffff|Hitem:14046::::::::60::::1:3524:::|h[Runecloth Bag]|h|r with YOUR mats, needs 25 |cffffffff|Hitem:14047::::::::60:::::::|h[Runecloth]|h|r 2 |cffffffff|Hitem:8170::::::::60:::::::|h[Rugged Leather]|h|r and 1 |cffffffff|Hitem:14341::::::::60:::::::|h[Rune Thread]|h|r At Org tailoring shop, tips appreciated.", -- [1]
-			"Verlorius-Faerlina", -- [2]
+			"kkkkk", -- [1]
+			"Oleoo-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Verlorius", -- [5]
+			"", -- [4]
+			"Oleoo", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			46, -- [11]
-			"Player-4408-007AE3DD", -- [12]
+			5891, -- [11]
+			"Player-4408-013ED77F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffVerlorius|r",
-			[51] = 1569083557,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff3fc6eaOleoo|r",
+			[51] = 1569421940,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [95]
 		{
-			"WTS |cffa335ee|Hitem:14555::::::::60:::1::::|h[Alcor's Sunrazor]|h|r pst", -- [1]
-			"Misspell-Faerlina", -- [2]
+			"cabo po", -- [1]
+			"Bällantines-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Misspell", -- [5]
+			"", -- [4]
+			"Bällantines", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			188, -- [11]
-			"Player-4408-00B0AA6D", -- [12]
+			5892, -- [11]
+			"Player-4408-012D202F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff3fc6eaMisspell|r",
-			[51] = 1569083966,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Bällantines|r",
+			[51] = 1569421949,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [96]
 		{
-			"WTS |cff0070dd|Hitem:15060::::::::49:::::::|h[Living Leggings]|h|r 65g /// |cff0070dd|Hitem:15061::::::::49:::::::|h[Living Shoulders]|h|r 28g /// |cff0070dd|Hitem:8348::::::::49:::::::|h[Helm of Fire]|h|r 15g  ---PST", -- [1]
-			"Loligaps-Faerlina", -- [2]
+			"kill that mobs", -- [1]
+			"Bällantines-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Loligaps", -- [5]
+			"", -- [4]
+			"Bällantines", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			325, -- [11]
-			"Player-4408-00AC0344", -- [12]
+			5898, -- [11]
+			"Player-4408-012D202F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aLoligaps|r",
-			[51] = 1569084536,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Bällantines|r",
+			[51] = 1569421957,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [97]
 		{
-			"WTS |cff0070dd|Hitem:15060::::::::49:::::::|h[Living Leggings]|h|r 65g /// |cff0070dd|Hitem:15061::::::::49:::::::|h[Living Shoulders]|h|r 28g /// |cff0070dd|Hitem:8348::::::::49:::::::|h[Helm of Fire]|h|r 15g  ---PST", -- [1]
-			"Loligaps-Faerlina", -- [2]
+			"ok", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Loligaps", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			377, -- [11]
-			"Player-4408-00AC0344", -- [12]
+			5900, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aLoligaps|r",
-			[51] = 1569084614,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569421964,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [98]
 		{
-			"WTS |cff0070dd|Hitem:15060::::::::49:::::::|h[Living Leggings]|h|r 65g /// |cff0070dd|Hitem:15061::::::::49:::::::|h[Living Shoulders]|h|r 28g /// |cff0070dd|Hitem:8348::::::::49:::::::|h[Helm of Fire]|h|r 15g  ---PST", -- [1]
-			"Loligaps-Faerlina", -- [2]
+			"1 shaman", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Loligaps", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			447, -- [11]
-			"Player-4408-00AC0344", -- [12]
+			5902, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aLoligaps|r",
-			[51] = 1569084739,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569421967,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [99]
 		{
-			"WTB |cffffffff|Hitem:4304::::::::49:::::::|h[Thick Leather]|h|r 1g/stack CoD or Trade.", -- [1]
-			"Loligaps-Faerlina", -- [2]
+			"nmado ubit", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Loligaps", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			453, -- [11]
-			"Player-4408-00AC0344", -- [12]
+			5903, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aLoligaps|r",
-			[51] = 1569084742,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569421972,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [100]
 		{
-			"WTS |cff0070dd|Hitem:10332::::::::45:::1::::|h[Scarlet Boots]|h|r SUPER CHEAP", -- [1]
-			"Trølltøll-Faerlina", -- [2]
+			"perdidaço asHuAHuaS", -- [1]
+			"Oleoo-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Trølltøll", -- [5]
+			"", -- [4]
+			"Oleoo", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			510, -- [11]
-			"Player-4408-00CF8C02", -- [12]
+			5904, -- [11]
+			"Player-4408-013ED77F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffTrølltøll|r",
-			[51] = 1569084789,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff3fc6eaOleoo|r",
+			[51] = 1569421987,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [101]
 		{
-			"WTB |cffffffff|Hitem:4304::::::::49:::::::|h[Thick Leather]|h|r 1g/stack CoD or Trade.", -- [1]
-			"Loligaps-Faerlina", -- [2]
+			"sry rog", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Loligaps", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			525, -- [11]
-			"Player-4408-00AC0344", -- [12]
+			5927, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aLoligaps|r",
-			[51] = 1569084804,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569422094,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [102]
 		{
-			"WTS |cff0070dd|Hitem:10332::::::::45:::1::::|h[Scarlet Boots]|h|r SUPER CHEAP", -- [1]
-			"Trølltøll-Faerlina", -- [2]
+			"he was doing x1 with tha boss", -- [1]
+			"Gynsen-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Trølltøll", -- [5]
+			"", -- [4]
+			"Gynsen", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			526, -- [11]
-			"Player-4408-00CF8C02", -- [12]
+			5942, -- [11]
+			"Player-4408-0126AA34", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffTrølltøll|r",
-			[51] = 1569084806,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff0070dbGynsen|r",
+			[51] = 1569422107,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [103]
 		{
-			"WTS |cff0070dd|Hitem:15060::::::::49:::::::|h[Living Leggings]|h|r 65g /// |cff0070dd|Hitem:15061::::::::49:::::::|h[Living Shoulders]|h|r 28g /// |cff0070dd|Hitem:8348::::::::49:::::::|h[Helm of Fire]|h|r 15g  ---PST", -- [1]
-			"Loligaps-Faerlina", -- [2]
+			"tem ress ainda nao ?", -- [1]
+			"Bällantines-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Loligaps", -- [5]
+			"", -- [4]
+			"Bällantines", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			536, -- [11]
-			"Player-4408-00AC0344", -- [12]
+			5945, -- [11]
+			"Player-4408-012D202F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aLoligaps|r",
-			[51] = 1569084817,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Bällantines|r",
+			[51] = 1569422115,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [104]
 		{
-			"WTS |cff0070dd|Hitem:15060::::::::49:::::::|h[Living Leggings]|h|r 65g /// |cff0070dd|Hitem:15061::::::::49:::::::|h[Living Shoulders]|h|r 28g /// |cff0070dd|Hitem:8348::::::::49:::::::|h[Helm of Fire]|h|r 15g  ---PST", -- [1]
-			"Loligaps-Faerlina", -- [2]
+			"vse", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Loligaps", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			562, -- [11]
-			"Player-4408-00AC0344", -- [12]
+			5946, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aLoligaps|r",
-			[51] = 1569084861,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569422116,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [105]
 		{
-			"WTB |cffffffff|Hitem:4304::::::::49:::::::|h[Thick Leather]|h|r 1g/stack CoD or Trade.", -- [1]
-			"Loligaps-Faerlina", -- [2]
+			"mob*", -- [1]
+			"Gynsen-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Loligaps", -- [5]
+			"", -- [4]
+			"Gynsen", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			568, -- [11]
-			"Player-4408-00AC0344", -- [12]
+			5947, -- [11]
+			"Player-4408-0126AA34", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aLoligaps|r",
-			[51] = 1569084867,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff0070dbGynsen|r",
+			[51] = 1569422117,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [106]
 		{
-			"WTS |cff0070dd|Hitem:15060::::::::49:::::::|h[Living Leggings]|h|r 65g /// |cff0070dd|Hitem:15061::::::::49:::::::|h[Living Shoulders]|h|r 28g /// |cff0070dd|Hitem:8348::::::::49:::::::|h[Helm of Fire]|h|r 15g  ---PST", -- [1]
-			"Loligaps-Faerlina", -- [2]
+			"dont have res", -- [1]
+			"Qqo-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Loligaps", -- [5]
+			"", -- [4]
+			"Qqo", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			582, -- [11]
-			"Player-4408-00AC0344", -- [12]
+			5951, -- [11]
+			"Player-4408-011F9A27", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aLoligaps|r",
-			[51] = 1569084895,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff0070dbQqo|r",
+			[51] = 1569422122,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [107]
 		{
-			"WTB |cffffffff|Hitem:4304::::::::49:::::::|h[Thick Leather]|h|r 1g/stack CoD or Trade.", -- [1]
-			"Loligaps-Faerlina", -- [2]
+			"eat my mana", -- [1]
+			"Gynsen-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Loligaps", -- [5]
+			"", -- [4]
+			"Gynsen", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			600, -- [11]
-			"Player-4408-00AC0344", -- [12]
+			5952, -- [11]
+			"Player-4408-0126AA34", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aLoligaps|r",
-			[51] = 1569084949,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff0070dbGynsen|r",
+			[51] = 1569422124,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [108]
 		{
-			"WTS |cff0070dd|Hitem:15060::::::::49:::::::|h[Living Leggings]|h|r 65g /// |cff0070dd|Hitem:15061::::::::49:::::::|h[Living Shoulders]|h|r 28g /// |cff0070dd|Hitem:8348::::::::49:::::::|h[Helm of Fire]|h|r 15g  ---PST", -- [1]
-			"Loligaps-Faerlina", -- [2]
+			"sps", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Loligaps", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			601, -- [11]
-			"Player-4408-00AC0344", -- [12]
+			5954, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aLoligaps|r",
-			[51] = 1569084953,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569422128,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [109]
 		{
-			"WTS |cff0070dd|Hitem:15060::::::::49:::::::|h[Living Leggings]|h|r 65g /// |cff0070dd|Hitem:15061::::::::49:::::::|h[Living Shoulders]|h|r 28g /// |cff0070dd|Hitem:8348::::::::49:::::::|h[Helm of Fire]|h|r 15g  ---PST", -- [1]
-			"Loligaps-Faerlina", -- [2]
+			"go again ?", -- [1]
+			"Bällantines-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Loligaps", -- [5]
+			"", -- [4]
+			"Bällantines", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			613, -- [11]
-			"Player-4408-00AC0344", -- [12]
+			5965, -- [11]
+			"Player-4408-012D202F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aLoligaps|r",
-			[51] = 1569084986,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cfffff468Bällantines|r",
+			[51] = 1569422149,
+			[50] = "CHAT_MSG_PARTY_LEADER",
 		}, -- [110]
 		{
-			"wts |cffa335ee|Hitem:14513::::::::60:::1::::|h[Pattern: Robe of the Archmage]|h|r pm", -- [1]
-			"Nami-Faerlina", -- [2]
+			"nfr", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Nami", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			628, -- [11]
-			"Player-4408-0000273A", -- [12]
+			5971, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edNami|r",
-			[51] = 1569085035,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569422196,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [111]
 		{
-			"WTB |cffffffff|Hitem:4338::::::::5:::::::|h[Mageweave Cloth]|h|r 70s / Stack - PST", -- [1]
-			"Hornet-Faerlina", -- [2]
+			"i need robe the invoker", -- [1]
+			"Oleoo-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Hornet", -- [5]
+			"", -- [4]
+			"Oleoo", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			636, -- [11]
-			"Player-4408-0086B1FB", -- [12]
+			5972, -- [11]
+			"Player-4408-013ED77F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffaad372Hornet|r",
-			[51] = 1569085044,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff3fc6eaOleoo|r",
+			[51] = 1569422196,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [112]
 		{
-			"WTS |cff0070dd|Hitem:15060::::::::49:::::::|h[Living Leggings]|h|r 65g /// |cff0070dd|Hitem:15061::::::::49:::::::|h[Living Shoulders]|h|r 28g /// |cff0070dd|Hitem:8348::::::::49:::::::|h[Helm of Fire]|h|r 15g  ---PST", -- [1]
-			"Loligaps-Faerlina", -- [2]
+			"так", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Loligaps", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			646, -- [11]
-			"Player-4408-00AC0344", -- [12]
+			5973, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aLoligaps|r",
-			[51] = 1569085063,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569422197,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [113]
 		{
-			"wts |cffa335ee|Hitem:14513::::::::60:::1::::|h[Pattern: Robe of the Archmage]|h|r pm", -- [1]
-			"Nami-Faerlina", -- [2]
+			"=/", -- [1]
+			"Oleoo-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Nami", -- [5]
+			"", -- [4]
+			"Oleoo", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			668, -- [11]
-			"Player-4408-0000273A", -- [12]
+			5974, -- [11]
+			"Player-4408-013ED77F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edNami|r",
-			[51] = 1569085127,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff3fc6eaOleoo|r",
+			[51] = 1569422197,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [114]
 		{
-			"WTB |cffffffff|Hitem:4304::::::::49:::::::|h[Thick Leather]|h|r 1g/stack CoD or Trade.", -- [1]
-			"Loligaps-Faerlina", -- [2]
+			"я пошел", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Loligaps", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			678, -- [11]
-			"Player-4408-00AC0344", -- [12]
+			5975, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aLoligaps|r",
-			[51] = 1569085150,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569422198,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [115]
 		{
-			"WTS |cff0070dd|Hitem:15060::::::::49:::::::|h[Living Leggings]|h|r 65g /// |cff0070dd|Hitem:15061::::::::49:::::::|h[Living Shoulders]|h|r 28g /// |cff0070dd|Hitem:8348::::::::49:::::::|h[Helm of Fire]|h|r 15g  ---PST", -- [1]
-			"Loligaps-Faerlina", -- [2]
+			"no drop", -- [1]
+			"Oleoo-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Loligaps", -- [5]
+			"", -- [4]
+			"Oleoo", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			680, -- [11]
-			"Player-4408-00AC0344", -- [12]
+			5976, -- [11]
+			"Player-4408-013ED77F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffff7c0aLoligaps|r",
-			[51] = 1569085153,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cff3fc6eaOleoo|r",
+			[51] = 1569422200,
+			[50] = "CHAT_MSG_PARTY",
 		}, -- [116]
 		{
-			"WTB |cff1eff00|Hitem:12360::::::::60:::::::|h[Arcanite Bar]|h|r xmute cooldown 6g", -- [1]
-			"Mokilok-Faerlina", -- [2]
+			"кстати", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Mokilok", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			681, -- [11]
-			"Player-4408-002FCA78", -- [12]
+			5991, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dMokilok|r",
-			[51] = 1569085159,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569422228,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [117]
 		{
-			"wts |cffa335ee|Hitem:14513::::::::60:::1::::|h[Pattern: Robe of the Archmage]|h|r pm", -- [1]
-			"Nami-Faerlina", -- [2]
+			"зря вы хилили", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Nami", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			699, -- [11]
-			"Player-4408-0000273A", -- [12]
+			5992, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edNami|r",
-			[51] = 1569085201,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569422230,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [118]
 		{
-			"WTB |cffffffff|Hitem:7068::::::::60:::::::|h[Elemental Fire]|h|r|cffffffff|Hitem:7068::::::::60:::::::|h[Elemental Fire]|h|r|cffffffff|Hitem:7068::::::::60:::::::|h[Elemental Fire]|h|r|cffffffff|Hitem:7068::::::::60:::::::|h[Elemental Fire]|h|r|cffffffff|Hitem:7068::::::::60:::::::|h[Elemental Fire]|h|r", -- [1]
-			"Släsh-Faerlina", -- [2]
+			" меня миллиард сейвов", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Släsh", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			725, -- [11]
-			"Player-4408-005CBCC5", -- [12]
+			5993, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffSläsh|r",
-			[51] = 1569085270,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569422234,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [119]
 		{
-			"Few |cffffffff|Henchant:13815|h[Enchant Gloves - Agility]|h|r available in Undercity, tips appreciated PST if you want", -- [1]
-			"Nostalgrithm-Faerlina", -- [2]
+			"я ждал лоу хп", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Nostalgrithm", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			730, -- [11]
-			"Player-4408-00489A53", -- [12]
+			5994, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffffffffNostalgrithm|r",
-			[51] = 1569085276,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569422236,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [120]
 		{
-			"WTS |cff1eff00|Hitem:6661::::::::27:::::::|h[Recipe: Savory Deviate Delight]|h|r pst", -- [1]
-			"Evan-Faerlina", -- [2]
+			"лол", -- [1]
+			"Ihateorcs-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Evan", -- [5]
+			"", -- [4]
+			"Ihateorcs", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			741, -- [11]
-			"Player-4408-01280786", -- [12]
+			5996, -- [11]
+			"Player-4408-00D56257", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Evan|r",
-			[51] = 1569085293,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffc69b6dIhateorcs|r",
+			[51] = 1569422238,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [121]
 		{
-			"wts |cffa335ee|Hitem:14513::::::::60:::1::::|h[Pattern: Robe of the Archmage]|h|r better than AH", -- [1]
-			"Nami-Faerlina", -- [2]
+			"wts |cff1eff00|Hitem:12360::::::::60:::::::|h[Arcanite Bar]|h|rx5 ", -- [1]
+			"Protos-Faerlina", -- [2]
 			"", -- [3]
 			"2. Trade - City", -- [4]
-			"Nami", -- [5]
+			"Protos", -- [5]
 			"", -- [6]
 			2, -- [7]
 			2, -- [8]
 			"Trade - City", -- [9]
 			0, -- [10]
-			750, -- [11]
-			"Player-4408-0000273A", -- [12]
+			6026, -- [11]
+			"Player-4408-0000B33E", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edNami|r",
-			[51] = 1569085310,
+			[52] = "|cff8787edProtos|r",
+			[51] = 1569422373,
 			[50] = "CHAT_MSG_CHANNEL",
 		}, -- [122]
 		{
-			"WTS |cff1eff00|Hitem:6661::::::::27:::::::|h[Recipe: Savory Deviate Delight]|h|r pst", -- [1]
-			"Evan-Faerlina", -- [2]
+			"hey ", -- [1]
+			"Kevestlaide-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Evan", -- [5]
+			"", -- [4]
+			"Kevestlaide", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			783, -- [11]
-			"Player-4408-01280786", -- [12]
+			3755, -- [11]
+			"Player-4408-01128F8F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cfffff468Evan|r",
-			[51] = 1569085357,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aKevestlaide|r",
+			[51] = 1569501004,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [123]
 		{
-			"WTS |cffa335ee|Hitem:14513::::::::60:::1::::|h[Pattern: Robe of the Archmage]|h|r|cff0070dd|Hitem:12838::::::::60:::1::::|h[Plans: Arcanite Reaper]|h|r", -- [1]
-			"Kangaxx-Faerlina", -- [2]
+			"do you mind signing my guild charter?", -- [1]
+			"Kevestlaide-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kangaxx", -- [5]
+			"", -- [4]
+			"Kevestlaide", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1439, -- [11]
-			"Player-4408-0008D2C0", -- [12]
+			3757, -- [11]
+			"Player-4408-01128F8F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edKangaxx|r",
-			[51] = 1569088290,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aKevestlaide|r",
+			[51] = 1569501010,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [124]
 		{
-			"WTS |cff0070dd|Hitem:15062::::::::60:::1::::|h[Devilsaur Leggings]|h|r|cff0070dd|Hitem:15063::::::::60:::::::|h[Devilsaur Gauntlets]|h|r cheaper then AH", -- [1]
-			"Mokgra-Faerlina", -- [2]
+			"ok", -- [1]
+			"Kevestlaide-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Mokgra", -- [5]
+			"", -- [4]
+			"Kevestlaide", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1462, -- [11]
-			"Player-4408-006420C0", -- [12]
+			3763, -- [11]
+			"Player-4408-01128F8F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dMokgra|r",
-			[51] = 1569088323,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aKevestlaide|r",
+			[51] = 1569501019,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [125]
 		{
-			"wts |cffa335ee|Hitem:14513::::::::60:::1::::|h[Pattern: Robe of the Archmage]|h|r|cff0070dd|Hitem:12838::::::::60:::1::::|h[Plans: Arcanite Reaper]|h|r", -- [1]
-			"Kangaxx-Faerlina", -- [2]
+			"thank you! Have a nice day", -- [1]
+			"Kevestlaide-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Kangaxx", -- [5]
+			"", -- [4]
+			"Kevestlaide", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1533, -- [11]
-			"Player-4408-0008D2C0", -- [12]
+			3768, -- [11]
+			"Player-4408-01128F8F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cff8787edKangaxx|r",
-			[51] = 1569088445,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aKevestlaide|r",
+			[51] = 1569501032,
+			[50] = "CHAT_MSG_WHISPER",
 		}, -- [126]
 		{
-			"Selling Princess runs! |cff0070dd|Hitem:17713::::::::1:::::::|h[Blackstone Ring]|h|r BIS for hunters and all melee. Cheap. PST", -- [1]
-			"Ringruns-Faerlina", -- [2]
+			"bye", -- [1]
+			"Kevestlaide-Faerlina", -- [2]
 			"", -- [3]
-			"2. Trade - City", -- [4]
-			"Ringruns", -- [5]
+			"", -- [4]
+			"Kevestlaide", -- [5]
 			"", -- [6]
-			2, -- [7]
-			2, -- [8]
-			"Trade - City", -- [9]
+			0, -- [7]
+			0, -- [8]
+			"", -- [9]
 			0, -- [10]
-			1540, -- [11]
-			"Player-4408-01298D9A", -- [12]
+			3770, -- [11]
+			"Player-4408-01128F8F", -- [12]
 			0, -- [13]
 			false, -- [14]
 			false, -- [15]
 			false, -- [16]
 			false, -- [17]
-			[52] = "|cffc69b6dRingruns|r",
-			[51] = 1569088456,
-			[50] = "CHAT_MSG_CHANNEL",
+			[52] = "|cffff7c0aKevestlaide|r",
+			[51] = 1569501040,
+			[50] = "CHAT_MSG_WHISPER_INFORM",
 		}, -- [127]
 	},
 }

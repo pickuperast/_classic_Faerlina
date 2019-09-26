@@ -21,11 +21,11 @@ GuidelimeDataChar = {
 	["showCompletedSteps"] = false,
 	["mainFrameAlpha"] = 0.5,
 	["currentGuide"] = "Bustea's Horde Leveling guide 1-6 Freezy3 Undead Starter",
-	["mainFrameY"] = 2.35987401008606,
+	["editorFrameX"] = 0,
 	["arrowX"] = 0,
 	["mainFrameFontSize"] = 14,
-	["editorFrameRelative"] = "CENTER",
 	["showArrow"] = true,
+	["editorFrameRelative"] = "CENTER",
 	["guideSize"] = {
 		["Bustea's Horde Leveling guide 1-6 Freezy3 Undead Starter"] = 37,
 	},
@@ -33,5 +33,5 @@ GuidelimeDataChar = {
 	["mainFrameShowing"] = true,
 	["version"] = "1.005",
 	["mainFrameRelative"] = "RIGHT",
-	["editorFrameX"] = 0,
+	["mainFrameY"] = 2.35987401008606,
 }

@@ -41,14 +41,14 @@ GuidelimeDataChar = {
 	["arrowX"] = 0,
 	["mainFrameY"] = 0,
 	["showArrow"] = true,
+	["editorFrameRelative"] = "CENTER",
 	["guideSize"] = {
 		["Bustea's Horde Leveling guide 6-12 Durotar_Orc"] = 168,
 		["Bustea's Horde Leveling guide 1-6 Valley of Trials_Orc"] = 77,
 	},
-	["version"] = "1.005",
 	["arrowAlpha"] = 0.8,
 	["mainFrameShowing"] = true,
-	["editorFrameRelative"] = "CENTER",
+	["version"] = "1.005",
 	["mainFrameRelative"] = "RIGHT",
 	["mainFrameFontSize"] = 14,
 }

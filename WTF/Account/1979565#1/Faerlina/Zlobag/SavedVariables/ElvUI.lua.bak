@@ -1,10 +1,10 @@
 
 ElvCharacterDB = {
 	["ChatEditHistory"] = {
-		"/TSM", -- [1]
-		"/tsm source", -- [2]
+		"/tsm source", -- [1]
+		"/tsm scan", -- [2]
 		"/tsm sources", -- [3]
-		"/tsm scan", -- [4]
+		"/TSM", -- [4]
 	},
 	["ChatHistoryLog"] = {
 		{

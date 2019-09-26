@@ -1,6 +1,61 @@
 
 AAPC1 = {
 	["Faerlina"] = {
+		["Qqwa"] = {
+			["Elite"] = {
+			},
+			["Zones"] = {
+				["1-5Undead"] = 38,
+				["5-10Undead"] = 2,
+			},
+			["Completed"] = {
+			},
+		},
+		["Qqr"] = {
+			["Elite"] = {
+			},
+			["Completed"] = {
+			},
+			["Zones"] = {
+				["1-5Undead"] = 1,
+			},
+		},
+		["Qqo"] = {
+			["Elite"] = {
+			},
+			["Zones"] = {
+				["1-12OrcTroll-Shaman"] = 93,
+			},
+			["Completed"] = {
+			},
+		},
+		["Unlockl"] = {
+			["Elite"] = {
+			},
+			["Zones"] = {
+				["1-5Undead"] = 1,
+			},
+			["Completed"] = {
+			},
+		},
+		["Zlobag"] = {
+			["Elite"] = {
+			},
+			["Zones"] = {
+				["1-5Undead"] = 1,
+			},
+			["Completed"] = {
+			},
+		},
+		["Qqd"] = {
+			["Elite"] = {
+			},
+			["Completed"] = {
+			},
+			["Zones"] = {
+				["1-12Tauren-Druid"] = 1,
+			},
+		},
 		["Ooq"] = {
 			["Elite"] = {
 			},
@@ -10,11 +65,11 @@ AAPC1 = {
 			["Completed"] = {
 			},
 		},
-		["Qqo"] = {
+		["Qqh"] = {
 			["Elite"] = {
 			},
 			["Zones"] = {
-				["1-12OrcTroll-Shaman"] = 93,
+				["1-12OrcTroll-Hunter"] = 46,
 			},
 			["Completed"] = {
 			},
@@ -35,20 +90,11 @@ AAPC1 = {
 				["26-28Ashenvale"] = 9,
 			},
 		},
-		["Zlobag"] = {
+		["Qqv"] = {
 			["Elite"] = {
 			},
 			["Zones"] = {
-				["1-5Undead"] = 1,
-			},
-			["Completed"] = {
-			},
-		},
-		["Unlockl"] = {
-			["Elite"] = {
-			},
-			["Zones"] = {
-				["1-5Undead"] = 1,
+				["1-12OrcTroll-Warrior"] = 1,
 			},
 			["Completed"] = {
 			},
@@ -62,6 +108,7 @@ AAPC1 = {
 			},
 			["Zones"] = {
 				["1-12OrcTroll-Hunter"] = 1,
+				["1-6DwarfGnome-Warrior"] = 7,
 			},
 		},
 	},

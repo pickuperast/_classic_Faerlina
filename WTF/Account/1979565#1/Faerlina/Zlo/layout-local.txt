@@ -1,9 +1,9 @@
 Version: 1
 Frame: f1_HealBot_Action
 FrameLevel: 1
-Anchor: CENTER
-X: -450
-Y: -71
+Anchor: LEFT
+X: 471
+Y: 41
 W: 160
 H: 97
 Frame: CensusButtonFrame
@@ -20,6 +20,13 @@ X: 0
 Y: 0
 W: 365
 H: 240
+Frame: AtlasLoot_GUI-Frame
+FrameLevel: 1
+Anchor: LEFT
+X: 148
+Y: 144
+W: 920
+H: 600
 Frame: CensusPlusClassic
 FrameLevel: 1
 Anchor: TOPLEFT
@@ -41,10 +48,3 @@ X: 0
 Y: 0
 W: 860
 H: 750
-Frame: AtlasLoot_GUI-Frame
-FrameLevel: 1
-Anchor: TOP
-X: -29
-Y: -111
-W: 920
-H: 600

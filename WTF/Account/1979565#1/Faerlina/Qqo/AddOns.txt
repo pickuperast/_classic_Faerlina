@@ -1,1 +1,3 @@
 ClassicAutoQuest: disabled
+ElvUI: enabled
+RecipeRadarClassic: disabled

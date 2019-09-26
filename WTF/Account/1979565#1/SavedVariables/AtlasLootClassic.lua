@@ -3,11 +3,16 @@ AtlasLootClassicDB = {
 	["profileKeys"] = {
 		["Zlo - Thunderfury"] = "Zlo - Thunderfury",
 		["Zlobag - Faerlina"] = "Zlobag - Faerlina",
+		["Qqd - Faerlina"] = "Qqd - Faerlina",
 		["Zlo - Whitemane"] = "Zlo - Whitemane",
+		["Qqr - Faerlina"] = "Qqr - Faerlina",
+		["Qqh - Faerlina"] = "Qqh - Faerlina",
+		["Qqwa - Faerlina"] = "Qqwa - Faerlina",
+		["Ooq - Faerlina"] = "Ooq - Faerlina",
 		["Qqo - Faerlina"] = "Qqo - Faerlina",
 		["Zlo - Faerlina"] = "Zlo - Faerlina",
 		["Unlockl - Faerlina"] = "Unlockl - Faerlina",
-		["Ooq - Faerlina"] = "Ooq - Faerlina",
+		["Qqv - Faerlina"] = "Qqv - Faerlina",
 	},
 	["global"] = {
 		["__addonrevision"] = 99999999,
@@ -29,7 +34,35 @@ AtlasLootClassicDB = {
 				},
 			},
 		},
+		["Qqd - Faerlina"] = {
+		},
 		["Zlo - Whitemane"] = {
+		},
+		["Qqr - Faerlina"] = {
+		},
+		["Qqh - Faerlina"] = {
+		},
+		["Qqwa - Faerlina"] = {
+			["GUI"] = {
+				["selected"] = {
+					"AtlasLootClassic_Crafting", -- [1]
+					"Enchanting", -- [2]
+					2, -- [3]
+					1, -- [4]
+					0, -- [5]
+				},
+			},
+		},
+		["Ooq - Faerlina"] = {
+			["GUI"] = {
+				["selected"] = {
+					"AtlasLootClassic_Crafting", -- [1]
+					"Tailoring", -- [2]
+					2, -- [3]
+					1, -- [4]
+					1, -- [5]
+				},
+			},
 		},
 		["Qqo - Faerlina"] = {
 			["GUI"] = {
@@ -37,13 +70,13 @@ AtlasLootClassicDB = {
 					"RIGHT", -- [1]
 					nil, -- [2]
 					"RIGHT", -- [3]
-					-315.589111328125, -- [4]
-					89.4778671264649, -- [5]
+					-316, -- [4]
+					88.9999542236328, -- [5]
 				},
 				["selected"] = {
-					"AtlasLootClassic_Crafting", -- [1]
-					"Enchanting", -- [2]
-					2, -- [3]
+					nil, -- [1]
+					"Ragefire", -- [2]
+					nil, -- [3]
 					1, -- [4]
 					0, -- [5]
 				},
@@ -53,24 +86,24 @@ AtlasLootClassicDB = {
 			},
 		},
 		["Zlo - Faerlina"] = {
-			["minimap"] = {
-				["minimapPos"] = 186.057875100587,
-			},
 			["GUI"] = {
 				["point"] = {
-					"TOP", -- [1]
+					"LEFT", -- [1]
 					nil, -- [2]
-					"TOP", -- [3]
-					-29.0000076293945, -- [4]
-					-111.000045776367, -- [5]
+					"LEFT", -- [3]
+					148.168182373047, -- [4]
+					144.16227722168, -- [5]
 				},
 				["selected"] = {
-					"AtlasLootClassic_Crafting", -- [1]
-					"Enchanting", -- [2]
-					2, -- [3]
+					nil, -- [1]
+					"Maraudon", -- [2]
+					nil, -- [3]
 					1, -- [4]
 					0, -- [5]
 				},
+			},
+			["minimap"] = {
+				["minimapPos"] = 186.057875100587,
 			},
 		},
 		["Unlockl - Faerlina"] = {
@@ -78,16 +111,7 @@ AtlasLootClassicDB = {
 				["minimapPos"] = 176.475401521547,
 			},
 		},
-		["Ooq - Faerlina"] = {
-			["GUI"] = {
-				["selected"] = {
-					"AtlasLootClassic_Crafting", -- [1]
-					"Tailoring", -- [2]
-					11, -- [3]
-					1, -- [4]
-					0, -- [5]
-				},
-			},
+		["Qqv - Faerlina"] = {
 		},
 	},
 }

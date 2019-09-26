@@ -59,7 +59,7 @@ HealBot_Config = {
 	["CrashProtMacroName"] = "hbCrashProt",
 	["LastAutoSkinChangeType"] = "None",
 	["Profile"] = 1,
-	["LastAutoSkinChangeTime"] = 706999.042,
+	["LastAutoSkinChangeTime"] = 343916.19,
 	["BuffReset"] = "6.0.0",
 	["DisableHealBot"] = false,
 	["DisableSolo"] = false,
@@ -333,10 +333,10 @@ HealBot_Config_Cures = {
 	["IgnoreNonHarmfulDebuffs"] = true,
 	["IgnoreClassDebuffs"] = true,
 	["HealBot_Custom_Defuffs_All"] = {
-		["Disease"] = false,
-		["Poison"] = false,
-		["Magic"] = false,
 		["Curse"] = false,
+		["Disease"] = false,
+		["Magic"] = false,
+		["Poison"] = false,
 	},
 	["IgnoreFriendDebuffs"] = true,
 	["HealBot_CDCWarnRange_Bar"] = 3,
@@ -366,25 +366,25 @@ HealBot_Config_Cures = {
 		["32"] = 4,
 	},
 	["CDCBarColour"] = {
+		["Curse"] = {
+			["B"] = 0.09,
+			["G"] = 0.43,
+			["R"] = 0.83,
+		},
 		["Disease"] = {
 			["B"] = 0.7,
 			["G"] = 0.19,
 			["R"] = 0.55,
-		},
-		["Poison"] = {
-			["B"] = 0.24,
-			["G"] = 0.46,
-			["R"] = 0.12,
 		},
 		["Magic"] = {
 			["B"] = 0.83,
 			["G"] = 0.33,
 			["R"] = 0.26,
 		},
-		["Curse"] = {
-			["B"] = 0.09,
-			["G"] = 0.43,
-			["R"] = 0.83,
+		["Poison"] = {
+			["B"] = 0.24,
+			["G"] = 0.46,
+			["R"] = 0.12,
 		},
 	},
 	["HealBotDebuffPriority"] = {

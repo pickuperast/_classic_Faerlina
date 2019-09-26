@@ -3,6 +3,9 @@ GuidelimeDataChar = {
 	["mainFrameHeight"] = 400,
 	["showUnavailableSteps"] = true,
 	["guideSkip"] = {
+		["MarkyMark 1-5 Dun Morogh"] = {
+			[5] = true,
+		},
 	},
 	["arrowY"] = -20,
 	["arrowRelative"] = "TOP",
@@ -13,16 +16,18 @@ GuidelimeDataChar = {
 	["editorFrameY"] = 0,
 	["showCompletedSteps"] = false,
 	["mainFrameAlpha"] = 0.5,
-	["mainFrameFontSize"] = 14,
-	["arrowX"] = 0,
+	["currentGuide"] = "MarkyMark 1-5 Dun Morogh",
 	["mainFrameY"] = 0,
-	["editorFrameX"] = 0,
+	["arrowX"] = 0,
+	["mainFrameFontSize"] = 14,
+	["editorFrameRelative"] = "CENTER",
 	["showArrow"] = true,
-	["version"] = "1.005",
+	["guideSize"] = {
+		["MarkyMark 1-5 Dun Morogh"] = 34,
+	},
 	["arrowAlpha"] = 0.8,
 	["mainFrameShowing"] = true,
-	["editorFrameRelative"] = "CENTER",
+	["version"] = "1.005",
 	["mainFrameRelative"] = "RIGHT",
-	["guideSize"] = {
-	},
+	["editorFrameX"] = 0,
 }

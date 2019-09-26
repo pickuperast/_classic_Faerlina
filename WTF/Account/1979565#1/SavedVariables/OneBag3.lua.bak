@@ -8,6 +8,7 @@ OneBag3DB = {
 		["Zlo - Thunderfury"] = "Zlo - Thunderfury",
 		["Zlo - Faerlina"] = "Zlo - Faerlina",
 		["Unlockl - Faerlina"] = "Unlockl - Faerlina",
+		["Zlo - Whitemane"] = "Zlo - Whitemane",
 	},
 	["profiles"] = {
 		["Zlo - Thunderfury"] = {
@@ -20,6 +21,8 @@ OneBag3DB = {
 			["moved"] = true,
 		},
 		["Unlockl - Faerlina"] = {
+		},
+		["Zlo - Whitemane"] = {
 		},
 	},
 }

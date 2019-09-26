@@ -23,6 +23,11 @@ OneBag3DB = {
 		["Unlockl - Faerlina"] = {
 		},
 		["Zlo - Whitemane"] = {
+			["position"] = {
+				["top"] = 336.72509765625,
+				["left"] = 1862.48693847656,
+			},
+			["moved"] = true,
 		},
 	},
 }

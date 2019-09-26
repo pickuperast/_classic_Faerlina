@@ -158,7 +158,10 @@ GuidelimeDataChar = {
 	["arrowX"] = -27.3822212219238,
 	["mainFrameFontSize"] = 14,
 	["showArrow"] = true,
+	["version"] = "1.005",
 	["editorFrameRelative"] = "CENTER",
+	["arrowAlpha"] = 0.8,
+	["mainFrameShowing"] = true,
 	["guideSize"] = {
 		["Bustea's Horde Leveling guide 1-6 Freezy3 Undead Starter"] = 38,
 		["Tactics/Sevenleaves' Leveling Guide 28-31 Thousand Needles"] = 41,
@@ -171,9 +174,6 @@ GuidelimeDataChar = {
 		["Tactics/Sevenleaves' Leveling Guide 26-28 Ashenvale & BFD Solo"] = 36,
 		["Bustea's Horde Leveling guide 21-31 Bustea's Horde Guide"] = 170,
 	},
-	["arrowAlpha"] = 0.8,
-	["mainFrameShowing"] = true,
-	["version"] = "1.005",
 	["mainFrameRelative"] = "RIGHT",
 	["editorFrameX"] = 0,
 }

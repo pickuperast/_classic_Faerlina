@@ -17,7 +17,7 @@ VER 3 0000000000000009 "hbCrashProt_0" "Spell_Holy_SealOfSacrifice"
 1:H:1:1:Group:
 END
 VER 3 0000000000000008 "hbCrashProt_1" "Spell_Holy_SealOfSacrifice"
-Ooq:p:ayer-4408-01371406:1:
+Qqh:p:ayer-4408-013936B4:1:
 END
 VER 3 0000000000000001 "sad" "INV_MISC_QUESTIONMARK"
 /castsequence [@target,exist,nodead] reset=target Shadow Word: Pain, Power Word: Shield, Holy Fire, Mind Blast, Shoot
@@ -30,5 +30,5 @@ VER 3 0000000000000002 "sss" "INV_MISC_QUESTIONMARK"
 /castsequence reset=target Smite, Mind Blast, Shadow Word: Pain, Attack
 END
 VER 3 0000000000000005 "STRTATK" "132150"
-/4 LF2DD SM CATH
+/4 need tank ZF full clear
 END

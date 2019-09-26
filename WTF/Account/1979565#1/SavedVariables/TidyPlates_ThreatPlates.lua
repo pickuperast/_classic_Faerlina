@@ -7,7 +7,22 @@ ThreatPlatesDB = {
 		["Zlobag - Faerlina"] = {
 			["welcome"] = true,
 		},
+		["Qqd - Faerlina"] = {
+			["welcome"] = true,
+		},
 		["Zlo - Whitemane"] = {
+			["welcome"] = true,
+		},
+		["Qqr - Faerlina"] = {
+			["welcome"] = true,
+		},
+		["Qqh - Faerlina"] = {
+			["welcome"] = true,
+		},
+		["Qqwa - Faerlina"] = {
+			["welcome"] = true,
+		},
+		["Ooq - Faerlina"] = {
 			["welcome"] = true,
 		},
 		["Qqo - Faerlina"] = {
@@ -19,7 +34,7 @@ ThreatPlatesDB = {
 		["Unlockl - Faerlina"] = {
 			["welcome"] = true,
 		},
-		["Ooq - Faerlina"] = {
+		["Qqv - Faerlina"] = {
 			["welcome"] = true,
 		},
 	},
@@ -29,11 +44,16 @@ ThreatPlatesDB = {
 	["profileKeys"] = {
 		["Zlo - Thunderfury"] = "Default",
 		["Zlobag - Faerlina"] = "Default",
+		["Qqd - Faerlina"] = "Default",
 		["Zlo - Whitemane"] = "Default",
+		["Qqr - Faerlina"] = "Default",
+		["Qqh - Faerlina"] = "Default",
+		["Qqwa - Faerlina"] = "Default",
+		["Ooq - Faerlina"] = "Default",
 		["Qqo - Faerlina"] = "Default",
 		["Zlo - Faerlina"] = "Default",
 		["Unlockl - Faerlina"] = "Default",
-		["Ooq - Faerlina"] = "Default",
+		["Qqv - Faerlina"] = "Default",
 	},
 	["profiles"] = {
 		["Default"] = {

@@ -7,6 +7,7 @@ General 0 1 0
 Trade 0 2 0
 LocalDefense 0 3 0
 world 1 4 0
+Portal 1 5 0
 END
 
 ZONECHANNELS 0
@@ -161,6 +162,7 @@ END
 
 CHANNELS
 world
+Portal
 END
 
 ZONECHANNELS 2097155
