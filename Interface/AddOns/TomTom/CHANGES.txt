@@ -1,0 +1,10 @@
+lightweight tag daebb70a28dfe1a802951205ffd2437ee3302bec v80200-1.0.7
+Author:	Ludovicus <ludovicus.maior@gmail.com>
+Date:	Sun Aug 25 15:13:26 2019 -0400
+
+commit daebb70a28dfe1a802951205ffd2437ee3302bec
+Author: Ludovicus <ludovicus.maior@gmail.com>
+Date:   Sun Aug 25 15:13:26 2019 -0400
+
+    Switch interface to Retail.
+
